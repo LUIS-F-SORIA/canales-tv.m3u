@@ -6,13 +6,6 @@
 - <img src="https://i.postimg.cc/rpBvjp1h/git-Aico.png" width="25"/> **Url lista TV_ONLINE**:  https://bit.ly/4dTnNg1
 - **Nota**: Enlaces fijos de GITHUB como antes para dinamizar las actualizaciones en sus horarios.
 ### PROYECTO DE CANALES DIGITALES 2026
-![](https://i.ibb.co/4ZtfLChQ/cabeza01.png)
-
-![](https://i.ibb.co/ymB7mXBL/01EST.png)
-### CANALES DIGITALES DE BOLIVIA 
-![](https://i.postimg.cc/X7sZNxDG/01BOL.png)![](https://i.ibb.co/v6yjnH0F/chbol.png)![](https://i.postimg.cc/tTfjmZBB/03BOL.png)
-- Fecha de actualizacion:  **27 de mayo 2026** canales en vivo de bolivia
-- **Se elimino el canal UNITEL BOLIVIA por no tener señal abierta y otros, canales internacionales PREMIUM Y DEPORTES se quitaron por cambiar a enlaces dinamicos los cuales no se pueden usar**
 
 ### Horarios de actualizacion de lista de canales:
 - De lunes y viernes 16:15 p.m y 19:15 p.m
