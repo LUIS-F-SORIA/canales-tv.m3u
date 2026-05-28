@@ -1,268 +1,112 @@
-#EXTM3U
+<img src="https://i.postimg.cc/DwFPWyXK/imagen-para-listas.png" width="360"/>
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/J0Yv7Yqn/DS1.jpg" group-title="ARGENTINA",DIRECTV SPORTS ONLINE
-http://201.230.121.85:8000/play/a0yv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/J0Yv7Yqn/DS1.jpg",DIRECTV SPORTS SUR
-http://190.117.20.37:8000/play/a08d/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/J0Yv7Yqn/DS1.jpg" group-title="ARGENTINA",DIRECTV SPORTS SUR
-http://190.117.20.39:8000/play/a08d/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/J0Yv7Yqn/DS1.jpg" group-title="ARGENTINA",DIRECTV URUGUAY
-http://147.135.114.221:8001/play/a00m/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/vmXZm635/dsports.jpg" group-title="ARGENTINA",DIRECTV +
-https://tecnotv.club/21e5/phpcode/deportesla14hd.php?stream=dsportsplus&token=tecnotokenplustv230516F
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Th8Rsj3d/dsports2.jpg" group-title="ARGENTINA",DIRECTV 2
-https://tecnotv.club/21e5/phpcode/deportesla14hd.php?stream=dsports2&token=tecnotokenplustv230516F
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/j2V57d9S/Tycxi.jpg" group-title="ARGENTINA",TyC INTERNACIONAL HD
-https://tecnotv.club/21e5/phpcode/deportesla14hd.php?stream=tycsports&token=tecnotokenplustv230516F
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Ss2dFgCZ/Sky-Sports.png" group-title="ARGENTINA",SKY SPORT
-http://190.14.10.19:16000/play/a09u/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/s2PLGgcL/ESPS1.jpg" group-title="ARGENTINA",ESPN SUR AR
-http://45.173.74.2:2010/play/a08a/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/s2PLGgcL/ESPS1.jpg" group-title="ARGENTINA",ESPN SUR AR
-http://181.118.156.46:8000/play/a04g/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/s2PLGgcL/ESPS1.jpg" group-title="ARGENTINA",ESPN SUR AR 2
-http://191.97.49.82:8001/play/a00m/index.m3u
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/s2PLGgcL/ESPS1.jpg" group-title="ARGENTINA",ESPN SUR AR 2
-http://200.10.30.241:8000/play/a01r/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1RFDZZGQ/ESPN.png" group-title="ARGENTINA",ESPN 2
-http://190.60.49.242:4000/play/a0jt/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1RFDZZGQ/ESPN.png" group-title="ARGENTINA",ESPN 3
-http://190.60.49.242:4000/play/a0jm/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1RFDZZGQ/ESPN.png" group-title="ARGENTINA",ESPN 4
-http://190.60.49.242:4000/play/a0qh/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1RFDZZGQ/ESPN.png" group-title="ARGENTINA",ESPN 5
-http://190.60.49.242:4000/play/a0ji/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1RFDZZGQ/ESPN.png" group-title="ARGENTINA",ESPN 6
-http://190.60.49.242:4000/play/a0qg/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1RFDZZGQ/ESPN.png" group-title="ARGENTINA",ESPN 7
-http://190.60.49.242:4000/play/a0kp/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/XvZtjJ7S/TNTSports-Premium.jpg" group-title="ARGENTINA",TNT PREMIUN HD
-https://tecnotv.club/21e5/phpcode/deportesla14hd.php?stream=tntsports&token=tecnotokenplustv230516F
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/52c7mWcP/FOX-SPORT-AR.png" group-title="ARGENTINA",FOX SPORTS AR
-http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wxCRfSym/espn-premium.jpg" group-title="ARGENTINA",ESPN PREMIUN
-https://tecnotv.club/21e5/phpcode/deportesla14hd.php?stream=espnpremium&token=tecnotokenplustv230516F
- 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rpPmbLQP/TELEFE-HD-ARG.png",TELEFE AR
-http://45.225.40.206:12080/Live/eab080bb8da84db1cd89ee8233571041/telefe.playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rpPmbLQP/TELEFE-HD-ARG.png",TELEFE AR 2
-http://45.225.40.206:12080/Live/eab080bb8da84db1cd89ee8233571041/telefe.playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rpPmbLQP/TELEFE-HD-ARG.png",TELEFE AR 3
-http://45.225.40.206:12080/Live/eab080bb8da84db1cd89ee8233571041/telefe.playlist.m3u8
- 
-#EXTINF:-1 tvg-id="TYC SPORTS.ar" tvg-name="ARG | TYC SPORTS HD    *lt" tvg-logo="http://visualservice.xyz:80/images/a3929ff1f9f4affebf1e59f5db46b938.png" group-title="ARGENTINA",ARG | TYC SPORTS HD    *lt
-http://soporte-visual2.com:8080/live/Maik6@m*7D/N3ZB9J@/338312.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ARG: AMERICA 24" tvg-logo="https://docdog.top/logo/countries/argentina/america24.png" group-title="LAME | ARGENTINA VIP",ARG: AMERICA 24
-http://voojtrvootp.top:8080/VIP0116172561325396/7a8888d9b364/4722
-#EXTINF:-1 tvg-id="" tvg-name="ARG: AMERICA TV" tvg-logo="https://docdog.top/logo/countries/argentina/americatv.png" group-title="LAME | ARGENTINA VIP",ARG: AMERICA TV
-http://voojtrvootp.top:8080/VIP0116172561325396/7a8888d9b364/4723
-#EXTINF:-1 tvg-id="" tvg-name="ARG: ARGENTINISIMA" tvg-logo="https://docdog.top/logo/countries/argentina/ARGENTINISIMA.png" group-title="LAME | ARGENTINA VIP",ARG: ARGENTINISIMA
-http://voojtrvootp.top:8080/VIP0116172561325396/7a8888d9b364/4724
-#EXTINF:-1 tvg-id="" tvg-name="ARG: AXN" tvg-logo="https://docdog.top/logo/countries/argentina/axn.png" group-title="LAME | ARGENTINA VIP",ARG: AXN
-http://voojtrvootp.top:8080/VIP0116172561325396/7a8888d9b364/4725
-#EXTINF:-1 tvg-id="" tvg-name="ARG: BABY TV" tvg-logo="https://docdog.top/logo/countries/argentina/babytv.png" group-title="LAME | ARGENTINA VIP",ARG: BABY TV
-http://voojtrvootp.top:8080/VIP0116172561325396/7a8888d9b364/4726
-#EXTINF:-1 tvg-id="" tvg-name="ARG: BOOMERANG" tvg-logo="https://docdog.top/logo/countries/argentina/boomeranglow.png" group-title="LAME | ARGENTINA VIP",ARG: BOOMERANG
-http://voojtrvootp.top:8080/VIP0116172561325396/7a8888d9b364/4727
-#EXTINF:-1 tvg-id="" tvg-name="ARG: C5N" tvg-logo="https://docdog.top/logo/countries//argentina/c5n-ar.png" group-title="LAME | ARGENTINA VIP",ARG: C5N
-http://voojtrvootp.top:8080/VIP0116172561325396/7a8888d9b364/4728
-#EXTINF:-1 tvg-id="" tvg-name="ARG: EL TRECE (CANAL 13)" tvg-logo="https://docdog.top/logo/countries/argentina/CANAL.png" group-title="LAME | ARGENTINA VIP",ARG: EL TRECE (CANAL 13)
-http://voojtrvootp.top:8080/VIP0116172561325396/7a8888d9b364/4729
-#EXTINF:-1 tvg-id="" tvg-name="ARG: CANAL 21" tvg-logo="https://docdog.top/logo/countries/argentina/CANAL21.png" group-title="LAME | ARGENTINA VIP",ARG: CANAL 21
-http://voojtrvootp.top:8080/VIP0116172561325396/7a8888d9b364/4730
-#EXTINF:-1 tvg-id="" tvg-name="ARG: CANAL 26" tvg-logo="https://docdog.top/logo/countries/argentina/CANAL26.png" group-title="LAME | ARGENTINA VIP",ARG: CANAL 26
-http://voojtrvootp.top:8080/VIP0116172561325396/7a8888d9b364/4731
-#EXTINF:-1 tvg-id="" tvg-name="ARG: CANAL 26 NOTICIAS" tvg-logo="https://docdog.top/logo/countries//argentina/canal-26-ar.png" group-title="LAME | ARGENTINA VIP",ARG: CANAL 26 NOTICIAS
-http://voojtrvootp.top:8080/VIP0116172561325396/7a8888d9b364/4732
-#EXTINF:-1 tvg-id="" tvg-name="ARG: CANAL 4" tvg-logo="https://docdog.top/logo/countries//argentina/canal-4-ar.png" group-title="LAME | ARGENTINA VIP",ARG: CANAL 4
-http://voojtrvootp.top:8080/VIP0116172561325396/7a8888d9b364/4733
-#EXTINF:-1 tvg-id="" tvg-name="ARG: EL NUEVE (CANAL 9)" tvg-logo="https://docdog.top/logo/countries/argentina/CANAL9.png" group-title="LAME | ARGENTINA VIP",ARG: EL NUEVE (CANAL 9)
-http://voojtrvootp.top:8080/VIP0116172561325396/7a8888d9b364/4734
-#EXTINF:-1 tvg-id="" tvg-name="ARG: CANAL 9 SALTA" tvg-logo="https://docdog.top/logo/countries/argentina/CANALSALTA.jpg" group-title="LAME | ARGENTINA VIP",ARG: CANAL 9 SALTA
-http://voojtrvootp.top:8080/VIP0116172561325396/7a8888d9b364/4735
-#EXTINF:-1 tvg-id="" tvg-name="ARG: CANAL DE LA CIUDAD" tvg-logo="https://docdog.top/logo/countries/argentina/CANALDELACIUDAD.jpg" group-title="LAME | ARGENTINA VIP",ARG: CANAL DE LA CIUDAD
-http://voojtrvootp.top:8080/VIP0116172561325396/7a8888d9b364/4736
-#EXTINF:-1 tvg-id="" tvg-name="ARG: CANAL DE LA MUSICA" tvg-logo="https://docdog.top/logo/countries/argentina/CANALDELAMUSICA.jpg" group-title="LAME | ARGENTINA VIP",ARG: CANAL DE LA MUSICA
-http://voojtrvootp.top:8080/VIP0116172561325396/7a8888d9b364/4737
-#EXTINF:-1 tvg-id="" tvg-name="ARG: CARTOON NETWORK" tvg-logo="https://docdog.top/logo/countries/argentina/cartoonnetworkwest.png" group-title="LAME | ARGENTINA VIP",ARG: CARTOON NETWORK
-http://voojtrvootp.top:8080/VIP0116172561325396/7a8888d9b364/4738
-#EXTINF:-1 tvg-id="" tvg-name="ARG: CINEAR" tvg-logo="https://docdog.top/logo/countries//argentina/cine-ar-ar.png" group-title="LAME | ARGENTINA VIP",ARG: CINEAR
-http://voojtrvootp.top:8080/VIP0116172561325396/7a8888d9b364/4739
-#EXTINF:-1 tvg-id="" tvg-name="ARG: CINECANAL" tvg-logo="https://docdog.top/logo/countries/argentina/cinecanal.png" group-title="LAME | ARGENTINA VIP",ARG: CINECANAL
-http://voojtrvootp.top:8080/VIP0116172561325396/7a8888d9b364/4740
-#EXTINF:-1 tvg-id="" tvg-name="ARG: CINEMAX" tvg-logo="https://docdog.top/logo/countries/argentina/cinemax.png" group-title="LAME | ARGENTINA VIP",ARG: CINEMAX
-http://voojtrvootp.top:8080/VIP0116172561325396/7a8888d9b364/4741
-#EXTINF:-1 tvg-id="" tvg-name="ARG: CIUDAD MAGAZINE" tvg-logo="https://docdog.top/logo/countries/argentina/ciudadmagazine.png" group-title="LAME | ARGENTINA VIP",ARG: CIUDAD MAGAZINE
-http://voojtrvootp.top:8080/VIP0116172561325396/7a8888d9b364/4742
-#EXTINF:-1 tvg-id="" tvg-name="ARG: CNN" tvg-logo="https://docdog.top/logo/countries/argentina/cnnespanol.png" group-title="LAME | ARGENTINA VIP",ARG: CNN
-http://voojtrvootp.top:8080/VIP0116172561325396/7a8888d9b364/4743
-#EXTINF:-1 tvg-id="" tvg-name="ARG: CNN EN ESPANIOL" tvg-logo="https://docdog.top/logo/countries//argentina/cnn-en-espanol-ar.png" group-title="LAME | ARGENTINA VIP",ARG: CNN EN ESPANIOL
-http://voojtrvootp.top:8080/VIP0116172561325396/7a8888d9b364/4744
-#EXTINF:-1 tvg-id="" tvg-name="ARG: COMEDY" tvg-logo="https://docdog.top/logo/countries/argentina/KSCOMEDY.jpg" group-title="LAME | ARGENTINA VIP",ARG: COMEDY
-http://voojtrvootp.top:8080/VIP0116172561325396/7a8888d9b364/4745
-#EXTINF:-1 tvg-id="" tvg-name="ARG: CRONICA" tvg-logo="https://docdog.top/logo/countries/argentina/cronica-hd-ar.png" group-title="LAME | ARGENTINA VIP",ARG: CRONICA
-http://voojtrvootp.top:8080/VIP0116172561325396/7a8888d9b364/4746
-#EXTINF:-1 tvg-id="" tvg-name="ARG: DEPORTV FHD" tvg-logo="https://docdog.top/logo/countries/argentina/DEPORTVF.png" group-title="LAME | ARGENTINA VIP",ARG: DEPORTV FHD
-http://voojtrvootp.top:8080/VIP0116172561325396/7a8888d9b364/4747
-#EXTINF:-1 tvg-id="" tvg-name="ARG: DIRECTV SPORTS" tvg-logo="https://docdog.top/logo/countries/argentina/directvsports.png" group-title="LAME | ARGENTINA VIP",ARG: DIRECTV SPORTS
-http://voojtrvootp.top:8080/VIP0116172561325396/7a8888d9b364/4748
-#EXTINF:-1 tvg-id="" tvg-name="ARG: DIRECTV SPORTS +" tvg-logo="https://docdog.top/logo/countries/argentina/DIRECTVSPORTS+.png" group-title="LAME | ARGENTINA VIP",ARG: DIRECTV SPORTS +
-http://voojtrvootp.top:8080/VIP0116172561325396/7a8888d9b364/4749
-#EXTINF:-1 tvg-id="" tvg-name="ARG: DIRECTV SPORTS 2" tvg-logo="https://docdog.top/logo/countries/argentina/directvsports2.png" group-title="LAME | ARGENTINA VIP",ARG: DIRECTV SPORTS 2
-http://voojtrvootp.top:8080/VIP0116172561325396/7a8888d9b364/4750
-#EXTINF:-1 tvg-id="" tvg-name="ARG: DISNEY" tvg-logo="https://asiagrandiptv.us/logo/disneychannel.png" group-title="LAME | ARGENTINA VIP",ARG: DISNEY
-http://voojtrvootp.top:8080/VIP0116172561325396/7a8888d9b364/4751
-#EXTINF:-1 tvg-id="" tvg-name="ARG: DISNEY JUNIOR" tvg-logo="https://asiagrandiptv.us/logo/disneyjunior.png" group-title="LAME | ARGENTINA VIP",ARG: DISNEY JUNIOR
-http://voojtrvootp.top:8080/VIP0116172561325396/7a8888d9b364/4752
-#EXTINF:-1 tvg-id="" tvg-name="ARG: DISNEY XD" tvg-logo="https://asiagrandiptv.us/logo/disneyxd.png" group-title="LAME | ARGENTINA VIP",ARG: DISNEY XD
-http://voojtrvootp.top:8080/VIP0116172561325396/7a8888d9b364/4753
-#EXTINF:-1 tvg-id="" tvg-name="ARG: DW" tvg-logo="https://docdog.top/logo/countries/argentina/dw.png" group-title="LAME | ARGENTINA VIP",ARG: DW
-http://voojtrvootp.top:8080/VIP0116172561325396/7a8888d9b364/4754
-#EXTINF:-1 tvg-id="" tvg-name="ARG: E!" tvg-logo="https://docdog.top/logo/countries/argentina/E!.png" group-title="LAME | ARGENTINA VIP",ARG: E!
-http://voojtrvootp.top:8080/VIP0116172561325396/7a8888d9b364/4755
-#EXTINF:-1 tvg-id="" tvg-name="ARG: ENCUENTRO" tvg-logo="https://docdog.top/logo/countries/argentina/encuentro.png" group-title="LAME | ARGENTINA VIP",ARG: ENCUENTRO
-http://voojtrvootp.top:8080/VIP0116172561325396/7a8888d9b364/4756
-#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN" tvg-logo="https://docdog.top/logo/countries//argentina/espn-ar.png" group-title="LAME | ARGENTINA VIP",ARG: ESPN
-http://voojtrvootp.top:8080/VIP0116172561325396/7a8888d9b364/4757
-#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN 2" tvg-logo="https://docdog.top/logo/countries//argentina/espn-2-ar.png" group-title="LAME | ARGENTINA VIP",ARG: ESPN 2
-http://voojtrvootp.top:8080/VIP0116172561325396/7a8888d9b364/4758
-#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN 3" tvg-logo="https://docdog.top/logo/countries//argentina/espn-3-ar.png" group-title="LAME | ARGENTINA VIP",ARG: ESPN 3
-http://voojtrvootp.top:8080/VIP0116172561325396/7a8888d9b364/4759
-#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN+" tvg-logo="https://docdog.top/logo/countries//argentina/espn-ar.png" group-title="LAME | ARGENTINA VIP",ARG: ESPN+
-http://voojtrvootp.top:8080/VIP0116172561325396/7a8888d9b364/4760
-#EXTINF:-1 tvg-id="" tvg-name="ARG: EUROPA" tvg-logo="https://docdog.top/logo/countries//argentina/europa-europa-ar.png" group-title="LAME | ARGENTINA VIP",ARG: EUROPA
-http://voojtrvootp.top:8080/VIP0116172561325396/7a8888d9b364/4761
-#EXTINF:-1 tvg-id="" tvg-name="ARG: FILM &AMP; ARTS" tvg-logo="https://docdog.top/logo/countries//argentina/film-and-arts-ar.png" group-title="LAME | ARGENTINA VIP",ARG: FILM &AMP; ARTS
-http://voojtrvootp.top:8080/VIP0116172561325396/7a8888d9b364/4762
-#EXTINF:-1 tvg-id="" tvg-name="ARG: FOX NEWS" tvg-logo="https://docdog.top/logo/countries/argentina/foxnews.png" group-title="LAME | ARGENTINA VIP",ARG: FOX NEWS
-http://voojtrvootp.top:8080/VIP0116172561325396/7a8888d9b364/4763
-#EXTINF:-1 tvg-id="" tvg-name="ARG: FOX SPORTS 1" tvg-logo="https://asiagrandiptv.us/logo/foxsports.png" group-title="LAME | ARGENTINA VIP",ARG: FOX SPORTS 1
-http://voojtrvootp.top:8080/VIP0116172561325396/7a8888d9b364/4764
-#EXTINF:-1 tvg-id="" tvg-name="ARG: FOX SPORTS 2" tvg-logo="https://asiagrandiptv.us/logo/foxsport2.png" group-title="LAME | ARGENTINA VIP",ARG: FOX SPORTS 2
-http://voojtrvootp.top:8080/VIP0116172561325396/7a8888d9b364/4765
-#EXTINF:-1 tvg-id="" tvg-name="ARG: FOX SPORTS 3" tvg-logo="https://docdog.top/logo/countries//argentina/fox-sports-3-ar.png" group-title="LAME | ARGENTINA VIP",ARG: FOX SPORTS 3
-http://voojtrvootp.top:8080/VIP0116172561325396/7a8888d9b364/4766
-#EXTINF:-1 tvg-id="" tvg-name="ARG: FOX SPORTS PREMIUM" tvg-logo="https://docdog.top/logo/countries//argentina/fox-sports-premium-ar.png" group-title="LAME | ARGENTINA VIP",ARG: FOX SPORTS PREMIUM
-http://voojtrvootp.top:8080/VIP0116172561325396/7a8888d9b364/4767
-#EXTINF:-1 tvg-id="" tvg-name="ARG: FX" tvg-logo="https://docdog.top/logo/countries//argentina/fx-ar.png" group-title="LAME | ARGENTINA VIP",ARG: FX
-http://voojtrvootp.top:8080/VIP0116172561325396/7a8888d9b364/4768
-#EXTINF:-1 tvg-id="" tvg-name="ARG: GARAGE" tvg-logo="https://docdog.top/logo/countries/argentina/garagetv.png" group-title="LAME | ARGENTINA VIP",ARG: GARAGE
-http://voojtrvootp.top:8080/VIP0116172561325396/7a8888d9b364/4769
-#EXTINF:-1 tvg-id="" tvg-name="ARG: GLITZ" tvg-logo="https://docdog.top/logo/countries//argentina/glitz-ar.png" group-title="LAME | ARGENTINA VIP",ARG: GLITZ
-http://voojtrvootp.top:8080/VIP0116172561325396/7a8888d9b364/4770
-#EXTINF:-1 tvg-id="" tvg-name="ARG: GOLF CHANNEL" tvg-logo="https://docdog.top/logo/countries//argentina/golf-channel-ar.png" group-title="LAME | ARGENTINA VIP",ARG: GOLF CHANNEL
-http://voojtrvootp.top:8080/VIP0116172561325396/7a8888d9b364/4771
-#EXTINF:-1 tvg-id="" tvg-name="ARG: GOURMET" tvg-logo="https://docdog.top/logo/countries//argentina/el-gourmet-ar.png" group-title="LAME | ARGENTINA VIP",ARG: GOURMET
-http://voojtrvootp.top:8080/VIP0116172561325396/7a8888d9b364/4772
-#EXTINF:-1 tvg-id="" tvg-name="ARG: H2" tvg-logo="https://docdog.top/logo/countries/argentina/H2.jpg" group-title="LAME | ARGENTINA VIP",ARG: H2
-http://voojtrvootp.top:8080/VIP0116172561325396/7a8888d9b364/4773
-#EXTINF:-1 tvg-id="" tvg-name="ARG: HBO" tvg-logo="https://docdog.top/logo/countries//argentina/hbo-ar.png" group-title="LAME | ARGENTINA VIP",ARG: HBO
-http://voojtrvootp.top:8080/VIP0116172561325396/7a8888d9b364/4774
-#EXTINF:-1 tvg-id="" tvg-name="ARG: HBO 2" tvg-logo="https://docdog.top/logo/countries//argentina/hbo-2-ar.png" group-title="LAME | ARGENTINA VIP",ARG: HBO 2
-http://voojtrvootp.top:8080/VIP0116172561325396/7a8888d9b364/4775
-#EXTINF:-1 tvg-id="" tvg-name="ARG: HBO FAMILY" tvg-logo="https://docdog.top/logo/countries//argentina/hbo-family-ar.png" group-title="LAME | ARGENTINA VIP",ARG: HBO FAMILY
-http://voojtrvootp.top:8080/VIP0116172561325396/7a8888d9b364/4776
-#EXTINF:-1 tvg-id="" tvg-name="ARG: HBO SIGNATURE" tvg-logo="https://docdog.top/logo/countries//argentina/hbo-signature-ar.png" group-title="LAME | ARGENTINA VIP",ARG: HBO SIGNATURE
-http://voojtrvootp.top:8080/VIP0116172561325396/7a8888d9b364/4777
-#EXTINF:-1 tvg-id="" tvg-name="ARG: HISTORY" tvg-logo="https://docdog.top/logo/countries//argentina/history-channel-ar.png" group-title="LAME | ARGENTINA VIP",ARG: HISTORY
-http://voojtrvootp.top:8080/VIP0116172561325396/7a8888d9b364/4778
-#EXTINF:-1 tvg-id="" tvg-name="ARG: HTV" tvg-logo="https://docdog.top/logo/countries//argentina/htv-ar.png" group-title="LAME | ARGENTINA VIP",ARG: HTV
-http://voojtrvootp.top:8080/VIP0116172561325396/7a8888d9b364/4779
-#EXTINF:-1 tvg-id="" tvg-name="ARG: LIFETIME" tvg-logo="https://docdog.top/logo/countries//argentina/lifetime-ar.png" group-title="LAME | ARGENTINA VIP",ARG: LIFETIME
-http://voojtrvootp.top:8080/VIP0116172561325396/7a8888d9b364/4780
-#EXTINF:-1 tvg-id="" tvg-name="ARG: LN" tvg-logo="https://docdog.top/logo/countries/argentina/LN.jpg" group-title="LAME | ARGENTINA VIP",ARG: LN
-http://voojtrvootp.top:8080/VIP0116172561325396/7a8888d9b364/4781
-#EXTINF:-1 tvg-id="" tvg-name="ARG: MAS CHIC" tvg-logo="https://docdog.top/logo/countries//argentina/mas-chic-ar.png" group-title="LAME | ARGENTINA VIP",ARG: MAS CHIC
-http://voojtrvootp.top:8080/VIP0116172561325396/7a8888d9b364/4782
-#EXTINF:-1 tvg-id="" tvg-name="ARG: HBO Mundi" tvg-logo="" group-title="LAME | ARGENTINA VIP",ARG: HBO Mundi
-http://voojtrvootp.top:8080/VIP0116172561325396/7a8888d9b364/4783
-#EXTINF:-1 tvg-id="" tvg-name="ARG: HBO XTREME" tvg-logo="" group-title="LAME | ARGENTINA VIP",ARG: HBO XTREME
-http://voojtrvootp.top:8080/VIP0116172561325396/7a8888d9b364/4784
-#EXTINF:-1 tvg-id="" tvg-name="ARG: MAX UP" tvg-logo="https://docdog.top/logo/countries/argentina/maxup.png" group-title="LAME | ARGENTINA VIP",ARG: MAX UP
-http://voojtrvootp.top:8080/VIP0116172561325396/7a8888d9b364/4785
-#EXTINF:-1 tvg-id="" tvg-name="ARG: METRO" tvg-logo="https://docdog.top/logo/countries//argentina/metro-ar.png" group-title="LAME | ARGENTINA VIP",ARG: METRO
-http://voojtrvootp.top:8080/VIP0116172561325396/7a8888d9b364/4786
-#EXTINF:-1 tvg-id="" tvg-name="ARG: MTV" tvg-logo="https://docdog.top/logo/countries//argentina/mtv-ar.png" group-title="LAME | ARGENTINA VIP",ARG: MTV
-http://voojtrvootp.top:8080/VIP0116172561325396/7a8888d9b364/4787
-#EXTINF:-1 tvg-id="" tvg-name="ARG: MTV HITS" tvg-logo="https://docdog.top/logo/countries//argentina/mtv-hits-ar.png" group-title="LAME | ARGENTINA VIP",ARG: MTV HITS
-http://voojtrvootp.top:8080/VIP0116172561325396/7a8888d9b364/4788
-#EXTINF:-1 tvg-id="" tvg-name="ARG: MUCH MUSIC" tvg-logo="https://docdog.top/logo/countries/argentina/muchmusic.png" group-title="LAME | ARGENTINA VIP",ARG: MUCH MUSIC
-http://voojtrvootp.top:8080/VIP0116172561325396/7a8888d9b364/4789
-#EXTINF:-1 tvg-id="" tvg-name="ARG: MUSIC TOP" tvg-logo="https://docdog.top/logo/countries/argentina/musictop.png" group-title="LAME | ARGENTINA VIP",ARG: MUSIC TOP
-http://voojtrvootp.top:8080/VIP0116172561325396/7a8888d9b364/4790
-#EXTINF:-1 tvg-id="" tvg-name="ARG: NAT GEO" tvg-logo="https://docdog.top/logo/countries//argentina/nat-geo-kids-ar.png" group-title="LAME | ARGENTINA VIP",ARG: NAT GEO
-http://voojtrvootp.top:8080/VIP0116172561325396/7a8888d9b364/4791
-#EXTINF:-1 tvg-id="" tvg-name="ARG: NICKELODEON" tvg-logo="https://docdog.top/logo/countries//argentina/nickelodeon-ar.png" group-title="LAME | ARGENTINA VIP",ARG: NICKELODEON
-http://voojtrvootp.top:8080/VIP0116172561325396/7a8888d9b364/4792
-#EXTINF:-1 tvg-id="" tvg-name="ARG: NICKELODEON JR" tvg-logo="https://docdog.top/logo/countries//argentina/nickelodeon-ar.png" group-title="LAME | ARGENTINA VIP",ARG: NICKELODEON JR
-http://voojtrvootp.top:8080/VIP0116172561325396/7a8888d9b364/4793
-#EXTINF:-1 tvg-id="" tvg-name="ARG: PAKA PAKA" tvg-logo="https://docdog.top/logo/countries//argentina/pakapaka-ar.png" group-title="LAME | ARGENTINA VIP",ARG: PAKA PAKA
-http://voojtrvootp.top:8080/VIP0116172561325396/7a8888d9b364/4794
-#EXTINF:-1 tvg-id="" tvg-name="ARG: PARAMOUNT" tvg-logo="https://docdog.top/logo/countries//argentina/paramount-network-ar.png" group-title="LAME | ARGENTINA VIP",ARG: PARAMOUNT
-http://voojtrvootp.top:8080/VIP0116172561325396/7a8888d9b364/4795
-#EXTINF:-1 tvg-id="" tvg-name="ARG: PX SPORTS" tvg-logo="https://asiagrandiptv.us/logo/pxsports.png" group-title="LAME | ARGENTINA VIP",ARG: PX SPORTS
-http://voojtrvootp.top:8080/VIP0116172561325396/7a8888d9b364/4796
-#EXTINF:-1 tvg-id="" tvg-name="ARG: QUIERO MUSICA" tvg-logo="https://docdog.top/logo/countries//argentina/quiero-musica-en-mi-idioma-ar.png" group-title="LAME | ARGENTINA VIP",ARG: QUIERO MUSICA
-http://voojtrvootp.top:8080/VIP0116172561325396/7a8888d9b364/4797
-#EXTINF:-1 tvg-id="" tvg-name="ARG: RAI" tvg-logo="https://docdog.top/logo/countries/argentina/rai.png" group-title="LAME | ARGENTINA VIP",ARG: RAI
-http://voojtrvootp.top:8080/VIP0116172561325396/7a8888d9b364/4798
-#EXTINF:-1 tvg-id="" tvg-name="ARG: RURAL" tvg-logo="https://docdog.top/logo/countries//argentina/canal-rural-ar.png" group-title="LAME | ARGENTINA VIP",ARG: RURAL
-http://voojtrvootp.top:8080/VIP0116172561325396/7a8888d9b364/4799
-#EXTINF:-1 tvg-id="" tvg-name="ARG: SENADO" tvg-logo="https://docdog.top/logo/countries/argentina/SENADO.png" group-title="LAME | ARGENTINA VIP",ARG: SENADO
-http://voojtrvootp.top:8080/VIP0116172561325396/7a8888d9b364/4800
-#EXTINF:-1 tvg-id="" tvg-name="ARG: SONY" tvg-logo="https://docdog.top/logo/countries//argentina/sony-channel-ar.png" group-title="LAME | ARGENTINA VIP",ARG: SONY
-http://voojtrvootp.top:8080/VIP0116172561325396/7a8888d9b364/4801
-#EXTINF:-1 tvg-id="" tvg-name="ARG: SPACE" tvg-logo="https://docdog.top/logo/countries//argentina/space-ar.png" group-title="LAME | ARGENTINA VIP",ARG: SPACE
-http://voojtrvootp.top:8080/VIP0116172561325396/7a8888d9b364/4802
-#EXTINF:-1 tvg-id="" tvg-name="ARG: STUDIO UNIVERSAL" tvg-logo="https://docdog.top/logo/countries//argentina/studio-universal-ar.png" group-title="LAME | ARGENTINA VIP",ARG: STUDIO UNIVERSAL
-http://voojtrvootp.top:8080/VIP0116172561325396/7a8888d9b364/4803
-#EXTINF:-1 tvg-id="" tvg-name="ARG: SYFY" tvg-logo="https://docdog.top/logo/countries//argentina/syfy-ar.png" group-title="LAME | ARGENTINA VIP",ARG: SYFY
-http://voojtrvootp.top:8080/VIP0116172561325396/7a8888d9b364/4804
-#EXTINF:-1 tvg-id="" tvg-name="ARG: TBS VERY FUNNY" tvg-logo="https://docdog.top/logo/countries//argentina/tbs-ar.png" group-title="LAME | ARGENTINA VIP",ARG: TBS VERY FUNNY
-http://voojtrvootp.top:8080/VIP0116172561325396/7a8888d9b364/4805
-#EXTINF:-1 tvg-id="" tvg-name="ARG: TCM" tvg-logo="https://docdog.top/logo/countries//argentina/tcm-ar.png" group-title="LAME | ARGENTINA VIP",ARG: TCM
-http://voojtrvootp.top:8080/VIP0116172561325396/7a8888d9b364/4806
-#EXTINF:-1 tvg-id="" tvg-name="ARG: TELEFE" tvg-logo="https://docdog.top/logo/countries//argentina/telefe-ar.png" group-title="LAME | ARGENTINA VIP",ARG: TELEFE
-http://voojtrvootp.top:8080/VIP0116172561325396/7a8888d9b364/4807
-#EXTINF:-1 tvg-id="" tvg-name="ARG: TELEMAX" tvg-logo="https://docdog.top/logo/countries//argentina/telemax-ar.png" group-title="LAME | ARGENTINA VIP",ARG: TELEMAX
-http://voojtrvootp.top:8080/VIP0116172561325396/7a8888d9b364/4808
-#EXTINF:-1 tvg-id="" tvg-name="ARG: TELEMUNDO" tvg-logo="https://docdog.top/logo/countries//argentina/telemundo-international-ar.png" group-title="LAME | ARGENTINA VIP",ARG: TELEMUNDO
-http://voojtrvootp.top:8080/VIP0116172561325396/7a8888d9b364/4809
-#EXTINF:-1 tvg-id="" tvg-name="ARG: TELESUR" tvg-logo="https://docdog.top/logo/countries/argentina/telesur.png" group-title="LAME | ARGENTINA VIP",ARG: TELESUR
-http://voojtrvootp.top:8080/VIP0116172561325396/7a8888d9b364/4810
-#EXTINF:-1 tvg-id="" tvg-name="ARG: TELEVISION PUBLICA" tvg-logo="https://docdog.top/logo/countries/argentina/televisionpublica.png" group-title="LAME | ARGENTINA VIP",ARG: TELEVISION PUBLICA
-http://voojtrvootp.top:8080/VIP0116172561325396/7a8888d9b364/4811
-#EXTINF:-1 tvg-id="" tvg-name="ARG: TN" tvg-logo="https://docdog.top/logo/countries//argentina/tn-todo-noticias-ar.png" group-title="LAME | ARGENTINA VIP",ARG: TN
-http://voojtrvootp.top:8080/VIP0116172561325396/7a8888d9b364/4812
-#EXTINF:-1 tvg-id="" tvg-name="ARG: TNT" tvg-logo="https://docdog.top/logo/countries//argentina/tnt-ar.png" group-title="LAME | ARGENTINA VIP",ARG: TNT
-http://voojtrvootp.top:8080/VIP0116172561325396/7a8888d9b364/4813
-#EXTINF:-1 tvg-id="" tvg-name="ARG: TNT SERIES" tvg-logo="https://docdog.top/logo/countries//argentina/tnt-series-ar.png" group-title="LAME | ARGENTINA VIP",ARG: TNT SERIES
-http://voojtrvootp.top:8080/VIP0116172561325396/7a8888d9b364/4814
-#EXTINF:-1 tvg-id="" tvg-name="ARG: TNT SPORTS" tvg-logo="https://docdog.top/logo/countries//argentina/tnt-sports-ar.png" group-title="LAME | ARGENTINA VIP",ARG: TNT SPORTS
-http://voojtrvootp.top:8080/VIP0116172561325396/7a8888d9b364/4815
-#EXTINF:-1 tvg-id="" tvg-name="ARG: TOONCAST" tvg-logo="https://docdog.top/logo/countries//argentina/tooncast-ar.png" group-title="LAME | ARGENTINA VIP",ARG: TOONCAST
-http://voojtrvootp.top:8080/VIP0116172561325396/7a8888d9b364/4816
-#EXTINF:-1 tvg-id="" tvg-name="ARG: TRUTV" tvg-logo="https://docdog.top/logo/countries//argentina/tru-tv-ar.png" group-title="LAME | ARGENTINA VIP",ARG: TRUTV
-http://voojtrvootp.top:8080/VIP0116172561325396/7a8888d9b364/4817
-#EXTINF:-1 tvg-id="" tvg-name="ARG: TV PUBLICA" tvg-logo="https://docdog.top/logo/countries/argentina/tvpublica.png" group-title="LAME | ARGENTINA VIP",ARG: TV PUBLICA
-http://voojtrvootp.top:8080/VIP0116172561325396/7a8888d9b364/4818
-#EXTINF:-1 tvg-id="" tvg-name="ARG: TV5 MONDE" tvg-logo="https://docdog.top/logo/countries/argentina/TVMONDE.png" group-title="LAME | ARGENTINA VIP",ARG: TV5 MONDE
-http://voojtrvootp.top:8080/VIP0116172561325396/7a8888d9b364/4819
-#EXTINF:-1 tvg-id="" tvg-name="ARG: TVE" tvg-logo="https://docdog.top/logo/countries/argentina/tveinternacional.png" group-title="LAME | ARGENTINA VIP",ARG: TVE
-http://voojtrvootp.top:8080/VIP0116172561325396/7a8888d9b364/4820
-#EXTINF:-1 tvg-id="" tvg-name="ARG: Tyc sports Internacional" tvg-logo="https://docdog.top/logo/countries//argentina/tyc-sports-ar.png" group-title="LAME | ARGENTINA VIP",ARG: Tyc sports Internacional
-http://voojtrvootp.top:8080/VIP0116172561325396/7a8888d9b364/4821
-#EXTINF:-1 tvg-id="" tvg-name="ARG: TYC SPORTS" tvg-logo="https://docdog.top/logo/countries//argentina/tyc-sports-ar.png" group-title="LAME | ARGENTINA VIP",ARG: TYC SPORTS
-http://voojtrvootp.top:8080/VIP0116172561325396/7a8888d9b364/4822
-#EXTINF:-1 tvg-id="" tvg-name="ARG: UNIVERSAL" tvg-logo="https://docdog.top/logo/countries//argentina/studio-universal-ar.png" group-title="LAME | ARGENTINA VIP",ARG: UNIVERSAL
-http://voojtrvootp.top:8080/VIP0116172561325396/7a8888d9b364/4823
-#EXTINF:-1 tvg-id="" tvg-name="ARG: VH1" tvg-logo="https://docdog.top/logo/countries/argentina/vh1.png" group-title="LAME | ARGENTINA VIP",ARG: VH1
-http://voojtrvootp.top:8080/VIP0116172561325396/7a8888d9b364/4824
-#EXTINF:-1 tvg-id="" tvg-name="ARG: VOLVER" tvg-logo="https://docdog.top/logo/countries//argentina/volver-ar.png" group-title="LAME | ARGENTINA VIP",ARG: VOLVER
-http://voojtrvootp.top:8080/VIP0116172561325396/7a8888d9b364/4825
-#EXTINF:-1 tvg-id="" tvg-name="ARG: WARNER" tvg-logo="https://docdog.top/logo/countries//argentina/warner-channel-ar.png" group-title="LAME | ARGENTINA VIP",ARG: WARNER
-http://voojtrvootp.top:8080/VIP0116172561325396/7a8888d9b364/4826
-#EXTINF:-1 tvg-id="" tvg-name="ARG: STAR CHANNEL" tvg-logo="" group-title="LAME | ARGENTINA VIP",ARG: STAR CHANNEL
-http://voojtrvootp.top:8080/VIP0116172561325396/7a8888d9b364/4827
-#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN PREMIUM" tvg-logo="" group-title="LAME | ARGENTINA VIP",ARG: ESPN PREMIUM
-http://voojtrvootp.top:8080/VIP0116172561325396/7a8888d9b364/4828
+- Restablecido host **GITHUB** se elimino host extra: **PASTEBIN**,
+- **LISTA ACTUAL**:
+- <img src="https://i.postimg.cc/rpBvjp1h/git-Aico.png" width="25"/> **Url lista AR**: https://bit.ly/43AR5ew
+- <img src="https://i.postimg.cc/rpBvjp1h/git-Aico.png" width="25"/> **Url lista TV_ONLINE**:  https://bit.ly/4dTnNg1
+- **Nota**: Enlaces fijos de GITHUB como antes para dinamizar las actualizaciones en sus horarios.
+### PROYECTO DE CANALES DIGITALES 2026
+![](https://i.ibb.co/4ZtfLChQ/cabeza01.png)
+
+![](https://i.ibb.co/ymB7mXBL/01EST.png)
+### CANALES DIGITALES DE BOLIVIA 
+![](https://i.postimg.cc/X7sZNxDG/01BOL.png)![](https://i.ibb.co/v6yjnH0F/chbol.png)![](https://i.postimg.cc/tTfjmZBB/03BOL.png)
+- Fecha de actualizacion:  **28 de abril 2026** canales en vivo de bolivia
+- **Se elimino el canal UNITEL BOLIVIA por no tener señal abierta y otros, canales internacionales PREMIUM Y DEPORTES se quitaron por cambiar a enlaces dinamicos los cuales no se pueden usar**
+
+### Horarios de actualizacion de lista de canales:
+- De lunes y viernes 16:15 p.m y 19:15 p.m
+- canales premium y deportes eliminados por incompatibilidad de enlaces.
+- **Nota:** para ver los canales de noticias de bolivia red uno, atb, BTV 7.1 & 7.2, de la seccion **(VLC BOLIVIA)** tienen que abrirlos con el **reproductor externo VLC** , y configurar el **buffer de red en 89.000 ms** o en **159.00 ms**.
+
+### REPRODUCTORES RECOMENDADOS:
+
+<img src="https://i.postimg.cc/Kj601LN0/01REPR.png" width="135"/><img src="https://i.postimg.cc/hGJWQ88p/02REPR.png" width="130"/><img src="https://i.postimg.cc/TwC4kpcm/03REPR.png" width="70"/><img src="https://i.postimg.cc/wjZ1J79s/KD01.png" width="88"/><img src="https://i.postimg.cc/pLtDp0v5/ipxtremepr444.png" width="130"/>
+
+- IPTV PRO, SMARTERS PLAYER PRO, REPRODUCTOR VLC, KODI, IPTV XREME PRO.
+
+### REPRODUCTORES EXTERNOS RECOMENDADOS:
+<img src="https://i.postimg.cc/52nt1mp0/04REPR.png" width="195"/><img src="https://i.postimg.cc/HL66CjrZ/05REPR.png" width="189"/><img src="https://i.postimg.cc/TwC4kpcm/03REPR.png" width="79"/>
+- X Player premium, MX player pro, Reproductor VLC.
+
+**AGREGAR NUEVA LISTA DE CANALES**
+- Solo copien y peguen estas listas, en los reproductores recomendados:
+
+*lista de canales de bolivia*, *canales en vivo de bolivia*, *canales IPTV de bolivia*
+<table>
+  <caption>HOST DE LISTAS</caption>
+  <thead>
+    <tr>
+      <th>ico</th>
+      <th>HOST</th>
+      <th>URL</th>
+      <th>ESTADO</th>
+    </tr>
+  </thead>
+  <tr>
+    <td><img src="https://i.postimg.cc/rpBvjp1h/git-Aico.png" width="18"/>A</td>
+    <td>Github</td>
+    <td>https://bit.ly/3SSucwl</td>
+    <td>online</td>
+  </tr>
+  <tr>
+    <td><img src="https://i.postimg.cc/rpBvjp1h/git-Aico.png" width="18"/>B</td>
+    <td>Github</td>
+    <td>https://bit.ly/3BXpHcF</td>
+    <td>online</td>
+  </tr>
+  <tr>
+    <td><img src="https://i.postimg.cc/rpBvjp1h/git-Aico.png" width="18"/>C</td>
+    <td>Github</td>
+    <td>https://bit.ly/48aacgO</td>
+    <td>online</td>
+  </tr>   
+</table>
+
+**NOTAS IMPORTANTES:**
+* los canales locales de la **seccion bolivia** no se mantienen **online las 24 horas** especialmente : red uno, unitel y atb, asi que para ver los **noticieros en sus horarios locales**, tienen que abrir los mismos con el **reproductor externo VLC**, de la seccion de la lista **(VLC CANALES DE BOLIVIA)**.
+
+- LOS FINES DE SEMANA NO SE ACTUALIZA LAS LISTAS, **SALVO LOS CANALES PREMIUM**. el tiempo de actualizacion de los canales premium hd es de **24 a 48 horas**.
+- Los canales de la **SECCION PREMIUM Y DEPORTES Y 24/7** no son señales fijas, y pueden cambiar o ser eliminadas sin previo aviso.
+- **La guia EPG de canales esta offline desde 2023**, por que representa mucho trabajo de actualizacion.
+- cualquier reporte de canales offline o problemas con los reproductores recomendados, escribir al correo de contacto:   web.empresa.carlos@gmail.com
+
+![](https://i.ibb.co/4njGsBjS/notIMPRT.png)
+- **LOS CANALES DE LA SECCION PREMIUM HD & DEPORTES**, en ciertos horarios llegan a saturarse por lo cual no estaran disponibles en horarios pico:
+  **de lunes a viernes 17:00 p.m en adelante**, **sabado y domingo todo el dia** por que es el horario donde mas se satura los servidores externos.
+- Debido a que los enlaces son dinamicos de estos canales, cualquier momento podran estar offline sin previo aviso, y se los actualizara en lo posible, entre 24 a 72 horas.
+- Los canales de estas seccion no son fijos, y podran ser **eliminados o reemplazadas sus señales sin previo aviso**.
+- Debido al trabajo moroso de actualizacion de estas señales, se esta viendo acortar el numero de canales de estas secciones a maximo de 6.
+
+### RECOMENDACIONES TECNICAS
+
+- Para mantener una conexion estable, es recomendable que usen en lo posible **conexion directa por cable de red lan**.
+- O en su defecto usara el **WIFI de 5 GHZ o de 6 GHZ**, con configuracion de **canal fijo** y no en automatico.
+
+<img src="https://i.ibb.co/fds6gx6Z/WF01.png" width="47"/><img src="https://i.ibb.co/tgd8pTX/WF02.png" width="64"/><img src="https://i.ibb.co/xKCbkSjc/WF03.png" width="160"/>
+
+- Para **WIFI DE 2.4 GHZ**, usar un canal fijo y escanear previamente y elegir el menos saturado.
+- Usar los **DNS de cloudflare** en su configuracion de red tanto en **tv box o smart tv y el router**, para evitar el bloqueo de webs de parte de su operador.
+
+<img src="https://i.ibb.co/dN62PSf/CLOUD01.png" width="189"/><img src="https://i.ibb.co/Z6zjQH4f/CLOUD02.png" width="150"/><img src="https://i.ibb.co/mrGrBhhR/CLOUD03.png" width="150"/>
+
+- De preferencia para mejorar su estabilidad de internet tratar de contratar **IP PUBLICA FIJA** en su plan de internet hogar.
+- Contar con una conexion de internet de entre **100 megas a 200 megas**, preferiblemente por fibra optica.
+- Para los canales de la **SECCION PREMIUM & DEPORTES**, configurar el **buffer de red** de su **reproductor IPTV**, entre **98.000 ms a 198.000 ms**, para asegurar una carga de red optima del canal, y configure **la reconexion automatica de red del canal**, si falla la reproduccion del canal en algunos milisegundos.
+
+<img src="https://i.postimg.cc/ZK6NtrNt/bolentraropion11.png" width="300"/>
+
+
+<img src="https://i.postimg.cc/bNHKQLpV/s-US01PRO.png" width="300"/>
+<div style="display: flex;">
+<a href="https://www.facebook.com/boliviadigitalhd2">
+  <img src="https://i.postimg.cc/k5x1mgDd/Aser.png" alt="Descripción de la imagen" width="85">
+</a>
+<a href="https://youtube.com/@BoliviaDigi">
+  <img src="https://i.postimg.cc/CLzcKNdH/Bser.png" alt="Descripción de la imagen" width="136">
+</a>
+<a href="https://t.me/master_johannes_KEPLER">
+  <img src="https://i.postimg.cc/yNXPGprY/Cser.png" alt="Descripción de la imagen" width="89">
+</a>
+</div>
+
