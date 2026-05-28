@@ -11,13 +11,12 @@
 ![](https://i.ibb.co/ymB7mXBL/01EST.png)
 ### CANALES DIGITALES DE BOLIVIA 
 ![](https://i.postimg.cc/X7sZNxDG/01BOL.png)![](https://i.ibb.co/v6yjnH0F/chbol.png)![](https://i.postimg.cc/tTfjmZBB/03BOL.png)
-- Fecha de actualizacion:  **28 de abril 2026** canales en vivo de bolivia
+- Fecha de actualizacion:  **27 de mayo 2026** canales en vivo de bolivia
 - **Se elimino el canal UNITEL BOLIVIA por no tener señal abierta y otros, canales internacionales PREMIUM Y DEPORTES se quitaron por cambiar a enlaces dinamicos los cuales no se pueden usar**
 
 ### Horarios de actualizacion de lista de canales:
 - De lunes y viernes 16:15 p.m y 19:15 p.m
 - canales premium y deportes eliminados por incompatibilidad de enlaces.
-- **Nota:** para ver los canales de noticias de bolivia red uno, atb, BTV 7.1 & 7.2, de la seccion **(VLC BOLIVIA)** tienen que abrirlos con el **reproductor externo VLC** , y configurar el **buffer de red en 89.000 ms** o en **159.00 ms**.
 
 ### REPRODUCTORES RECOMENDADOS:
 
@@ -31,37 +30,6 @@
 
 **AGREGAR NUEVA LISTA DE CANALES**
 - Solo copien y peguen estas listas, en los reproductores recomendados:
-
-*lista de canales de bolivia*, *canales en vivo de bolivia*, *canales IPTV de bolivia*
-<table>
-  <caption>HOST DE LISTAS</caption>
-  <thead>
-    <tr>
-      <th>ico</th>
-      <th>HOST</th>
-      <th>URL</th>
-      <th>ESTADO</th>
-    </tr>
-  </thead>
-  <tr>
-    <td><img src="https://i.postimg.cc/rpBvjp1h/git-Aico.png" width="18"/>A</td>
-    <td>Github</td>
-    <td>https://bit.ly/3SSucwl</td>
-    <td>online</td>
-  </tr>
-  <tr>
-    <td><img src="https://i.postimg.cc/rpBvjp1h/git-Aico.png" width="18"/>B</td>
-    <td>Github</td>
-    <td>https://bit.ly/3BXpHcF</td>
-    <td>online</td>
-  </tr>
-  <tr>
-    <td><img src="https://i.postimg.cc/rpBvjp1h/git-Aico.png" width="18"/>C</td>
-    <td>Github</td>
-    <td>https://bit.ly/48aacgO</td>
-    <td>online</td>
-  </tr>   
-</table>
 
 **NOTAS IMPORTANTES:**
 * los canales locales de la **seccion bolivia** no se mantienen **online las 24 horas** especialmente : red uno, unitel y atb, asi que para ver los **noticieros en sus horarios locales**, tienen que abrir los mismos con el **reproductor externo VLC**, de la seccion de la lista **(VLC CANALES DE BOLIVIA)**.
