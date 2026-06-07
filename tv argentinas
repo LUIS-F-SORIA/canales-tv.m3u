@@ -84,6 +84,157 @@ http://infinitisurl.com:8080/JARED34/675GTd/81320
 http://infinitisurl.com:8080/JARED34/675GTd/81322
 #EXTINF:-1 tvg-id="" tvg-name="AR-| LN+ ʜᴅ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH8f5raMcEwss9lSlka2g6ppZPj2EnFlJwIw&usqp=CAU" group-title="⭐ ARGENTINA",AR-| LN+ ʜᴅ
 http://infinitisurl.com:8080/JARED34/675GTd/81323
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/J0Yv7Yqn/DS1.jpg" group-title="DEPORTES 2026",DIRECTV SPORTS ONLINE
+http://190.117.20.37:8000/play/a08d/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/J0Yv7Yqn/DS1.jpg" group-title="DEPORTES 2026",DIRECTV SPORTS SUR 1
+http://190.7.19.197:232/play/a09i/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/J0Yv7Yqn/DS1.jpg" group-title="DEPORTES 2026",DIRECTV SPORTS SUR 2
+http://190.7.19.197:232/play/a09h/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/J0Yv7Yqn/DS1.jpg" group-title="DEPORTES 2026",DIRECTV URUGUAY
+http://147.135.114.221:8001/play/a00m/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/s2PLGgcL/ESPS1.jpg" group-title="DEPORTES 2026",ESPN SUR AR 1
+http://45.173.74.2:2010/play/a08a/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/s2PLGgcL/ESPS1.jpg" group-title="DEPORTES 2026",ESPN SUR AR 1
+http://181.118.156.46:8000/play/a04g/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/s2PLGgcL/ESPS1.jpg" group-title="DEPORTES 2026",ESPN SUR AR 2
+http://191.97.49.82:8001/play/a00m/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/s2PLGgcL/ESPS1.jpg" group-title="DEPORTES 2026",ESPN SUR AR 2
+http://200.10.30.241:8000/play/a01r/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/s2PLGgcL/ESPS1.jpg" group-title="DEPORTES 2026",ESPN SUR AR 
+http://190.7.19.197:232/play/a03n/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/s2PLGgcL/ESPS1.jpg" group-title="DEPORTES 2026",ESPN SUR AR 2
+http://190.7.19.197:232/play/a03m/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/s2PLGgcL/ESPS1.jpg" group-title="DEPORTES 2026",ESPN SUR AR 3
+http://190.7.19.197:232/play/a03o/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/s2PLGgcL/ESPS1.jpg" group-title="DEPORTES 2026",ESPN SUR AR 4
+http://190.7.19.197:232/play/a05t/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/s2PLGgcL/ESPS1.jpg" group-title="DEPORTES 2026",ESPN SUR AR PREMIUN
+http://190.7.19.197:232/play/a038/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/s2PLGgcL/ESPS1.jpg" group-title="DEPORTES 2026",ESPN SUR AR 2 LATINO
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/j2V57d9S/Tycxi.jpg" group-title="DEPORTES 2026",TyC SPORTS HD
+http://190.7.19.197:232/play/a04w/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/j2V57d9S/Tycxi.jpg" group-title="DEPORTES 2026",TyC INTERNACIONAL HD
+https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/s2PLGgcL/ESPS1.jpg" group-title="DEPORTES 2026",FOX SPORT SUR AR 1
+http://190.7.19.197:232/play/a05u/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/s2PLGgcL/ESPS1.jpg" group-title="DEPORTES 2026",FOX SPORT AR 2
+http://190.7.19.197:232/play/a03p/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/s2PLGgcL/ESPS1.jpg" group-title="DEPORTES 2026",FOX SPORT AR 3
+http://190.7.19.197:232/play/a04x/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XvZtjJ7S/TNTSports-Premium.jpg" group-title="DEPORTES 2026",TNT PREMIUN HD
+http://190.7.19.197:232/play/a037/index.m3u8
+CHILE
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/s2PLGgcL/ESPS1.jpg" group-title="DEPORTES 2026",ESPN SUR CHILE
+http://138.36.253.106:8066/play/a00p/index.m3u8?hls
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/s2PLGgcL/ESPS1.jpg" group-title="DEPORTES 2026",ESPN SUR 3 CHILE
+http://138.36.253.106:8066/play/a00v/index.m3u8?hls
+COLOMBIA
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vHjM1fGw/ESPN.png" group-title="DEPORTES 2026",ESPN COLOMBIA
+http://190.217.66.92:8000/play/a0pi/index.m3u8u?hls
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vHjM1fGw/ESPN.png" group-title="DEPORTES 2026",ESPN COLOMBIA 2
+http://190.217.66.92:8000/play/a0gd/index.m3u8u?hls
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vHjM1fGw/ESPN.png" group-title="DEPORTES 2026",ESPN COLOMBIA 3
+http://190.217.66.92:8000/play/a0q7/index.m3u8u?hls
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vHjM1fGw/ESPN.png" group-title="DEPORTES 2026",ESPN COLOMBIA 4
+http://190.217.66.92:8000/play/a0po/index.m3u8u?hls
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vHjM1fGw/ESPN.png" group-title="DEPORTES 2026",ESPN COLOMBIA 5
+http://190.217.66.92:8000/play/a0q4/index.m3u8u?hls
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vHjM1fGw/ESPN.png" group-title="DEPORTES 2026",ESPN COLOMBIA 6
+http://190.217.66.92:8000/play/a0e2/index.m3u8u?hls
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vHjM1fGw/ESPN.png" group-title="DEPORTES 2026",ESPN COLOMBIA 7
+http://190.217.66.92:8000/play/a0e1/index.m3u8u?hls
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RVM5NGrx/Win-Sports.jpg" group-title="DEPORTES 2026 LAT",Win Sports HD
+http://181.78.8.199:8000/play/a06v/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RVM5NGrx/Win-Sports.jpg" group-title="DEPORTES 2026 LAT",Win Sports HD
+http://181.78.8.199:8000/play/a0cc/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RVM5NGrx/Win-Sports.jpg" group-title="DEPORTES 2026 LAT",Win Sports +
+http://liontv.es:80/live/NESTORCHI/GRETF/338231.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RVM5NGrx/Win-Sports.jpg" group-title="DEPORTES 2026 LAT",Win Sports + HD
+http://181.78.79.131:8000/play/a0n1
+#EXTINF:-1 tvg-logo="tvg-logo="https://i.postimg.cc/RVM5NGrx/Win-Sports.jpg" group-title="DEPORTES 2026 LAT",Win Sports + HD
+http://liontv.es:80/live/NESTORCHI/GRETF/358392.ts
+#EXTINF:-1 tvg-logo="tvg-logo="https://i.postimg.cc/vHmqJKFR/DGO.jpg" group-title="DEPORTES 2026 LAT",Directv Sports
+http://smarterstv99.dyndns.tv:25461/live/Juan823/XrrdxQgVwb2E/125646.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vHmqJKFR/DGO.jpg" group-title="DEPORTES 2026 LAT",Directv Sports Arg
+http://smarterstv99.dyndns.tv:25461/live/Juan823/XrrdxQgVwb2E/125647.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vHmqJKFR/DGO.jpg" group-title="DEPORTES 2026 LAT",,Directv Sports Col
+http://smarterstv99.dyndns.tv:25461/live/Juan823/XrrdxQgVwb2E/125647.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/J0Yq71Vm/dsports2.jpg" group-title="DEPORTES 2026 LAT",Directv Sports 2
+http://smarterstv99.dyndns.tv:25461/live/Juan823/XrrdxQgVwb2E/125648.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/J0Yq71Vm/dsports2.jpg" group-title="DEPORTES 2026 LAT",Directv Sports 2
+http://smarterstv99.dyndns.tv:25461/live/Juan823/XrrdxQgVwb2E/334650.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/J0Yq71Vm/dsports2.jpg" group-title="DEPORTES 2026 LAT",Directv Sports 2
+http://live.btv.mx:2424/stream/299313/smAVz_uhytj5REM-4pYNZbkrcB2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VkCR1Q7y/dsports.jpg" group-title="DEPORTES 2026 LAT",Directv Sports + SD
+http://front-main.eagle-4k.me:80/live/r1y1vv2q55/b0ciw3qsbs/40975.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VkCR1Q7y/dsports.jpg" group-title="DEPORTES 2026 LAT",Directv Sports + SD
+http://217.26.190.76:8888/play/a0jb/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bJ8qyPpS/espn-premium.jpg" group-title="DEPORTES 2026 LAT",ESPN PREMIUN HD
+http://190.217.66.92:8000/play/a0pj/index.m3u8u?hls
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XvZtjJ7S/TNTSports-Premium.jpg" group-title="DEPORTES 2026 LAT",TNT PREMIUN HD
+https://1nyaler.streamhostingcdn.top/stream/30/index.m3u8
+
+#EXTINF:-1 tvg-id="Espn.1.MEX.co" tvg-name="Espn 1 (MEX)" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/id9erx1610288475.png" group-title="DEPORTES 2026 LAT",Espn 1 (MEX)
+http://45.5.119.43:4000/play/a052/index.m3u8
+#EXTINF:-1 tvg-id="Espn.1.Lat.co" tvg-name="Espn 1 (Lat)" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/id9erx1610288475.png" group-title="DEPORTES 2026 LAT",Espn 1 (Lat)
+http://38.224.172.198:8000/play/a00f/index.m3u8
+#EXTINF:-1 tvg-id="Espn.1.Col.co" tvg-name="Espn 1 (Col)" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/id9erx1610288475.png" group-title="DEPORTES 2026 LAT",Espn 1 (Col)
+http://181.78.8.199:8000/play/a0b1/index.m3u8
+#EXTINF:-1 tvg-id="Espn.1.Col.co" tvg-name="Espn 1 (Col)" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/id9erx1610288475.png" group-title="DEPORTES 2026 LAT",Espn 1 (Col)
+http://liontv.es:80/live/NESTORCHI/GRETF/358395.ts
+#EXTINF:-1 tvg-id="Espn.1.Arg.co" tvg-name="Espn 1 (Arg)" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/id9erx1610288475.png" group-title="DEPORTES 2026 LAT",Espn 1 (Arg)
+http://liontv.es:80/live/NESTORCHI/GRETF/335366.ts
+#EXTINF:-1 tvg-id="Espn.1.Chi.co" tvg-name="Espn 1 (Chi)" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/id9erx1610288475.png" group-title="DEPORTES 2026 LAT",Espn 1 (Chi)
+http://45.160.13.201:8000/play/212
+
+#EXTINF:-1 tvg-id="ESPN.2.Col.co" tvg-name="ESPN 2 (Col)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/ESPN2_2006.svg/revision/latest/scale-to-width-down/1000?cb=20200105155601&path-prefix=es" group-title="DEPORTES 2026 LAT",ESPN 2 (Col)
+http://181.78.14.26:4000/play/a02p/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.2.Arg.co" tvg-name="ESPN 2 (Arg)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/ESPN2_2006.svg/revision/latest/scale-to-width-down/1000?cb=20200105155601&path-prefix=es" group-title="DEPORTES 2026 LAT",ESPN 2 (Arg)
+http://181.78.14.26:4000/play/a05c/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.2.MX.co" tvg-name="ESPN 2 MX" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/ESPN2_2006.svg/revision/latest/scale-to-width-down/1000?cb=20200105155601&path-prefix=es" group-title="DEPORTES 2026 LAT",ESPN 2 MX
+http://45.5.119.43:4000/play/a053/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN.3.Col.co" tvg-name="ESPN 3 (Col)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Espn3.png/revision/latest?cb=20151012185318&path-prefix=es" group-title="DEPORTES 2026 LAT",ESPN 3 (Col)
+http://190.60.49.242:4000/play/a070/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.3.Arg.co" tvg-name="ESPN 3 (Arg)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Espn3.png/revision/latest?cb=20151012185318&path-prefix=es" group-title="DEPORTES 2026 LAT",ESPN 3 (Arg)
+http://181.78.14.26:4000/play/a062/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.3.Chi.co" tvg-name="ESPN 3 (Chi)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Espn3.png/revision/latest?cb=20151012185318&path-prefix=es" group-title="DEPORTES 2026 LAT",ESPN 3 (Chi)
+http://38.250.190.45:8000/play/a0d8/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.3.Mex.co" tvg-name="ESPN 3 (Mex)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Espn3.png/revision/latest?cb=20151012185318&path-prefix=es" group-title="DEPORTIVO",ESPN 3 (Mex)
+http://45.5.119.43:4000/play/a054/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN.4.Col.co" tvg-name="ESPN 4 (Col)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/ESPN_4.svg/revision/latest/scale-to-width-down/250?cb=20211129170304&path-prefix=es" group-title="DEPORTES 2026 LAT",ESPN 4 (Col)
+http://181.78.14.26:4000/play/a03w/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.4.Arg.co" tvg-name="ESPN 4 (Arg)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/ESPN_4.svg/revision/latest/scale-to-width-down/250?cb=20211129170304&path-prefix=es" group-title="DEPORTES 2026 LAT",ESPN 4 (Arg)
+http://181.78.14.26:4000/play/a0bw/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.4.Chi.co" tvg-name="ESPN 4 (Chi)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/ESPN_4.svg/revision/latest/scale-to-width-down/250?cb=20211129170304&path-prefix=es" group-title="DEPORTES 2026 LAT",ESPN 4 (Chi)
+http://38.250.190.45:8000/play/a0d6/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.4.Mex.co" tvg-name="ESPN 4 (Mex)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/ESPN_4.svg/revision/latest/scale-to-width-down/250?cb=20211129170304&path-prefix=es" group-title="DEPORTES 2026 LAT",ESPN 4 (Mex)
+http://45.5.119.43:4000/play/a028/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN.5.Col.co" tvg-name="ESPN 5 (Col)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/13/ESPN_5.svg/revision/latest/scale-to-width-down/250?cb=20211120193957" group-title="DEPORTES 2026 LAT",ESPN 5 (Col)
+http://181.78.14.26:4000/play/a03x/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.5.Arg.co" tvg-name="ESPN 5 (Arg)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/13/ESPN_5.svg/revision/latest/scale-to-width-down/250?cb=20211120193957" group-title="DEPORTES 2026 LAT",ESPN 5 (Arg)
+http://181.78.14.26:4000/play/a06b/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.5.Chi.co" tvg-name="ESPN 5 (Chi)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/13/ESPN_5.svg/revision/latest/scale-to-width-down/250?cb=20211120193957" group-title="DEPORTES 2026 LAT",ESPN 5 (Chi)
+http://38.250.190.45:8000/play/a0d7/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.5.Mex.co" tvg-name="ESPN 5 (Mex)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/ESPN_6.svg/revision/latest/scale-to-width-down/250?cb=20211120192909" group-title="DEPORTES 2026 LAT",ESPN 5 (Mex)
+http://45.5.119.43:4000/play/a0ix/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN.6.Col.co" tvg-name="ESPN 6 (Col)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/ESPN_6.svg/revision/latest/scale-to-width-down/250?cb=20211120192909" group-title="DEPORTES 2026 LAT",ESPN 6 (Col)
+http://190.60.49.242:4000/play/a0dq/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.6.Arg.co" tvg-name="ESPN 6 (Arg)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/ESPN_6.svg/revision/latest/scale-to-width-down/250?cb=20211120192909" group-title="DEPORTES 2026 LAT",ESPN 6 (Arg)
+http://181.78.14.26:4000/play/a03y/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.6.Mex.co" tvg-name="ESPN 6 (Mex)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/ESPN_6.svg/revision/latest/scale-to-width-down/250?cb=20211120192909" group-title="DEPORTES 2026 LAT",ESPN 6 (Mex)
+http://45.5.119.43:4000/play/a0kj/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN.7.co" tvg-name="ESPN 7" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/ESPN_7.svg/revision/latest/scale-to-width-down/78?cb=20240210020543" group-title="DEPORTES 2026 LAT",ESPN 7
+http://181.78.14.26:4000/play/a042/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.7.co" tvg-name="ESPN 7" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/ESPN_7.svg/revision/latest/scale-to-width-down/78?cb=20240210020543" group-title="DEPORTES 2026 LAT",ESPN 7
+http://181.78.79.131:8000/play/a0s8
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXU65INNXNQYFK5WO5KI4UKDJV7XVVUJ36UCVRCQLGYW7ST7IFNM6ZWHASIM
 ARGENTINA DEPORTES
 #EXTINF:-1 tvg-id="" tvg-name="AR : *T*N*T* SPORT HD⭐" tvg-logo="" group-title="⭐ ARGENTINA DEPORTES ⚽",AR : *T*N*T* SPORT HD⭐
 http://infinitisurl.com:8080/JARED34/675GTd/370203
@@ -204,42 +355,65 @@ http://infinitisurl.com:8080/JARED34/675GTd/62
 #EXTINF:-1 tvg-id="" tvg-name="TEST 2" tvg-logo="https://i.postimg.cc/kGvpK0W9/CANAL-EN-PRUEBA.png" group-title="⚽ ZONA | DSPORTS",TEST 2
 http://infinitisurl.com:8080/JARED34/675GTd/544055
 PELICULAS
-#EXTINF:-1 tvg-id="" tvg-name="El Susurro (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/evDvchrDRS2i9jKcLJpixSLjx45.jpg" group-title="▶️ ESTRENOS 2026 ▶️",El Susurro (2026)
-http://infinitisurl.com:8080/movie/JARED34/675GTd/632221.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Anatomía de un asesinato (1959)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2lHWDt5kQcd4yZ5yBPUuiEFYEXD.jpg" group-title="▶️ DRAMA ▶️",Anatomía de un asesinato (1959)
-http://infinitisurl.com:8080/movie/JARED34/675GTd/632218.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Criaturas luminosas (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aNixJoh0U4kN85YM6vPyVZL6ALF.jpg" group-title="▶️ ESTRENOS 2026 ▶️",Criaturas luminosas (2026)
-http://infinitisurl.com:8080/movie/JARED34/675GTd/632204.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Couture (2026)" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/mUK4VigFVrK1mYGDxTs9McAgFPO.jpg" group-title="▶️ ESTRENOS 2026 ▶️",Couture (2026)
-http://infinitisurl.com:8080/movie/JARED34/675GTd/632203.mp4
-#EXTINF:-1 tvg-id="" tvg-name="En la Ruta del Crimen (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/78B66xBCgmnh88d10B85uFjC88V.jpg" group-title="▶️ ESTRENOS 2026 ▶️",En la Ruta del Crimen (2026)
-http://infinitisurl.com:8080/movie/JARED34/675GTd/632199.mp4
-#EXTINF:-1 tvg-id="" tvg-name="México 86 (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ie0evW3npWrB25prNSKOdlEamSd.jpg" group-title="▶️ ESTRENOS 2026 ▶️",México 86 (2026)
-http://infinitisurl.com:8080/movie/JARED34/675GTd/632196.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ápex (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e4P0lkcHgsBJgWSvLV3ezGZYDUU.jpg" group-title="▶️ ESTRENOS 2026 ▶️",Ápex (2026)
-http://infinitisurl.com:8080/movie/JARED34/675GTd/632059.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El choque (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mTN9baARVvqjS8ZuMUQeFBW6z2l.jpg" group-title="▶️ ESTRENOS 2026 ▶️",El choque (2026)
-http://infinitisurl.com:8080/movie/JARED34/675GTd/632056.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La casaca de Dios (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v56hSpcEnS0joV9lUn9bKpPdktl.jpg" group-title="▶️ ESTRENOS 2026 ▶️",La casaca de Dios (2026)
-http://infinitisurl.com:8080/movie/JARED34/675GTd/632044.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Clash in Italy (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yaX9DGhSP2wUpPEGeww8nBMb8Iw.jpg" group-title="▶️ WWE PPV ▶️",Clash in Italy (2026)
-http://infinitisurl.com:8080/movie/JARED34/675GTd/632033.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Mandalorian and Grogu (2026) | HDTS Latino" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sSRaYCfsxgL8LWeBQOO4Syd5BQJ.jpg" group-title="▶️ CINE CAM ▶️",The Mandalorian and Grogu (2026) | HDTS Latino
-http://infinitisurl.com:8080/movie/JARED34/675GTd/631805.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Super Mario Galaxy: La película (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Js0gYWxuvTN6b8iAaSF1cSQzBs.jpg" group-title="▶️ SAGAS ▶️",Super Mario Galaxy: La película (2026)
-http://infinitisurl.com:8080/movie/JARED34/675GTd/630889.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sonunda Sen (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mnBW7o8ycDi8WotGeRkGoDxrNMd.jpg" group-title="▶️ ESTRENOS 2026 ▶️",Sonunda Sen (2026)
-http://infinitisurl.com:8080/movie/JARED34/675GTd/629330.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El Drama (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oEdNEIO7641g6ZXJEe6zhQC4Jsj.jpg" group-title="▶️ ESTRENOS 2026 ▶️",El Drama (2026)
-http://infinitisurl.com:8080/movie/JARED34/675GTd/629327.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sonunda Sen (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mnBW7o8ycDi8WotGeRkGoDxrNMd.jpg" group-title="▶️ ESTRENOS 2026 ▶️",Sonunda Sen (2026)
-http://infinitisurl.com:8080/movie/JARED34/675GTd/629330.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El Drama (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oEdNEIO7641g6ZXJEe6zhQC4Jsj.jpg" group-title="▶️ ESTRENOS 2026 ▶️",El Drama (2026)
-http://infinitisurl.com:8080/movie/JARED34/675GTd/629327.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ven a volar conmigo (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9kG1FfRD3rONR1PCPPaSl1f5V8I.jpg" group-title="▶️ ESTRENOS 2026 ▶️",Ven a volar conmigo (2026)
-http://infinitisurl.com:8080/movie/JARED34/675GTd/629089.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Zona de riesgo (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m3On2pUX6KRJwI8Fp7xqJkKQdIv.jpg" group-title="▶️ ESTRENOS 2026 ▶️",Zona de riesgo (2026)
-http://infinitisurl.com:8080/movie/JARED34/675GTd/629086.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mortal Kombat II (2026)" tvg-logo="https://image.tmdb.org/t/p/original/6PeV99XjTB4Odi7AAguUP26ogR9.jpg" group-title="▶️ ESTRENOS 2026 ▶️",Mortal Kombat II (2026)
-http://infinitisurl.com:8080/movie/JARED34/675GTd/629066.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Obsesión (2026) TELESYNC" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rmCkNtzYR2xTOO3ZXmIqB5zgYdE.jpg" group-title="⭐PELICULAS ESTRENOS 2026⭐",Obsesión (2026) TELESYNC
+http://jumangis.cloud:2082/movie/JairoVargas/5T5wLJjTbu/642144.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Backrooms: Sin salida (2026)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/w8nrM9hCTxoeX96HmTQpC0HbkMY.jpg" group-title="⭐PELICULAS ESTRENOS 2026⭐",Backrooms: Sin salida (2026)
+http://jumangis.cloud:2082/movie/JairoVargas/5T5wLJjTbu/642141.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Exit 8 (2026)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mqlgMvy1d5jIbIE6SPlJq724htT.jpg" group-title="⭐PELICULAS ESTRENOS 2026⭐",Exit 8 (2026)
+http://jumangis.cloud:2082/movie/JairoVargas/5T5wLJjTbu/642138.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Plan Panda: La Tribu Mágica (2026)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bt3JcjSC54qq83yfpLZmnD9y4qT.jpg" group-title="⭐PELICULAS ESTRENOS 2026⭐",Plan Panda: La Tribu Mágica (2026)
+http://jumangis.cloud:2082/movie/JairoVargas/5T5wLJjTbu/640855.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rebelión en la granja (2026)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/aAGTQgOJbXG4L3qIlWQl1KFu90t.jpg" group-title="⭐PELICULAS ESTRENOS 2026⭐",Rebelión en la granja (2026)
+http://jumangis.cloud:2082/movie/JairoVargas/5T5wLJjTbu/640852.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Mandaloriano y Grogu (2026) HDTS" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sSRaYCfsxgL8LWeBQOO4Syd5BQJ.jpg" group-title="⭐PELICULAS ESTRENOS 2026⭐",El Mandaloriano y Grogu (2026) HDTS
+http://jumangis.cloud:2082/movie/JairoVargas/5T5wLJjTbu/640849.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sangre asesina (2026)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/16TvbhCP8CfiGEbxcbtQLYWO6WG.jpg" group-title="⭐PELICULAS ESTRENOS 2026⭐",Sangre asesina (2026)
+http://jumangis.cloud:2082/movie/JairoVargas/5T5wLJjTbu/639114.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Super Mario Galaxy: La película (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/79EVB4qhyfrdlMgT8GIRAikdzsQ.jpg" group-title="⭐PELICULAS ESTRENOS 2026⭐",Super Mario Galaxy: La película (2026)
+http://jumangis.cloud:2082/movie/JairoVargas/5T5wLJjTbu/625643.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El choque (2026)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mTN9baARVvqjS8ZuMUQeFBW6z2l.jpg" group-title="⭐PELICULAS ESTRENOS 2026⭐",El choque (2026)
+http://jumangis.cloud:2082/movie/JairoVargas/5T5wLJjTbu/639111.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Criaturas luminosas (2026)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8I2O28Y0avRiKDfdzdkAKbSLxft.jpg" group-title="⭐PELICULAS ESTRENOS 2026⭐",Criaturas luminosas (2026)
+http://jumangis.cloud:2082/movie/JairoVargas/5T5wLJjTbu/639108.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Las ovejas detectives (2026) HDTS" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kMJ4h39xe1fEzbLSt5FJCtEqb2H.jpg" group-title="⭐PELICULAS ESTRENOS 2026⭐",Las ovejas detectives (2026) HDTS
+http://jumangis.cloud:2082/movie/JairoVargas/5T5wLJjTbu/639105.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Enterramos a los Muertos (2026)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cwUGHWaazG1nwsxsa7EEmvJa6lF.jpg" group-title="⭐PELICULAS ESTRENOS 2026⭐",Enterramos a los Muertos (2026)
+http://jumangis.cloud:2082/movie/JairoVargas/5T5wLJjTbu/638741.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Punisher: La última muerte (2026)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qkyqQqQN8HAkLezR6xWTYzz6Icv.jpg" group-title="⭐PELICULAS ESTRENOS 2026⭐",The Punisher: La última muerte (2026)
+http://jumangis.cloud:2082/movie/JairoVargas/5T5wLJjTbu/638738.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Monjas Oscuras: Exorcismos Prohibidos (2026)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6UzGulfcbQTXrowehVaQTVvPJrG.jpg" group-title="⭐PELICULAS ESTRENOS 2026⭐",Monjas Oscuras: Exorcismos Prohibidos (2026)
+http://jumangis.cloud:2082/movie/JairoVargas/5T5wLJjTbu/638735.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Las damas primero (2026)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yNFYn8UqNVV8BX8X0WXcGLH9A9P.jpg" group-title="⭐PELICULAS ESTRENOS 2026⭐",Las damas primero (2026)
+http://jumangis.cloud:2082/movie/JairoVargas/5T5wLJjTbu/638732.mkv
+#EXTINF:-1 tvg-id="" tvg-name="KARTAVYA (2026)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/aPhwFUeaYV2hNswZ7N4kDJUYDeM.jpg" group-title="⭐PELICULAS ESTRENOS 2026⭐",KARTAVYA (2026)
+http://jumangis.cloud:2082/movie/JairoVargas/5T5wLJjTbu/638729.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La novia del año (2026)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4Y8HSuYIgKUum2JPfbkul3jR6jh.jpg" group-title="⭐PELICULAS ESTRENOS 2026⭐",La novia del año (2026)
+http://jumangis.cloud:2082/movie/JairoVargas/5T5wLJjTbu/638726.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jack Ryan de Tom Clancy: Guerra fantasma (2026)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7wiq6ld0p7AeWFlZsnXZfNKXIB2.jpg" group-title="⭐PELICULAS ESTRENOS 2026⭐",Jack Ryan de Tom Clancy: Guerra fantasma (2026)
+http://jumangis.cloud:2082/movie/JairoVargas/5T5wLJjTbu/638723.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La posesión de la momia (2026)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5RhY8eHWzvjw32449pHdUkOeDCN.jpg" group-title="⭐PELICULAS ESTRENOS 2026⭐",La posesión de la momia (2026)
+http://jumangis.cloud:2082/movie/JairoVargas/5T5wLJjTbu/637468.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El diablo viste a la moda 2 (2026) VERSION FINAL" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rdvPsRItlhErfKF8Y0f0wjnxUzz.jpg" group-title="⭐PELICULAS ESTRENOS 2026⭐",El diablo viste a la moda 2 (2026) VERSION FINAL
+http://jumangis.cloud:2082/movie/JairoVargas/5T5wLJjTbu/637465.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mortal Kombat II (2026) VERSION FINAL" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/niXSl8jLAZu9fL1ywfNyLGCRXLh.jpg" group-title="⭐PELICULAS ESTRENOS 2026⭐",Mortal Kombat II (2026) VERSION FINAL
+http://jumangis.cloud:2082/movie/JairoVargas/5T5wLJjTbu/637462.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tu, yo & la Toscana (2026)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/f0Gip8ZwWySoVXuv7icSdP5B8U3.jpg" group-title="⭐PELICULAS ESTRENOS 2026⭐",Tu, yo & la Toscana (2026)
+http://jumangis.cloud:2082/movie/JairoVargas/5T5wLJjTbu/635445.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Drama (2026)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/IsyXDsvsNthbtdpM4qMwop1Gwo.jpg" group-title="⭐PELICULAS ESTRENOS 2026⭐",El Drama (2026)
+http://jumangis.cloud:2082/movie/JairoVargas/5T5wLJjTbu/635439.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pinocho (2026)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/aKJkscflrbArm5YRNWExQ029zl9.jpg" group-title="⭐PELICULAS ESTRENOS 2026⭐",Pinocho (2026)
+http://jumangis.cloud:2082/movie/JairoVargas/5T5wLJjTbu/635436.mkv
+#EXTINF:-1 tvg-id="" tvg-name="No es país para solteros (2026)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/in1iQGN5g2nDwD20EVHT294jDvr.jpg" group-title="⭐PELICULAS ESTRENOS 2026⭐",No es país para solteros (2026)
+http://jumangis.cloud:2082/movie/JairoVargas/5T5wLJjTbu/635433.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Si solo pudiera imaginar 2 (2026)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/25R6U0xHikFbhDN69dUnzI4FIlz.jpg" group-title="⭐PELICULAS ESTRENOS 2026⭐",Si solo pudiera imaginar 2 (2026)
+http://jumangis.cloud:2082/movie/JairoVargas/5T5wLJjTbu/635430.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Gary (2026)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jtMuKwlOl4IzpB5fWn9RT9uyy6E.jpg" group-title="⭐PELICULAS ESTRENOS 2026⭐",Gary (2026)
+http://jumangis.cloud:2082/movie/JairoVargas/5T5wLJjTbu/635427.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rescate en las alturas (2026)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6y8n9GEpr3y6QG5W4lIq7Ez9PH1.jpg" group-title="⭐PELICULAS ESTRENOS 2026⭐",Rescate en las alturas (2026)
+http://jumangis.cloud:2082/movie/JairoVargas/5T5wLJjTbu/635424.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El diablo viste a la moda 2 (2026) VERSION HDTS OPC 2" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rdvPsRItlhErfKF8Y0f0wjnxUzz.jpg" group-title="⭐PELICULAS ESTRENOS 2026⭐",El diablo viste a la moda 2 (2026) VERSION HDTS OPC 2
+http://jumangis.cloud:2082/movie/JairoVargas/5T5wLJjTbu/629869.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El diablo viste a la moda 2 (2026) VERSION HDTS" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rdvPsRItlhErfKF8Y0f0wjnxUzz.jpg" group-title="⭐PELICULAS ESTRENOS 2026⭐",El diablo viste a la moda 2 (2026) VERSION HDTS
+http://jumangis.cloud:2082/movie/JairoVargas/5T5wLJjTbu/629866.mkv
+
 
