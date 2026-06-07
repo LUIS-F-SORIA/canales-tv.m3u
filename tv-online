@@ -54,6 +54,157 @@ http://jumangis.cloud:2082/JairoVargas/5T5wLJjTbu/95575
 http://jumangis.cloud:2082/JairoVargas/5T5wLJjTbu/95530
 #EXTINF:-1 tvg-id="" tvg-name="TELEFE" tvg-logo="" group-title="ARGENTINA",TELEFE
 http://jumangis.cloud:2082/JairoVargas/5T5wLJjTbu/95508
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/J0Yv7Yqn/DS1.jpg" group-title="DEPORTES 2026",DIRECTV SPORTS ONLINE
+http://190.117.20.37:8000/play/a08d/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/J0Yv7Yqn/DS1.jpg" group-title="DEPORTES 2026",DIRECTV SPORTS SUR 1
+http://190.7.19.197:232/play/a09i/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/J0Yv7Yqn/DS1.jpg" group-title="DEPORTES 2026",DIRECTV SPORTS SUR 2
+http://190.7.19.197:232/play/a09h/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/J0Yv7Yqn/DS1.jpg" group-title="DEPORTES 2026",DIRECTV URUGUAY
+http://147.135.114.221:8001/play/a00m/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/s2PLGgcL/ESPS1.jpg" group-title="DEPORTES 2026",ESPN SUR AR 1
+http://45.173.74.2:2010/play/a08a/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/s2PLGgcL/ESPS1.jpg" group-title="DEPORTES 2026",ESPN SUR AR 1
+http://181.118.156.46:8000/play/a04g/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/s2PLGgcL/ESPS1.jpg" group-title="DEPORTES 2026",ESPN SUR AR 2
+http://191.97.49.82:8001/play/a00m/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/s2PLGgcL/ESPS1.jpg" group-title="DEPORTES 2026",ESPN SUR AR 2
+http://200.10.30.241:8000/play/a01r/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/s2PLGgcL/ESPS1.jpg" group-title="DEPORTES 2026",ESPN SUR AR 
+http://190.7.19.197:232/play/a03n/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/s2PLGgcL/ESPS1.jpg" group-title="DEPORTES 2026",ESPN SUR AR 2
+http://190.7.19.197:232/play/a03m/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/s2PLGgcL/ESPS1.jpg" group-title="DEPORTES 2026",ESPN SUR AR 3
+http://190.7.19.197:232/play/a03o/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/s2PLGgcL/ESPS1.jpg" group-title="DEPORTES 2026",ESPN SUR AR 4
+http://190.7.19.197:232/play/a05t/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/s2PLGgcL/ESPS1.jpg" group-title="DEPORTES 2026",ESPN SUR AR PREMIUN
+http://190.7.19.197:232/play/a038/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/s2PLGgcL/ESPS1.jpg" group-title="DEPORTES 2026",ESPN SUR AR 2 LATINO
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/j2V57d9S/Tycxi.jpg" group-title="DEPORTES 2026",TyC SPORTS HD
+http://190.7.19.197:232/play/a04w/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/j2V57d9S/Tycxi.jpg" group-title="DEPORTES 2026",TyC INTERNACIONAL HD
+https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/s2PLGgcL/ESPS1.jpg" group-title="DEPORTES 2026",FOX SPORT SUR AR 1
+http://190.7.19.197:232/play/a05u/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/s2PLGgcL/ESPS1.jpg" group-title="DEPORTES 2026",FOX SPORT AR 2
+http://190.7.19.197:232/play/a03p/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/s2PLGgcL/ESPS1.jpg" group-title="DEPORTES 2026",FOX SPORT AR 3
+http://190.7.19.197:232/play/a04x/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XvZtjJ7S/TNTSports-Premium.jpg" group-title="DEPORTES 2026",TNT PREMIUN HD
+http://190.7.19.197:232/play/a037/index.m3u8
+CHILE
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/s2PLGgcL/ESPS1.jpg" group-title="DEPORTES 2026",ESPN SUR CHILE
+http://138.36.253.106:8066/play/a00p/index.m3u8?hls
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/s2PLGgcL/ESPS1.jpg" group-title="DEPORTES 2026",ESPN SUR 3 CHILE
+http://138.36.253.106:8066/play/a00v/index.m3u8?hls
+COLOMBIA
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vHjM1fGw/ESPN.png" group-title="DEPORTES 2026",ESPN COLOMBIA
+http://190.217.66.92:8000/play/a0pi/index.m3u8u?hls
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vHjM1fGw/ESPN.png" group-title="DEPORTES 2026",ESPN COLOMBIA 2
+http://190.217.66.92:8000/play/a0gd/index.m3u8u?hls
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vHjM1fGw/ESPN.png" group-title="DEPORTES 2026",ESPN COLOMBIA 3
+http://190.217.66.92:8000/play/a0q7/index.m3u8u?hls
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vHjM1fGw/ESPN.png" group-title="DEPORTES 2026",ESPN COLOMBIA 4
+http://190.217.66.92:8000/play/a0po/index.m3u8u?hls
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vHjM1fGw/ESPN.png" group-title="DEPORTES 2026",ESPN COLOMBIA 5
+http://190.217.66.92:8000/play/a0q4/index.m3u8u?hls
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vHjM1fGw/ESPN.png" group-title="DEPORTES 2026",ESPN COLOMBIA 6
+http://190.217.66.92:8000/play/a0e2/index.m3u8u?hls
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vHjM1fGw/ESPN.png" group-title="DEPORTES 2026",ESPN COLOMBIA 7
+http://190.217.66.92:8000/play/a0e1/index.m3u8u?hls
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RVM5NGrx/Win-Sports.jpg" group-title="DEPORTES 2026 LAT",Win Sports HD
+http://181.78.8.199:8000/play/a06v/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RVM5NGrx/Win-Sports.jpg" group-title="DEPORTES 2026 LAT",Win Sports HD
+http://181.78.8.199:8000/play/a0cc/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RVM5NGrx/Win-Sports.jpg" group-title="DEPORTES 2026 LAT",Win Sports +
+http://liontv.es:80/live/NESTORCHI/GRETF/338231.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RVM5NGrx/Win-Sports.jpg" group-title="DEPORTES 2026 LAT",Win Sports + HD
+http://181.78.79.131:8000/play/a0n1
+#EXTINF:-1 tvg-logo="tvg-logo="https://i.postimg.cc/RVM5NGrx/Win-Sports.jpg" group-title="DEPORTES 2026 LAT",Win Sports + HD
+http://liontv.es:80/live/NESTORCHI/GRETF/358392.ts
+#EXTINF:-1 tvg-logo="tvg-logo="https://i.postimg.cc/vHmqJKFR/DGO.jpg" group-title="DEPORTES 2026 LAT",Directv Sports
+http://smarterstv99.dyndns.tv:25461/live/Juan823/XrrdxQgVwb2E/125646.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vHmqJKFR/DGO.jpg" group-title="DEPORTES 2026 LAT",Directv Sports Arg
+http://smarterstv99.dyndns.tv:25461/live/Juan823/XrrdxQgVwb2E/125647.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vHmqJKFR/DGO.jpg" group-title="DEPORTES 2026 LAT",,Directv Sports Col
+http://smarterstv99.dyndns.tv:25461/live/Juan823/XrrdxQgVwb2E/125647.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/J0Yq71Vm/dsports2.jpg" group-title="DEPORTES 2026 LAT",Directv Sports 2
+http://smarterstv99.dyndns.tv:25461/live/Juan823/XrrdxQgVwb2E/125648.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/J0Yq71Vm/dsports2.jpg" group-title="DEPORTES 2026 LAT",Directv Sports 2
+http://smarterstv99.dyndns.tv:25461/live/Juan823/XrrdxQgVwb2E/334650.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/J0Yq71Vm/dsports2.jpg" group-title="DEPORTES 2026 LAT",Directv Sports 2
+http://live.btv.mx:2424/stream/299313/smAVz_uhytj5REM-4pYNZbkrcB2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VkCR1Q7y/dsports.jpg" group-title="DEPORTES 2026 LAT",Directv Sports + SD
+http://front-main.eagle-4k.me:80/live/r1y1vv2q55/b0ciw3qsbs/40975.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VkCR1Q7y/dsports.jpg" group-title="DEPORTES 2026 LAT",Directv Sports + SD
+http://217.26.190.76:8888/play/a0jb/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bJ8qyPpS/espn-premium.jpg" group-title="DEPORTES 2026 LAT",ESPN PREMIUN HD
+http://190.217.66.92:8000/play/a0pj/index.m3u8u?hls
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XvZtjJ7S/TNTSports-Premium.jpg" group-title="DEPORTES 2026 LAT",TNT PREMIUN HD
+https://1nyaler.streamhostingcdn.top/stream/30/index.m3u8
+
+#EXTINF:-1 tvg-id="Espn.1.MEX.co" tvg-name="Espn 1 (MEX)" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/id9erx1610288475.png" group-title="DEPORTES 2026 LAT",Espn 1 (MEX)
+http://45.5.119.43:4000/play/a052/index.m3u8
+#EXTINF:-1 tvg-id="Espn.1.Lat.co" tvg-name="Espn 1 (Lat)" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/id9erx1610288475.png" group-title="DEPORTES 2026 LAT",Espn 1 (Lat)
+http://38.224.172.198:8000/play/a00f/index.m3u8
+#EXTINF:-1 tvg-id="Espn.1.Col.co" tvg-name="Espn 1 (Col)" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/id9erx1610288475.png" group-title="DEPORTES 2026 LAT",Espn 1 (Col)
+http://181.78.8.199:8000/play/a0b1/index.m3u8
+#EXTINF:-1 tvg-id="Espn.1.Col.co" tvg-name="Espn 1 (Col)" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/id9erx1610288475.png" group-title="DEPORTES 2026 LAT",Espn 1 (Col)
+http://liontv.es:80/live/NESTORCHI/GRETF/358395.ts
+#EXTINF:-1 tvg-id="Espn.1.Arg.co" tvg-name="Espn 1 (Arg)" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/id9erx1610288475.png" group-title="DEPORTES 2026 LAT",Espn 1 (Arg)
+http://liontv.es:80/live/NESTORCHI/GRETF/335366.ts
+#EXTINF:-1 tvg-id="Espn.1.Chi.co" tvg-name="Espn 1 (Chi)" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/id9erx1610288475.png" group-title="DEPORTES 2026 LAT",Espn 1 (Chi)
+http://45.160.13.201:8000/play/212
+
+#EXTINF:-1 tvg-id="ESPN.2.Col.co" tvg-name="ESPN 2 (Col)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/ESPN2_2006.svg/revision/latest/scale-to-width-down/1000?cb=20200105155601&path-prefix=es" group-title="DEPORTES 2026 LAT",ESPN 2 (Col)
+http://181.78.14.26:4000/play/a02p/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.2.Arg.co" tvg-name="ESPN 2 (Arg)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/ESPN2_2006.svg/revision/latest/scale-to-width-down/1000?cb=20200105155601&path-prefix=es" group-title="DEPORTES 2026 LAT",ESPN 2 (Arg)
+http://181.78.14.26:4000/play/a05c/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.2.MX.co" tvg-name="ESPN 2 MX" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/ESPN2_2006.svg/revision/latest/scale-to-width-down/1000?cb=20200105155601&path-prefix=es" group-title="DEPORTES 2026 LAT",ESPN 2 MX
+http://45.5.119.43:4000/play/a053/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN.3.Col.co" tvg-name="ESPN 3 (Col)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Espn3.png/revision/latest?cb=20151012185318&path-prefix=es" group-title="DEPORTES 2026 LAT",ESPN 3 (Col)
+http://190.60.49.242:4000/play/a070/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.3.Arg.co" tvg-name="ESPN 3 (Arg)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Espn3.png/revision/latest?cb=20151012185318&path-prefix=es" group-title="DEPORTES 2026 LAT",ESPN 3 (Arg)
+http://181.78.14.26:4000/play/a062/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.3.Chi.co" tvg-name="ESPN 3 (Chi)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Espn3.png/revision/latest?cb=20151012185318&path-prefix=es" group-title="DEPORTES 2026 LAT",ESPN 3 (Chi)
+http://38.250.190.45:8000/play/a0d8/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.3.Mex.co" tvg-name="ESPN 3 (Mex)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Espn3.png/revision/latest?cb=20151012185318&path-prefix=es" group-title="DEPORTIVO",ESPN 3 (Mex)
+http://45.5.119.43:4000/play/a054/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN.4.Col.co" tvg-name="ESPN 4 (Col)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/ESPN_4.svg/revision/latest/scale-to-width-down/250?cb=20211129170304&path-prefix=es" group-title="DEPORTES 2026 LAT",ESPN 4 (Col)
+http://181.78.14.26:4000/play/a03w/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.4.Arg.co" tvg-name="ESPN 4 (Arg)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/ESPN_4.svg/revision/latest/scale-to-width-down/250?cb=20211129170304&path-prefix=es" group-title="DEPORTES 2026 LAT",ESPN 4 (Arg)
+http://181.78.14.26:4000/play/a0bw/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.4.Chi.co" tvg-name="ESPN 4 (Chi)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/ESPN_4.svg/revision/latest/scale-to-width-down/250?cb=20211129170304&path-prefix=es" group-title="DEPORTES 2026 LAT",ESPN 4 (Chi)
+http://38.250.190.45:8000/play/a0d6/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.4.Mex.co" tvg-name="ESPN 4 (Mex)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/ESPN_4.svg/revision/latest/scale-to-width-down/250?cb=20211129170304&path-prefix=es" group-title="DEPORTES 2026 LAT",ESPN 4 (Mex)
+http://45.5.119.43:4000/play/a028/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN.5.Col.co" tvg-name="ESPN 5 (Col)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/13/ESPN_5.svg/revision/latest/scale-to-width-down/250?cb=20211120193957" group-title="DEPORTES 2026 LAT",ESPN 5 (Col)
+http://181.78.14.26:4000/play/a03x/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.5.Arg.co" tvg-name="ESPN 5 (Arg)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/13/ESPN_5.svg/revision/latest/scale-to-width-down/250?cb=20211120193957" group-title="DEPORTES 2026 LAT",ESPN 5 (Arg)
+http://181.78.14.26:4000/play/a06b/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.5.Chi.co" tvg-name="ESPN 5 (Chi)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/13/ESPN_5.svg/revision/latest/scale-to-width-down/250?cb=20211120193957" group-title="DEPORTES 2026 LAT",ESPN 5 (Chi)
+http://38.250.190.45:8000/play/a0d7/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.5.Mex.co" tvg-name="ESPN 5 (Mex)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/ESPN_6.svg/revision/latest/scale-to-width-down/250?cb=20211120192909" group-title="DEPORTES 2026 LAT",ESPN 5 (Mex)
+http://45.5.119.43:4000/play/a0ix/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN.6.Col.co" tvg-name="ESPN 6 (Col)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/ESPN_6.svg/revision/latest/scale-to-width-down/250?cb=20211120192909" group-title="DEPORTES 2026 LAT",ESPN 6 (Col)
+http://190.60.49.242:4000/play/a0dq/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.6.Arg.co" tvg-name="ESPN 6 (Arg)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/ESPN_6.svg/revision/latest/scale-to-width-down/250?cb=20211120192909" group-title="DEPORTES 2026 LAT",ESPN 6 (Arg)
+http://181.78.14.26:4000/play/a03y/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.6.Mex.co" tvg-name="ESPN 6 (Mex)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/ESPN_6.svg/revision/latest/scale-to-width-down/250?cb=20211120192909" group-title="DEPORTES 2026 LAT",ESPN 6 (Mex)
+http://45.5.119.43:4000/play/a0kj/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN.7.co" tvg-name="ESPN 7" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/ESPN_7.svg/revision/latest/scale-to-width-down/78?cb=20240210020543" group-title="DEPORTES 2026 LAT",ESPN 7
+http://181.78.14.26:4000/play/a042/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.7.co" tvg-name="ESPN 7" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/ESPN_7.svg/revision/latest/scale-to-width-down/78?cb=20240210020543" group-title="DEPORTES 2026 LAT",ESPN 7
+http://181.78.79.131:8000/play/a0s8
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXU65INNXNQYFK5WO5KI4UKDJV7XVVUJ36UCVRCQLGYW7ST7IFNM6ZWHASIM
 DIRECTV LATINO
 http://jumangis.cloud:2082/JairoVargas/5T5wLJjTbu/28377
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS Ñ" tvg-logo="https://i.postimg.cc/xdgMY81T/being-sport.jpg" group-title="⚽️  DEPORTES LATINO",BEIN SPORTS Ñ
