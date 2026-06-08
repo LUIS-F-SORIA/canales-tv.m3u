@@ -1,16 +1,14 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="GRAN HERMANO 24/7" tvg-logo="https://i.ibb.co/Zp1bgjb5/ARG3.jpg" group-title="⏩ Gran Hermano Argentina ⏪",GRAN HERMANO 24/7
-http://resplaytvofc.vip:80//live/Cristianbe56/Benavente56/454926.ts
-#EXTINF:-1 tvg-id="" tvg-name="GRAN HERMANO CAM 1" tvg-logo="https://i.ibb.co/Zp1bgjb5/ARG3.jpg" group-title="⏩ Gran Hermano Argentina ⏪",GRAN HERMANO CAM 1
-http://resplaytvofc.vip:80//live/Cristianbe56/Benavente56/454927.ts
-#EXTINF:-1 tvg-id="" tvg-name="GRAN HERMANO CAM 2 [0ndeman]" tvg-logo="https://i.ibb.co/Zp1bgjb5/ARG3.jpg" group-title="⏩ Gran Hermano Argentina ⏪",GRAN HERMANO CAM 2 [0ndeman]
-http://resplaytvofc.vip:80//live/Cristianbe56/Benavente56/454928.ts
-#EXTINF:-1 tvg-id="" tvg-name="GRAN HERMANO CAM 3 [0ndemand]" tvg-logo="https://i.ibb.co/Zp1bgjb5/ARG3.jpg" group-title="⏩ Gran Hermano Argentina ⏪",GRAN HERMANO CAM 3 [0ndemand]
-http://resplaytvofc.vip:80//live/Cristianbe56/Benavente56/454929.ts
-#EXTINF:-1 tvg-id="" tvg-name="GRAN HERMANO MULTICAMARA 0ndemand" tvg-logo="https://i.ibb.co/Zp1bgjb5/ARG3.jpg" group-title="⏩ Gran Hermano Argentina ⏪",GRAN HERMANO MULTICAMARA 0ndemand
-http://resplaytvofc.vip:80//live/Cristianbe56/Benavente56/454930.ts
-#EXTINF:-1 tvg-id="" tvg-name="✓⚡*GR∆N HE®M∆N0 ∆RGĘNTlN∆ ☀️⭐" tvg-logo="3Ddd61427fff3dd9df9ce5c2aaf4cdd252665b1535a01f1c9a2464c607eee83c11%26width%3D767&sp=1772030580Tc59063515b1f3f0e93f7DcJHrrHSgvFpsYxqb6g97uaQTd2kE31rPUeDZTeDsjVq" group-title="⏩ Gran Hermano Argentina ⏪",✓⚡*GR∆N HE®M∆N0 ∆RGĘNTlN∆ ☀️⭐
-http://resplaytvofc.vip:80//live/Cristianbe56/Benavente56/453157.ts
+#EXTINF:-1 tvg-id="" tvg-name="GRAN HERMANO 24/7" tvg-logo="https://media.a24.com/p/bd593ee64bc53c172578822aa7ecc39b/adjuntos/296/imagenes/009/671/0009671653/1200x675/smart/gran-hermano-generacion-dorada.jpg" group-title="GRAN HERMANO ARGENTINA",GRAN HERMANO 24/7
+http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/749367.ts
+#EXTINF:-1 tvg-id="" tvg-name="GRAN HERMANO CAM 1" tvg-logo="https://media.a24.com/p/bd593ee64bc53c172578822aa7ecc39b/adjuntos/296/imagenes/009/671/0009671653/1200x675/smart/gran-hermano-generacion-dorada.jpg" group-title="GRAN HERMANO ARGENTINA",GRAN HERMANO CAM 1
+http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/749368.ts
+#EXTINF:-1 tvg-id="" tvg-name="GRAN HERMANO CAM 2" tvg-logo="https://media.a24.com/p/bd593ee64bc53c172578822aa7ecc39b/adjuntos/296/imagenes/009/671/0009671653/1200x675/smart/gran-hermano-generacion-dorada.jpg" group-title="GRAN HERMANO ARGENTINA",GRAN HERMANO CAM 2
+http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/749369.ts
+#EXTINF:-1 tvg-id="" tvg-name="GRAN HERMANO CAM 3" tvg-logo="https://media.a24.com/p/bd593ee64bc53c172578822aa7ecc39b/adjuntos/296/imagenes/009/671/0009671653/1200x675/smart/gran-hermano-generacion-dorada.jpg" group-title="GRAN HERMANO ARGENTINA",GRAN HERMANO CAM 3
+http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/749370.ts
+#EXTINF:-1 tvg-id="" tvg-name="GRAN HERMANO MULTICAMARA" tvg-logo="https://media.a24.com/p/bd593ee64bc53c172578822aa7ecc39b/adjuntos/296/imagenes/009/671/0009671653/1200x675/smart/gran-hermano-generacion-dorada.jpg" group-title="GRAN HERMANO ARGENTINA",GRAN HERMANO MULTICAMARA
+http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/749371.ts
 TV ARGENTINA
 #EXTINF:-1 tvg-id="" tvg-name="5TV" tvg-logo="https://www.tvcinco.com/images/logo2.jpg" group-title="Argentina",5TV
 http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/712700.ts
@@ -128,14 +126,14 @@ http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/712752.ts
 http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/712753.ts
 #EXTINF:-1 tvg-id="" tvg-name="TyC Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/TyC_Sports.png/revision/latest?cb=20190620182054&path-prefix=es" group-title="MUNDIAL 2026 LUIS-FS",TyC Sports
 http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/712754.ts
-#EXTINF:-1 tvg-id="" tvg-name="TYC SPORTS HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/TyC_Sports.png/revision/latest?cb=20190620182054&path-prefix=es" group-title="MUNDIAL 2026 LUIS-FSL",TYC SPORTS HD
+#EXTINF:-1 tvg-id="" tvg-name="TYC SPORTS HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/TyC_Sports.png/revision/latest?cb=20190620182054&path-prefix=es" group-title="MUNDIAL 2026 LUIS-FS",TYC SPORTS HD
 http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/712755.ts
 DIERCTV SPORT
 #EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS AR" tvg-logo="https://i.ibb.co/RjFVFZW/wer324324324.png" group-title="DIRECTV SPORTS MUNDIAL 2026",DIRECTV SPORTS AR
 http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/69547.ts
 #EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS 2 AR" tvg-logo="https://i.ibb.co/fXC6w96/ds2.png" group-title="DIRECTV SPORTS MUNDIAL 2026",DIRECTV SPORTS 2 AR
 http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/69549.ts
-#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS CH" tvg-logo="https://i.ibb.co/RjFVFZW/wer324324324.png" group-title="DDIRECTV SPORTS MUNDIAL 2026",DIRECTV SPORTS CH
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS CH" tvg-logo="https://i.ibb.co/RjFVFZW/wer324324324.png" group-title="DIRECTV SPORTS MUNDIAL 2026",DIRECTV SPORTS CH
 http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/69552.ts
 #EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS EC" tvg-logo="https://i.ibb.co/RjFVFZW/wer324324324.png" group-title="DIRECTV SPORTS MUNDIAL 2026",DIRECTV SPORTS EC
 http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/69557.ts
