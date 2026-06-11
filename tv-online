@@ -1,4 +1,8 @@
-#EXTM3U
+#EXTM3U url-tvg="https://raw.githubusercontent.com/globetvapp/epg/main/Argentina/argentina1.xml
+#EXTM3U url-tvg="https://raw.githubusercontent.com/globetvapp/epg/main/Mexico/mexico1.xml
+#EXTM3U url-tvg="https://raw.githubusercontent.com/globetvapp/epg/main/Colombia/colombia1.xml
+#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml
+
 #EXTINF:-1 tvg-id="" tvg-name="GRAN HERMANO 24/7" tvg-logo="https://media.a24.com/p/bd593ee64bc53c172578822aa7ecc39b/adjuntos/296/imagenes/009/671/0009671653/1200x675/smart/gran-hermano-generacion-dorada.jpg" group-title="GRAN HERMANO ARGENTINA",GRAN HERMANO 24/7
 http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/749367.ts
 #EXTINF:-1 tvg-id="" tvg-name="GRAN HERMANO CAM 1" tvg-logo="https://media.a24.com/p/bd593ee64bc53c172578822aa7ecc39b/adjuntos/296/imagenes/009/671/0009671653/1200x675/smart/gran-hermano-generacion-dorada.jpg" group-title="GRAN HERMANO ARGENTINA",GRAN HERMANO CAM 1
