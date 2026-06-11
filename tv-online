@@ -10,6 +10,10 @@ http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/749370.ts
 #EXTINF:-1 tvg-id="" tvg-name="GRAN HERMANO MULTICAMARA" tvg-logo="https://media.a24.com/p/bd593ee64bc53c172578822aa7ecc39b/adjuntos/296/imagenes/009/671/0009671653/1200x675/smart/gran-hermano-generacion-dorada.jpg" group-title="GRAN HERMANO ARGENTINA",GRAN HERMANO MULTICAMARA
 http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/749371.ts
 TV ARGENTINA
+#EXTINF:-1 tvg-id="" tvg-name="Neo TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/Neo_TV_Florencio_Varela.png/revision/latest/scale-to-width-down/1000?cb=20250702200816" group-title="Argentina",Neo TV
+http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/712735.ts
+#EXTINF:-1 tvg-id="" tvg-name="NET TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/NETTV2018.png/revision/latest/scale-to-width-down/1000?cb=20210315130135&path-prefix=es" group-title="Argentina",NET TV
+http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/712736.ts
 #EXTINF:-1 tvg-id="" tvg-name="5TV" tvg-logo="https://www.tvcinco.com/images/logo2.jpg" group-title="Argentina",5TV
 http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/712700.ts
 #EXTINF:-1 tvg-id="" tvg-name="A24 | AR" tvg-logo="https://i.postimg.cc/VL2YNmHh/images-q-tbn-ANd9Gc-T8yf-XBu-Qmon9WVy3ETX9fuq0w4U8Hvq391YA-s.png" group-title="Argentina",A24 | AR
@@ -230,6 +234,66 @@ http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/592011.ts
 http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/592012.ts
 #EXTINF:-1 tvg-id="beIN Sports HDTV (Spanish)" tvg-name="| BEIN SPORTS Ñ |" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/BeIN_Sports_En_Espa%C3%B1ol.png" group-title="DEPORTES PREMIUM",| BEIN SPORTS Ñ |
 http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/592013.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS XTRA Ñ" tvg-logo="https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png" group-title="DEPORTES PREMIUM",BEIN SPORTS XTRA Ñ
+http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/592014.ts
+#EXTINF:-1 tvg-id="" tvg-name="| TUDN MX | HD |" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:DcJHrrHSgvFpsYxqb6g97uaQTd2kE31rPUeDZTeDsjVq&s" group-title="DEPORTES PREMIUM",| TUDN MX | HD |
+http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/592016.ts
+#EXTINF:-1 tvg-id="" tvg-name="TUDN MX FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:DcJHrrHSgvFpsYxqb6g97uaQTd2kE31rPUeDZTeDsjVq&s" group-title="DEPORTES PREMIUM",TUDN MX FHD
+http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/592017.ts
+#EXTINF:-1 tvg-id="" tvg-name="| TUDN USA | HD |" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:DcJHrrHSgvFpsYxqb6g97uaQTd2kE31rPUeDZTeDsjVq&s" group-title="DEPORTES PREMIUM",| TUDN USA | HD |
+http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/592018.ts
+#EXTINF:-1 tvg-id="" tvg-name="| TUDN USA | FHD |" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:DcJHrrHSgvFpsYxqb6g97uaQTd2kE31rPUeDZTeDsjVq&s" group-title="DEPORTES PREMIUM",| TUDN USA | FHD |
+http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/592019.ts
+#EXTINF:-1 tvg-id="" tvg-name="| TUDNxtra 1 |" tvg-logo="https://pbs.twimg.com/profile_images/1163864477856620544/a4jUeZxm_400x400.jpg" group-title="DEPORTES PREMIUM",| TUDNxtra 1 |
+http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/592020.ts
+#EXTINF:-1 tvg-id="" tvg-name="| TUDNxtra 2 |" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2019_09/tux2.png.06b73f9842ce65b4ce4a054d8fde72e5.png" group-title="DEPORTES PREMIUM",| TUDNxtra 2 |
+http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/592021.ts
+#EXTINF:-1 tvg-id="" tvg-name="| TUDNxtra 3 |" tvg-logo="https://i.ibb.co/LYvBRgZ/tudnxtr.png" group-title="DEPORTES PREMIUM",| TUDNxtra 3 |
+http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/592022.ts
+#EXTINF:-1 tvg-id="" tvg-name="| TUDNxtra 4 |" tvg-logo="https://i.ibb.co/LYvBRgZ/tudnxtr.png" group-title="DEPORTES PREMIUM",| TUDNxtra 4 |
+http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/592023.ts
+#EXTINF:-1 tvg-id="" tvg-name="| TUDNxtra 5 |" tvg-logo="https://i.ibb.co/LYvBRgZ/tudnxtr.png" group-title="DEPORTES PREMIUM",| TUDNxtra 5 |
+http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/592024.ts
+#EXTINF:-1 tvg-id="" tvg-name="| TUDNxtra 6 |" tvg-logo="https://i.imgur.com/d5ieH3U.jpg" group-title="DEPORTES PREMIUM",| TUDNxtra 6 |
+http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/592025.ts
+#EXTINF:-1 tvg-id="" tvg-name="| TUDNxtra 7 |" tvg-logo="https://i.imgur.com/d5ieH3U.jpg" group-title="DEPORTES PREMIUM",| TUDNxtra 7 |
+http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/592026.ts
+#EXTINF:-1 tvg-id="" tvg-name="| TUDNxtra 8 |" tvg-logo="https://i.ibb.co/LYvBRgZ/tudnxtr.png" group-title="DEPORTES PREMIUM",| TUDNxtra 8 |
+http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/592027.ts
+#EXTINF:-1 tvg-id="" tvg-name="| TUDNxtra 9 ||" tvg-logo="https://i.ibb.co/LYvBRgZ/tudnxtr.png" group-title="DEPORTES PREMIUM",| TUDNxtra 9 ||
+http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/592028.ts
+#EXTINF:-1 tvg-id="" tvg-name="| TUDNxtra 10 |" tvg-logo="https://i.ibb.co/LYvBRgZ/tudnxtr.png" group-title="DEPORTES PREMIUM",| TUDNxtra 10 |
+http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/592029.ts
+#EXTINF:-1 tvg-id="" tvg-name="| TUDNxtra 11 |" tvg-logo="https://i.imgur.com/d5ieH3U.jpg" group-title="DEPORTES PREMIUM",| TUDNxtra 11 |
+http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/592030.ts
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORT AR" tvg-logo="https://i.postimg.cc/tJ02zqWP/descarga-(16).png" group-title="DEPORTES PREMIUM",TNT SPORT AR
+http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/592031.ts
+#EXTINF:-1 tvg-id="" tvg-name="| TNT SPORT CH |" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1280px-TNT_Sports_2021_logo.svg.png" group-title="DEPORTES PREMIUM",| TNT SPORT CH |
+http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/592032.ts
+#EXTINF:-1 tvg-id="" tvg-name="| TNT PREMIUM CH |" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/TNTSportsPremium2024.svg/revision/latest/scale-to-width-down/350?cb=20240601173549&path-prefix=es" group-title="DEPORTES PREMIUM",| TNT PREMIUM CH |
+http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/592033.ts
+#EXTINF:-1 tvg-id="" tvg-name="| CLARO SPORT |" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu7t2JcQN0ChaH4iY9eAcsV9MpcZIi8NysBQ&s" group-title="DEPORTES PREMIUM",| CLARO SPORT |
+http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/592034.ts
+#EXTINF:-1 tvg-id="" tvg-name="| CLARO SPORTS 2 |" tvg-logo="https://i.postimg.cc/Y0HQbqq7/Claro-Sports-logo-svg.png" group-title="DEPORTES PREMIUM",| CLARO SPORTS 2 |
+http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/592035.ts
+#EXTINF:-1 tvg-id="" tvg-name="DSPORTS AR" tvg-logo="https://magosdeldeporte.com/wp-content/uploads/2023/01/dsport-argentina.png" group-title="DEPORTES PREMIUM",DSPORTS AR
+http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/592036.ts
+#EXTINF:-1 tvg-id="" tvg-name="| DSPORTS CO |" tvg-logo="https://magosdeldeporte.com/wp-content/uploads/2023/01/dsport-colombia.png" group-title="DEPORTES PREMIUM",| DSPORTS CO |
+http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/592037.ts
+#EXTINF:-1 tvg-id="" tvg-name="DSPORTS 2" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTI4X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1718310567007" group-title="DEPORTES PREMIUM",DSPORTS 2
+http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/592038.ts
+#EXTINF:-1 tvg-id="" tvg-name="| DSPORTS + |" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/45/DSportsM%C3%A1s.png/revision/latest?cb=20221114124037" group-title="DEPORTES PREMIUM",| DSPORTS + |
+http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/592039.ts
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS BUNDESLIGA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/Sky_Sport_Bundesliga_UHD_Logo_2020.png" group-title="DEPORTES PREMIUM",SKY SPORTS BUNDESLIGA
+http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/592040.ts
+#EXTINF:-1 tvg-id="" tvg-name="| SKY SPORTS LA LIGA |" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKBCa6SydXxbOh3qbRLTAWW6FOnRo5nXa9kw&s" group-title="DEPORTES PREMIUM",| SKY SPORTS LA LIGA |
+http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/592041.ts
+#EXTINF:-1 tvg-id="" tvg-name="| SKY SPORT PREMIER LEAGUE |" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYABthI6mNEBc0bLSK5k1fldp-eXtMKKXGhw&s" group-title="DEPORTES PREMIUM",| SKY SPORT PREMIER LEAGUE |
+http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/592042.ts
+#EXTINF:-1 tvg-id="" tvg-name="| AYM SPORTS |" tvg-logo="https://aymsports.net/wp-content/themes/aym-sports/assets/images/logo_alter.png" group-title="DEPORTES PREMIUM",| AYM SPORTS |
+http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/592044.ts
+#EXTINF:-1 tvg-id="" tvg-name="UFC Network USA" tvg-logo="https://i.postimg.cc/FHdNqDkv/uf.png" group-title="DEPORTES PREMIUM",UFC Network USA
+http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/592045.ts
 DIRECTV LATINO
 http://jumangis.cloud:2082/JairoVargas/5T5wLJjTbu/28377
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS Ñ" tvg-logo="https://i.postimg.cc/xdgMY81T/being-sport.jpg" group-title="⚽️  DEPORTES LATINO",BEIN SPORTS Ñ
