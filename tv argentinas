@@ -65,36 +65,56 @@ http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/712725.ts
 #EXTINF:-1 tvg-id="" tvg-name="Canal 4 Posadas" tvg-logo="https://canalcuatroposadas.com.ar/wp-content/uploads/2024/02/logo-web.png" group-title="Argentina",Canal 4 Posadas
 http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/712726.ts
 DEPORTES SUR
-#EXTINF:-1 tvg-id="DSports" tvg-logo="https://i.postimg.cc/gJVDgPT9/DS-A.png" group-title="DEPORTES 2026 SUR",DSports (Opción 1)
-http://190.108.83.69:8000/play/a05w/index.m3u8
-#EXTINF:-1 tvg-id="DSports" tvg-logo="https://i.postimg.cc/gJVDgPT9/DS-A.png" group-title="DEPORTES 2026 SUR",DSports (Opción 2)
-http://148.222.230.201:8000/play/a0pk/index.m3u8
-#EXTINF:-1 tvg-id="DSports" tvg-logo="https://i.postimg.cc/gJVDgPT9/DS-A.png" group-title="DEPORTES 2026 SUR",DSports (Opción 3)
-http://148.222.230.197:8000/play/a0mm/index.m3u8
-#EXTINF:-1 tvg-id=" tvg-logo="https://i.postimg.cc/gJVDgPT9/DS-A.png" group-title="DEPORTES 2026 SUR",DSports (Opción 4)
-http://181.64.27.65:8000/play/a0dq/index.m3u8
-#EXTINF:-1 tvg-id=ç" tvg-logo="https://i.postimg.cc/gJVDgPT9/DS-A.png" group-title="DEPORTES 2026 SUR",DSports (Opción 5)
-http://38.187.7.252:8000/play/a03d/index.m3u8
-#EXTINF:-1 tvg-id=" tvg-logo="https://i.postimg.cc/gJVDgPT9/DS-A.png" group-title="DEPORTES 2026 SUR",DSports (Opción 6)
-http://190.223.48.46:8000/play/a028/index.m3u8
-#EXTINF:-1 tvg-id=" tvg-logo="https://i.postimg.cc/gJVDgPT9/DS-A.png" group-title="DEPORTES 2026 SUR",DSports (Opción 7)
-http://191.97.59.33:8000/play/a09t/index.m3u8
-#EXTINF:-1 tvg-id=" tvg-logo="hhttps://i.postimg.cc/gJVDgPT9/DS-A.png" group-title="DEPORTES 2026 SUR",DSports (Opción 8)
-http://190.117.20.37:8000/play/a08d/index.m3u
-#EXTINF:-1 tvg-id=" tvg-logo="https://i.postimg.cc/gJVDgPT9/DS-A.png" group-title="DEPORTES 2026 SUR",DSports (Opción 9)
-http://177.53.152.117:8000/play/a07d/index.m3u8
-#EXTINF:-1 tvg-id=" tvg-logo="https://i.postimg.cc/gJVDgPT9/DS-A.png" group-title="DEPORTES 2026 SUR",DSports (Opción 10)
-http://8.243.126.131:8000/play/a05a/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/J0Yv7Yqn/DS1.jpg" group-title="DEPORTES 2026 SUR",DIRECTV SPORTS ONLINE
+DEPORTES SUR
+#EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://i.postimg.cc/J0Yv7Yqn/DS1.jpg" group-title="DEPORTES 2026 SUR",DIRECTV ONLINE
 http://190.117.20.37:8000/play/a08d/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/J0Yv7Yqn/DS1.jpg" group-title="DEPORTES 2026 SUR",DIRECTV SPORTS SUR 1
-http://190.7.19.197:232/play/a09i/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/J0Yv7Yqn/DS1.jpg" group-title="DEPORTES 2026 SUR",DIRECTV SPORTS SUR 2
-http://190.7.19.197:232/play/a09h/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/J0Yv7Yqn/DS1.jpg" group-title="DEPORTES 2026 SUR",DIRECTV URUGUAY
+#EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://i.postimg.cc/J0Yv7Yqn/DS1.jpg" group-title="DEPORTES 2026 SUR",DIRECTV URUGUAY
 http://147.135.114.221:8001/play/a00m/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/s2PLGgcL/ESPS1.jpg" group-title="DEPORTES 2026 SUR",ESPN SUR AR 1
-http://45.173.74.2:2010/play/a08a/index.m3u8
+
+#EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://i.postimg.cc/3rcdqYtS/DIRECTV-PLUS.jpg" group-title="DEPORTES 2026 SURs",DSPORT+ 1
+http://190.108.83.69:8000/play/a05w/index.m3u8
+#EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://i.postimg.cc/ZRjynNFh/DSPORT.png" group-title="DEPORTES 2026 SUR",DSPORT 2
+http://148.222.230.201:8000/play/a0pk/index.m3u8
+#EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://i.postimg.cc/ZRjynNFh/DSPORT.png" group-title="DEPORTES 2026 SUR",DSPORT 3
+http://148.222.230.201:8000/play/a0pk/index.m3u8
+#EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://i.postimg.cc/ZRjynNFh/DSPORT.png" group-title="DEPORTES 2026 SUR",DSPORT2--4
+http://181.64.27.65:8000/play/a0dq/index.m3u8
+#EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://i.postimg.cc/ZRjynNFh/DSPORT.png" group-title="DEPORTES 2026 SUR",DSPORT 6
+http://38.187.7.252:8000/play/a03d/index.m3u8
+#EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://i.postimg.cc/ZRjynNFh/DSPORT.png" group-title="DEPORTES 2026 SUR",DSPORT 6
+http://190.223.48.46:8000/play/a028/index.m3u8
+#EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://i.postimg.cc/ZRjynNFh/DSPORT.png" group-title="DEPORTES 2026 SUR",DSPORT 7
+http://191.97.59.33:8000/play/a09t/index.m3u8
+#EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://i.postimg.cc/ZRjynNFh/DSPORT.png" group-title="DEPORTES 2026 SUR",DSPORT 8
+http://190.117.20.37:8000/play/a08d/index.m3u8
+#EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://i.postimg.cc/ZRjynNFh/DSPORT.png" group-title="DEPORTES 2026 SUR",DSPORT 9
+http://177.53.152.117:8000/play/a07d/index.m3u8
+#EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://i.postimg.cc/ZRjynNFh/DSPORT.png" group-title="DEPORTES 2026 SUR",DSPORT 10
+http://8.243.126.131:8000/play/a05a/index.m3u8
+#EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://i.postimg.cc/ZRjynNFh/DSPORT.png" group-title="DEPORTES 2026 SUR",DSPORT 2 HD
+http://190.7.19.197:232/play/a09h/index.m3u8
+#EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://i.postimg.cc/ZRjynNFh/DSPORT.png" group-title="DEPORTES 2026 SUR",DSPORT HD
+http://190.7.19.197:232/play/a09i/index.m3u8
+#EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/DSports_logo.svg" group-title="DEPORTES 2026 SUR",DeporTV
+http://190.7.19.197:232/play/a05d/index.m3u8
+#EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://cdn.postimage.me/2026/06/12/ESPS1.png" group-title="DEPORTES 2026 SUR",ESPN 2 HD
+http://190.7.19.197:232/play/a03m/index.m3u8
+#EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://cdn.postimage.me/2026/06/12/ESPS1.png" group-title="DEPORTES 2026 SUR",ESPN 3 HD
+http://190.7.19.197:232/play/a03o/index.m3u8
+#EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://cdn.postimage.me/2026/06/12/ESPS1.png" group-title="DEPORTES 2026 SUR",ESPN 4 HD
+http://190.7.19.197:232/play/a05t/index.m3u8
+#EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://cdn.postimage.me/2026/06/12/ESPS1.png" group-title="DEPORTES 2026 SUR",ESPN HD
+http://190.7.19.197:232/play/a03n/index.m3u8
+#EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://cdn.postimage.me/2026/06/12/ESPN-PREMIUN.jpg" group-title="DEPORTES 2026 SUR",ESPN Premium HD
+http://190.7.19.197:232/play/a038/index.m3u8
+#EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://cdn.postimage.me/2026/06/12/fox-sports-2.jpg" group-title="DEPORTES 2026 SUR",Fox Sports 2 HD
+http://190.7.19.197:232/play/a03p/index.m3u8
+#EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://cdn.postimage.me/2026/06/12/fox-sports-3.jpg" group-title="DEPORTES 2026 SUR",Fox Sports 3 HD
+http://190.7.19.197:232/play/a04x/index.m3u8
+#EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://cdn.postimage.me/2026/06/12/FOX-SPORT-AR.png" group-title="DEPORTES 2026 SUR",Fox Sports HD
+http://190.7.19.197:232/play/a05u/index.m3u8
+#EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://cdn.postimage.me/2026/06/12/TYCSPORT.png" group-title="DEPORTES 2026 SUR",TyC Sports HD
+http://190.7.19.197:232/play/a04w/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/s2PLGgcL/ESPS1.jpg" group-title="DEPORTES 2026 SUR",ESPN SUR AR 1
 http://181.118.156.46:8000/play/a04g/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/s2PLGgcL/ESPS1.jpg" group-title="DEPORTES 2026 SUR",ESPN SUR AR 2
