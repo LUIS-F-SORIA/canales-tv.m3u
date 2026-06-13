@@ -24,13 +24,6 @@
 **AGREGAR NUEVA LISTA DE CANALES**
 - Solo copien y peguen estas listas, en los reproductores recomendados:
 
-**NOTAS IMPORTANTES:**
-* los canales locales de la **seccion bolivia** no se mantienen **online las 24 horas** especialmente : red uno, unitel y atb, asi que para ver los **noticieros en sus horarios locales**, tienen que abrir los mismos con el **reproductor externo VLC**, de la seccion de la lista **(VLC CANALES DE BOLIVIA)**.
-
-- LOS FINES DE SEMANA NO SE ACTUALIZA LAS LISTAS, **SALVO LOS CANALES PREMIUM**. el tiempo de actualizacion de los canales premium hd es de **24 a 48 horas**.
-- Los canales de la **SECCION PREMIUM Y DEPORTES Y 24/7** no son señales fijas, y pueden cambiar o ser eliminadas sin previo aviso.
-- **La guia EPG de canales esta offline desde 2023**, por que representa mucho trabajo de actualizacion.
-- cualquier reporte de canales offline o problemas con los reproductores recomendados, escribir al correo de contacto:   web.empresa.carlos@gmail.com
 
 ![](https://i.ibb.co/4njGsBjS/notIMPRT.png)
 - **LOS CANALES DE LA SECCION PREMIUM HD & DEPORTES**, en ciertos horarios llegan a saturarse por lo cual no estaran disponibles en horarios pico:
