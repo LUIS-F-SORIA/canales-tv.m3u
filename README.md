@@ -1,4 +1,4 @@
-<img src="https://i.postimg.cc/DwFPWyXK/imagen-para-listas.png" width="360"/>
+<img src="https://cdn.postimage.me/2026/06/13/imagen-para-listas.png" width="360"/>
 
 - Restablecido host **GITHUB** se elimino host extra: **PASTEBIN**,
 - **LISTA ACTUAL**:
