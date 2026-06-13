@@ -48,19 +48,6 @@
 - Contar con una conexion de internet de entre **100 megas a 200 megas**, preferiblemente por fibra optica.
 - Para los canales de la **SECCION PREMIUM & DEPORTES**, configurar el **buffer de red** de su **reproductor IPTV**, entre **98.000 ms a 198.000 ms**, para asegurar una carga de red optima del canal, y configure **la reconexion automatica de red del canal**, si falla la reproduccion del canal en algunos milisegundos.
 
-<img src="https://i.postimg.cc/ZK6NtrNt/bolentraropion11.png" width="300"/>
-
-
-<img src="https://i.postimg.cc/bNHKQLpV/s-US01PRO.png" width="300"/>
-<div style="display: flex;">
-<a href="https://www.facebook.com/boliviadigitalhd2">
-  <img src="https://i.postimg.cc/k5x1mgDd/Aser.png" alt="Descripción de la imagen" width="85">
-</a>
-<a href="https://youtube.com/@BoliviaDigi">
-  <img src="https://i.postimg.cc/CLzcKNdH/Bser.png" alt="Descripción de la imagen" width="136">
-</a>
-<a href="https://t.me/master_johannes_KEPLER">
-  <img src="https://i.postimg.cc/yNXPGprY/Cser.png" alt="Descripción de la imagen" width="89">
 </a>
 </div>
 
