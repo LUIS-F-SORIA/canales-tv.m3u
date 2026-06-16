@@ -14,6 +14,12 @@ http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/749370.ts
 #EXTINF:-1 tvg-id="" tvg-name="GRAN HERMANO MULTICAMARA" tvg-logo="https://media.a24.com/p/bd593ee64bc53c172578822aa7ecc39b/adjuntos/296/imagenes/009/671/0009671653/1200x675/smart/gran-hermano-generacion-dorada.jpg" group-title="GRAN HERMANO ARGENTINA",GRAN HERMANO MULTICAMARA
 http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/749371.ts
 TV ARGENTINA
+#EXTINF:-1 tvg-id="" tvg-name="TELEFE" tvg-logo="https://i.postimg.cc/x8MSJbZX/330px-Telefe-(nuevo-logo).png" group-title="Argentina",TELEFE
+http://45.225.40.206:12080/Live/eab080bb8da84db1cd89ee8233571041/telefe.playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TELEFE" tvg-logo="https://i.postimg.cc/x8MSJbZX/330px-Telefe-(nuevo-logo).png" group-title="Argentina",TELEFE
+http://45.225.40.206:12080/Live/eab080bb8da84db1cd89ee8233571041/telefe.playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TELEFE" tvg-logo="https://i.postimg.cc/x8MSJbZX/330px-Telefe-(nuevo-logo).png" group-title="Argentina",TELEFE
+http://45.225.40.206:12080/Live/eab080bb8da84db1cd89ee8233571041/telefe.playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="5TV" tvg-logo="https://www.tvcinco.com/images/logo2.jpg" group-title="Argentina",5TV
 http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/712700.ts
 #EXTINF:-1 tvg-id="" tvg-name="A24 | AR" tvg-logo="https://i.postimg.cc/VL2YNmHh/images-q-tbn-ANd9Gc-T8yf-XBu-Qmon9WVy3ETX9fuq0w4U8Hvq391YA-s.png" group-title="Argentina",A24 | AR
@@ -73,7 +79,7 @@ https://latam-cache-sv2-cdn.latamlive.net/DS1_ENC_LIVE/index.mpd
 #EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://i.postimg.cc/J0Yv7Yqn/DS1.jpg" group-title="DEPORTES 2026 SUR",DIRECTV URUGUAY
 http://147.135.114.221:8001/play/a00m/index.m3u8
 
-#EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://i.postimg.cc/3rcdqYtS/DIRECTV-PLUS.jpg" group-title="DEPORTES 2026 SURs",DSPORT+ 1
+#EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://i.postimg.cc/3rcdqYtS/DIRECTV-PLUS.jpg" group-title="DEPORTES 2026 SUR",DSPORT+ 1
 http://190.108.83.69:8000/play/a05w/index.m3u8
 #EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://i.postimg.cc/ZRjynNFh/DSPORT.png" group-title="DEPORTES 2026 SUR",DSPORT 2
 http://148.222.230.201:8000/play/a0pk/index.m3u8
