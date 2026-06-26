@@ -132,16 +132,16 @@ DEPORTES SUR
 #EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://i.postimg.cc/J0Yv7Yqn/DS1.jpg" group-title="DEPORTES 2026 SUR",DIRECTV ONLINE
 http://190.117.20.37:8000/play/a08d/index.m3u8
 #EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://i.postimg.cc/J0Yv7Yqn/DS1.jpg" group-title="DEPORTES 2026 SUR",DIRECTV SUR
-https://latam-cache-sv2-cdn.latamlive.net/DS1_ENC_LIVE/index.mpd
+http://smarterstv99.dyndns.tv:25461/live/Juan823/XrrdxQgVwb2E/125647.ts
 #EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://i.postimg.cc/J0Yv7Yqn/DS1.jpg" group-title="DEPORTES 2026 SUR",DIRECTV URUGUAY
-http://147.135.114.221:8001/play/a00m/index.m3u8
+http://181.119.93.83:8000/play/a184/index.m3u8
 
-#EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://i.postimg.cc/3rcdqYtS/DIRECTV-PLUS.jpg" group-title="DEPORTES 2026 SUR",DSPORT+ 1
+#EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://i.postimg.cc/3rcdqYtS/DIRECTV-PLUS.jpg" group-title="DEPORTES 2026 SURs",DSPORT+ 1
 http://190.108.83.69:8000/play/a05w/index.m3u8
 #EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://i.postimg.cc/ZRjynNFh/DSPORT.png" group-title="DEPORTES 2026 SUR",DSPORT 2
 http://148.222.230.201:8000/play/a0pk/index.m3u8
 #EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://i.postimg.cc/ZRjynNFh/DSPORT.png" group-title="DEPORTES 2026 SUR",DSPORT 3
-http://148.222.230.197:8000/play/a0mm/index.m3u8
+http://148.222.230.201:8000/play/a0pk/index.m3u8
 #EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://i.postimg.cc/ZRjynNFh/DSPORT.png" group-title="DEPORTES 2026 SUR",DSPORT2--4
 http://181.64.27.65:8000/play/a0dq/index.m3u8
 #EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://i.postimg.cc/ZRjynNFh/DSPORT.png" group-title="DEPORTES 2026 SUR",DSPORT 5
@@ -151,7 +151,7 @@ http://190.223.48.46:8000/play/a028/index.m3u8
 #EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://i.postimg.cc/ZRjynNFh/DSPORT.png" group-title="DEPORTES 2026 SUR",DSPORT 7
 http://191.97.59.33:8000/play/a09t/index.m3u8
 #EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://i.postimg.cc/ZRjynNFh/DSPORT.png" group-title="DEPORTES 2026 SUR",DSPORT 8
-http://190.117.20.37:8000/play/a08d/index.m3u8
+http://190.117.20.37:8000/play/a08d/index.m3u
 #EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://i.postimg.cc/ZRjynNFh/DSPORT.png" group-title="DEPORTES 2026 SUR",DSPORT 9
 http://177.53.152.117:8000/play/a07d/index.m3u8
 #EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://i.postimg.cc/ZRjynNFh/DSPORT.png" group-title="DEPORTES 2026 SUR",DSPORT 10
