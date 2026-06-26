@@ -16,10 +16,6 @@ http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/749371.ts
 TV ARGENTINA
 #EXTINF:-1 tvg-id="" tvg-name="TELEFE" tvg-logo="https://i.postimg.cc/x8MSJbZX/330px-Telefe-(nuevo-logo).png" group-title="Argentina",TELEFE 1
 http://190.7.19.197:232/play/a059/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TELEFE" tvg-logo="https://i.postimg.cc/x8MSJbZX/330px-Telefe-(nuevo-logo).png" group-title="Argentina",TELEFE
-http://45.225.40.206:12080/Live/eab080bb8da84db1cd89ee8233571041/telefe.playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TELEFE" tvg-logo="https://i.postimg.cc/x8MSJbZX/330px-Telefe-(nuevo-logo).png" group-title="Argentina",TELEFE
-http://45.225.40.206:12080/Live/eab080bb8da84db1cd89ee8233571041/telefe.playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="5TV" tvg-logo="https://www.tvcinco.com/images/logo2.jpg" group-title="Argentina",5TV
 http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/712700.ts
 #EXTINF:-1 tvg-id="" tvg-name="A24 | AR" tvg-logo="https://i.postimg.cc/VL2YNmHh/images-q-tbn-ANd9Gc-T8yf-XBu-Qmon9WVy3ETX9fuq0w4U8Hvq391YA-s.png" group-title="Argentina",A24 | AR
@@ -136,7 +132,7 @@ http://smarterstv99.dyndns.tv:25461/live/Juan823/XrrdxQgVwb2E/125647.ts
 #EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://i.postimg.cc/J0Yv7Yqn/DS1.jpg" group-title="DEPORTES 2026 SUR",DIRECTV URUGUAY
 http://181.119.93.83:8000/play/a184/index.m3u8
 
-#EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://i.postimg.cc/3rcdqYtS/DIRECTV-PLUS.jpg" group-title="DEPORTES 2026 SURs",DSPORT+ 1
+#EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://i.postimg.cc/3rcdqYtS/DIRECTV-PLUS.jpg" group-title="DEPORTES 2026 SUR",DSPORT+ 1
 http://190.108.83.69:8000/play/a05w/index.m3u8
 #EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://i.postimg.cc/ZRjynNFh/DSPORT.png" group-title="DEPORTES 2026 SUR",DSPORT 2
 http://148.222.230.201:8000/play/a0pk/index.m3u8
