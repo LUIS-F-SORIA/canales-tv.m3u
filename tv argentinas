@@ -3,7 +3,6 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/globetvapp/epg/main/Colombia/colombia1.xml
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml
 BOLIVIA
-BOLIVIA
 #EXTINF:-1 tvg-id="TVB" tvg-name="BOLIVIA TV SD" tvg-logo="https://i.ibb.co/mqY2rQc/descarga-20.jpg" group-title="BOLIVIA",BOLIVIA TV SD
 http://alltvmx.com/live/walther_rod/Rodriguez2024W/2135.ts
 #EXTINF:-1 tvg-id="" tvg-name="BOLIVISION HD" tvg-logo="https://i.ibb.co/3T72bf8/descarga.jpg" group-title="BOLIVIA",BOLIVISION HD
