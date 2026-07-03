@@ -3,6 +3,34 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/globetvapp/epg/main/Colombia/colombia1.xml
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml
 BOLIVIA
+#EXTINF:-1 tvg-id="BOLIVISION BOLIVIA" tvg-logo="https://i.postimg.cc/Px7hL91q/boll-Sczhd1.jpg" group-title="BOLIVIA",BOLIVISION HD BOL
+https://d2qsan2ut81n2k.cloudfront.net/live/3338960e-86ca-4c50-a567-913c663b26fc/medialist_15609871089997455276_hls.m3u8
+#EXTINF:-1 tvg-id="RTP BOLIVIA" tvg-logo="https://i.postimg.cc/90MVPsZt/rtps2k.jpg" group-title="BOLIVIA",RTP LA-PAZ HD BOL
+https://rtp.noxun.net/hls720/stream3.m3u8
+#EXTINF:-1 tvg-id="F10" tvg-logo="https://i.ibb.co/ggkqLnh/F10-HD.jpg" group-title="BOLIVIA",F10 HD BOL
+https://tv2.bitstreaming.net:3235/multi_live/play_720.m3u8
+#EXTINF:-1 tvg-logo="https://canales.asplurtv.com/logo_asplur.png" group-title="BOLIVIA",ASPLUR BOL
+https://59d39900ebfb8.streamlock.net/telefehd/telefehd/chunklist_w818351296.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QtdvKMsP/FAP-TV-HD-BOLIVIA.png" group-title="BOLIVIA",FAP TV HD BOL
+https://edge.enhdtv.com/faptv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YqvGfNb6/vos-tv-hd-bolivia.png" group-title="BOLIVIA",VOS TV HD BOL
+https://59d39900ebfb8.streamlock.net/vostv/vostv/chunklist_w598464211.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gkKzhxPw/NOVELAS-TURCAS-BOL.png" group-title="BOLIVIA",NOVELAS TURCAS BOL
+http://tv.zoymilton.com/ZoyTurcas/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NftPzwN5/TNT-NOVELAS.png" group-title="BOLIVIA",TNT NOVELAS
+http://181.78.8.199:8000/play/a0bq/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/52cBXkbX/PELICULA-DE-TV-EN-CASA.png" group-title="BOLIVIA",PELICULAS TV CINE BOL
+http://tv.zoymilton.com/ZoyPlus/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RCJqW7df/TDT-MULTIMEDIA-BOL.png" group-title="BOLIVIA",TDT MULTIMEDIA BOL
+http://video01.brascast.com/juan6318/juan6318/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/63gnNRND/logo-univalle.png" group-title="BOLIVIA",TV UNIVALLE BOL
+https://master.tucableip.com/univalletv/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SxSX3VMY/logo-asitv.png" group-title="BOLIVIA",TV ASI ES MI PUEBLO BOL
+https://59d39900ebfb8.streamlock.net/asiesmipueblo/asiesmipueblo/chunklist_w976694120.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mDRKycnK/inedi-logo.png" group-title="BOLIVIA",CINEDITA TV BOL
+https://59d39900ebfb8.streamlock.net/INEDITA/INEDITA/chunklist_w977436679.m3u8
+#EXTINF:-1 tvg-logo="hhttps://i.postimg.cc/DfgR61tT/logo-soltv.png" group-title="BOLIVIA",SOL TV BOL
+https://tv2.bitstreaming.net:3548/live/soltvbolivialive.m3u8
 #EXTINF:-1 tvg-id="TVB" tvg-name="BOLIVIA TV SD" tvg-logo="https://i.ibb.co/mqY2rQc/descarga-20.jpg" group-title="BOLIVIA",BOLIVIA TV SD
 http://alltvmx.com/live/walther_rod/Rodriguez2024W/2135.ts
 #EXTINF:-1 tvg-id="" tvg-name="BOLIVISION HD" tvg-logo="https://i.ibb.co/3T72bf8/descarga.jpg" group-title="BOLIVIA",BOLIVISION HD
