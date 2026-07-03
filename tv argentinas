@@ -3,214 +3,419 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/globetvapp/epg/main/Colombia/colombia1.xml
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml
 BOLIVIA
+BOLIVIA
 #EXTINF:-1 tvg-id="TVB" tvg-name="BOLIVIA TV SD" tvg-logo="https://i.ibb.co/mqY2rQc/descarga-20.jpg" group-title="BOLIVIA",BOLIVIA TV SD
-http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/2135.ts
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/2135.ts
 #EXTINF:-1 tvg-id="" tvg-name="BOLIVISION HD" tvg-logo="https://i.ibb.co/3T72bf8/descarga.jpg" group-title="BOLIVIA",BOLIVISION HD
-http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/2136.ts
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/2136.ts
 #EXTINF:-1 tvg-id="" tvg-name="BOLIVISION SD" tvg-logo="https://i.ibb.co/3T72bf8/descarga.jpg" group-title="BOLIVIA",BOLIVISION SD
-http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/2137.ts
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/2137.ts
 #EXTINF:-1 tvg-id="" tvg-name="RTP SD" tvg-logo="https://3.bp.blogspot.com/-o_iPgvN5GR0/XCI680KIEJI/AAAAAAAAHQA/WFtw0xcxtwckxqmAX2OhcB98zSpw6DQ-ACLcBGAs/s210/RTp%2Ben%2Bvivo%2BBolivia.png" group-title="BOLIVIA",RTP SD
-http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/2142.ts
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/2142.ts
 #EXTINF:-1 tvg-id="" tvg-name="RTP HD" tvg-logo="https://3.bp.blogspot.com/-o_iPgvN5GR0/XCI680KIEJI/AAAAAAAAHQA/WFtw0xcxtwckxqmAX2OhcB98zSpw6DQ-ACLcBGAs/s210/RTp%2Ben%2Bvivo%2BBolivia.png" group-title="BOLIVIA",RTP HD
-http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/2143.ts
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/2143.ts
 #EXTINF:-1 tvg-id="" tvg-name="Gigavision HD" tvg-logo="https://i.ibb.co/HX1853p/descarga-22.jpg" group-title="BOLIVIA",Gigavision HD
-http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/2146.ts
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/2146.ts
 #EXTINF:-1 tvg-id="" tvg-name="Gigavision SD" tvg-logo="https://i.ibb.co/HX1853p/descarga-22.jpg" group-title="BOLIVIA",Gigavision SD
-http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/2147.ts
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/2147.ts
 #EXTINF:-1 tvg-id="" tvg-name="BO: TVU OP1" tvg-logo="https://i.ibb.co/BKhfNjx/descarga-14.jpg" group-title="BOLIVIA",BO: TVU OP1
-http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/2150.ts
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/2150.ts
 #EXTINF:-1 tvg-id="" tvg-name="Red AD Venir Internacional" tvg-logo="http://2.bp.blogspot.com/-OKmqiUDmncI/Tv920TTnlaI/AAAAAAAAAOc/w0O0cFWCanA/w1200-h630-p-k-no-nu/ADvenir.jpg" group-title="BOLIVIA",Red AD Venir Internacional
-http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/2161.ts
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/2161.ts
 #EXTINF:-1 tvg-id="" tvg-name="Red Uno Santa Cruz" tvg-logo="https://i.ytimg.com/vi/shyoH296rb4/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAYmeDBvgy51guh7g8iIlM_ft53bg" group-title="BOLIVIA",Red Uno Santa Cruz
-http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/79396.ts
-#EXTINF:-1 tvg-id="" tvg-name="Unitel*" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/de/Unitel_HD_Logo.png/revision/latest?cb=2022020908105
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/79396.ts
+#EXTINF:-1 tvg-id="" tvg-name="Unitel*" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/de/Unitel_HD_Logo.png/revision/latest?cb=20220209081052" group-title="BOLIVIA",Unitel*
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/79397.ts
+#EXTINF:-1 tvg-id="" tvg-name="RED UNO - SANTA CRUZ" tvg-logo="https://i.ytimg.com/vi/shyoH296rb4/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAYmeDBvgy51guh7g8iIlM_ft53bg" group-title="BOLIVIA",RED UNO - SANTA CRUZ
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/193771.ts
+#EXTINF:-1 tvg-id="" tvg-name="RED UNO  STA CRUZ HD" tvg-logo="https://px.cdn.reduno.com.bo/reduno/122017/1544505888786.png?&cw=600&ch=365" group-title="BOLIVIA",RED UNO  STA CRUZ HD
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/193772.ts
+#EXTINF:-1 tvg-id="" tvg-name="RED UNO LA PAZ HD" tvg-logo="https://ufc-video.s3.amazonaws.com/image/red-uno-logo.jpg" group-title="BOLIVIA",RED UNO LA PAZ HD
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/193773.ts
+#EXTINF:-1 tvg-id="" tvg-name="ATB" tvg-logo="https://static.epg.best/bo/ATB.bo.png" group-title="BOLIVIA",ATB
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/193778.ts
+#EXTINF:-1 tvg-id="" tvg-name="ATB BOLIVIA 1 (S)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a7/Atb.png/revision/latest?cb=20210429201527&path-prefix=es" group-title="BOLIVIA",ATB BOLIVIA 1 (S)
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/193780.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Latina de Montero" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/03/XTOTV-Enlace-en-vivo-Online.png" group-title="BOLIVIA",TV Latina de Montero
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/328592.ts
+#EXTINF:-1 tvg-id="" tvg-name="BOL : RED UNO COCHABANBA HD." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJUrqdmA9yLEBOC8li_F9BDZgp3wlC1w35TA&s" group-title="BOLIVIA",BOL : RED UNO COCHABANBA HD.
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/328923.ts
+#EXTINF:-1 tvg-id="" tvg-name="BOL : RED UNO SANTA CRUZ HD." tvg-logo="https://px.cdn.reduno.com.bo/reduno/122017/1544505888786.png?&cw=600&ch=365" group-title="BOLIVIA",BOL : RED UNO SANTA CRUZ HD.
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/328928.ts
+#EXTINF:-1 tvg-id="" tvg-name="BOL : RED UNO LA PAZ HD." tvg-logo="https://ufc-video.s3.amazonaws.com/image/red-uno-logo.jpg" group-title="BOLIVIA",BOL : RED UNO LA PAZ HD.
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/328931.ts
+#EXTINF:-1 tvg-id="" tvg-name="BOL : BOLIVISION HD" tvg-logo="https://i.ibb.co/3T72bf8/descarga.jpg" group-title="BOLIVIA",BOL : BOLIVISION HD
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/328913.ts
+#EXTINF:-1 tvg-id="" tvg-name="BOL : UNITEL SANTA CRUZ HD." tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/UNITEL2011.png/revision/latest/scale-to-width-down/284?cb=20160719232827" group-title="BOLIVIA",BOL : UNITEL SANTA CRUZ HD.
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/328912.ts
+#EXTINF:-1 tvg-id="" tvg-name="BOL : UNITEL LA PAZ HD." tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/UNITEL2011.png/revision/latest/scale-to-width-down/284?cb=20160719232827" group-title="BOLIVIA",BOL : UNITEL LA PAZ HD.
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/328909.ts
+#EXTINF:-1 tvg-id="" tvg-name="BOL : UNITEL COCHABANBA HD." tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/10/Unitel_Bolivia.png/revision/latest/scale-to-width-down/1200?cb=20180410152506" group-title="BOLIVIA",BOL : UNITEL COCHABANBA HD.
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/328918.ts
+#EXTINF:-1 tvg-id="" tvg-name="BOL : ATB SATA CRUZ HD." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkYm4WFRxzl3SGnRRzagX2LwfFL7apItM3IQ&s" group-title="BOLIVIA",BOL : ATB SATA CRUZ HD.
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/328920.ts
+#EXTINF:-1 tvg-id="" tvg-name="BOL : ATB LA PAZ HD." tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/10/Unitel_Bolivia.png/revision/latest/scale-to-width-down/1200?cb=20180410152506" group-title="BOLIVIA",BOL : ATB LA PAZ HD.
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/328914.ts
+#EXTINF:-1 tvg-id="" tvg-name="BOL : ATB COCHABANBA HD." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/ATB_logo_nuevo.png" group-title="BOLIVIA",BOL : ATB COCHABANBA HD.
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/328911.ts
+#EXTINF:-1 tvg-id="" tvg-name="BOL : RTP HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Rtpbolivia2021.png" group-title="BOLIVIA",BOL : RTP HD
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/328917.ts
+#EXTINF:-1 tvg-id="" tvg-name="BOL : BOLIVIA TV 7.2 HD" tvg-logo="https://www.boliviatv.bo/principal/images/logos/btv-nuevo.png" group-title="BOLIVIA",BOL : BOLIVIA TV 7.2 HD
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/328916.ts
+#EXTINF:-1 tvg-id="" tvg-name="BOL : RED GIGAVISION HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROyHJtn8Hm2YmO81R5Hbfzd1-3_F7StNbeiw&s" group-title="BOLIVIA",BOL : RED GIGAVISION HD
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/328915.ts
 ARGENTINA
 #EXTINF:-1 tvg-id="" tvg-name="5TV" tvg-logo="https://www.tvcinco.com/images/logo2.jpg" group-title="Argentina",5TV
-http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/712700.ts
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/712700.ts
 #EXTINF:-1 tvg-id="" tvg-name="A24 | AR" tvg-logo="https://i.postimg.cc/VL2YNmHh/images-q-tbn-ANd9Gc-T8yf-XBu-Qmon9WVy3ETX9fuq0w4U8Hvq391YA-s.png" group-title="Argentina",A24 | AR
-http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/712701.ts
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/712701.ts
 #EXTINF:-1 tvg-id="" tvg-name="A24 FHD" tvg-logo="https://i.postimg.cc/VL2YNmHh/images-q-tbn-ANd9Gc-T8yf-XBu-Qmon9WVy3ETX9fuq0w4U8Hvq391YA-s.png" group-title="Argentina",A24 FHD
-http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/712702.ts
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/712702.ts
 #EXTINF:-1 tvg-id="" tvg-name="America TV | AR" tvg-logo="https://i.postimg.cc/k4MCH4Dh/America-TV-(Nuevo-logo-Junio-2020).png" group-title="Argentina",America TV | AR
-http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/712703.ts
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/712703.ts
 #EXTINF:-1 tvg-id="" tvg-name="America TV FHD" tvg-logo="https://i.postimg.cc/k4MCH4Dh/America-TV-(Nuevo-logo-Junio-2020).png" group-title="Argentina",America TV FHD
-http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/712704.ts
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/712704.ts
 #EXTINF:-1 tvg-id="" tvg-name="C5N FHD| AR" tvg-logo="https://i.postimg.cc/gjQPrH4v/C5N-Logo-2015.png" group-title="Argentina",C5N FHD| AR
-http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/712705.ts
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/712705.ts
 #EXTINF:-1 tvg-id="" tvg-name="CRONICA" tvg-logo="https://i.postimg.cc/cJ0GKH76/Cronica-TV-logotipo-(2016).png" group-title="Argentina",CRONICA
-http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/712706.ts
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/712706.ts
 #EXTINF:-1 tvg-id="" tvg-name="Crónica TV  HD| AR" tvg-logo="https://i.postimg.cc/cJ0GKH76/Cronica-TV-logotipo-(2016).png" group-title="Argentina",Crónica TV  HD| AR
-http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/712707.ts
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/712707.ts
 #EXTINF:-1 tvg-id="" tvg-name="El Nueve" tvg-logo="https://i.postimg.cc/MT3CrmCs/Canal-9-ba-logo.png" group-title="Argentina",El Nueve
-http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/712708.ts
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/712708.ts
 #EXTINF:-1 tvg-id="" tvg-name="El Nueve HD" tvg-logo="https://i.postimg.cc/MT3CrmCs/Canal-9-ba-logo.png" group-title="Argentina",El Nueve HD
-http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/712709.ts
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/712709.ts
 #EXTINF:-1 tvg-id="" tvg-name="El Trece" tvg-logo="https://i.postimg.cc/HWRGw34L/Logo-Canal-13-200-8.png" group-title="Argentina",El Trece
-http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/712710.ts
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/712710.ts
 #EXTINF:-1 tvg-id="" tvg-name="El Trece FHD" tvg-logo="https://i.postimg.cc/HWRGw34L/Logo-Canal-13-200-8.png" group-title="Argentina",El Trece FHD
-http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/712711.ts
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/712711.ts
 #EXTINF:-1 tvg-id="" tvg-name="La Nación + | AR" tvg-logo="https://i.postimg.cc/mZvLLTn0/f500x333-807353-831156-5050.jpg" group-title="Argentina",La Nación + | AR
-http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/712712.ts
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/712712.ts
 #EXTINF:-1 tvg-id="" tvg-name="La Nación + HD" tvg-logo="https://i.postimg.cc/mZvLLTn0/f500x333-807353-831156-5050.jpg" group-title="Argentina",La Nación + HD
-http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/712713.ts
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/712713.ts
 #EXTINF:-1 tvg-id="" tvg-name="TELEFE" tvg-logo="https://i.postimg.cc/x8MSJbZX/330px-Telefe-(nuevo-logo).png" group-title="Argentina",TELEFE
-http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/712714.ts
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/712714.ts
 #EXTINF:-1 tvg-id="" tvg-name="Telefe FHD" tvg-logo="https://i.postimg.cc/x8MSJbZX/330px-Telefe-(nuevo-logo).png" group-title="Argentina",Telefe FHD
-http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/712715.ts
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/712715.ts
 #EXTINF:-1 tvg-id="" tvg-name="TN Noticias" tvg-logo="https://i.postimg.cc/tTnKwx9g/250px-TN-todo-noticias-logo-svg.png" group-title="Argentina",TN Noticias
-http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/712717.ts
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/712717.ts
 #EXTINF:-1 tvg-id="" tvg-name="TN NOTICIAS" tvg-logo="https://i.postimg.cc/tTnKwx9g/250px-TN-todo-noticias-logo-svg.png" group-title="Argentina",TN NOTICIAS
-http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/712718.ts
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/712718.ts
 #EXTINF:-1 tvg-id="" tvg-name="TV Publica" tvg-logo="https://i.postimg.cc/hPBkZvwY/1280px-TVP-Television-Publica-(2021)-svg.png" group-title="Argentina",TV Publica
-http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/712719.ts
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/712719.ts
 #EXTINF:-1 tvg-id="" tvg-name="TV Publica FHD" tvg-logo="https://i.postimg.cc/hPBkZvwY/1280px-TVP-Television-Publica-(2021)-svg.png" group-title="Argentina",TV Publica FHD
-http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/712720.ts
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/712720.ts
 #EXTINF:-1 tvg-id="" tvg-name="ARGENTINISIMA" tvg-logo="https://i.postimg.cc/fbnqyrs4/latest-(20).png" group-title="Argentina",ARGENTINISIMA
-http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/712721.ts
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/712721.ts
 #EXTINF:-1 tvg-id="" tvg-name="Canal 13 La Rioja" tvg-logo="https://i.postimg.cc/WbxXYHh4/latest-(21).png" group-title="Argentina",Canal 13 La Rioja
-http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/712723.ts
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/712723.ts
 #EXTINF:-1 tvg-id="" tvg-name="Canal 26 | AR" tvg-logo="https://i.postimg.cc/3Rbg4kG3/images-q-tbn-ANd9Gc-Se0i-OYk-MVUv8b-RSmev324PVm-Iah3Lbnmk-a-A-s.png" group-title="Argentina",Canal 26 | AR
-http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/712724.ts
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/712724.ts
 #EXTINF:-1 tvg-id="" tvg-name="Canal 26 FHD" tvg-logo="https://i.postimg.cc/3Rbg4kG3/images-q-tbn-ANd9Gc-Se0i-OYk-MVUv8b-RSmev324PVm-Iah3Lbnmk-a-A-s.png" group-title="Argentina",Canal 26 FHD
-http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/712725.ts
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/712725.ts
 #EXTINF:-1 tvg-id="" tvg-name="Canal 4 Posadas" tvg-logo="https://canalcuatroposadas.com.ar/wp-content/uploads/2024/02/logo-web.png" group-title="Argentina",Canal 4 Posadas
-http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/712726.ts
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/712726.ts
 #EXTINF:-1 tvg-id="" tvg-name="Canal 7 Jujuy" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/514px-Canal_Siete_Jujuy_%28Logo_2015%29.png/revision/latest?cb=20191126073719" group-title="Argentina",Canal 7 Jujuy
-http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/712727.ts
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/712727.ts
 #EXTINF:-1 tvg-id="" tvg-name="Canal 9 Litoral" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/Canal_9_Litoral_(Logo_2021).png/revision/latest?cb=20220305163041" group-title="Argentina",Canal 9 Litoral
-http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/712728.ts
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/712728.ts
 #EXTINF:-1 tvg-id="" tvg-name="13 Max HD" tvg-logo="https://i.ibb.co/sbHJbrC/13maxhd.png" group-title="Argentina",13 Max HD
-http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/712730.ts
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/712730.ts
 #EXTINF:-1 tvg-id="" tvg-name="CIUDAD MAGAZINE HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5-0odv_2wgxZHAqMfic5Q9Qh9eKutgZ3F0A&s" group-title="Argentina",CIUDAD MAGAZINE HD
-http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/712732.ts
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/712732.ts
 #EXTINF:-1 tvg-id="" tvg-name="5RTV Santa Fe" tvg-logo="https://i.ibb.co/W6xkB9w/santafe.png" group-title="Argentina",5RTV Santa Fe
-http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/712733.ts
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/712733.ts
 #EXTINF:-1 tvg-id="" tvg-name="Multivision HD" tvg-logo="https://play-lh.googleusercontent.com/4KefEkBSbET6Imw1iLMrMd70mG4LP_5b6faSohDm6eKUipnx_ApRrQXAPMaLguA0eoI" group-title="Argentina",Multivision HD
-http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/712734.ts
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/712734.ts
 #EXTINF:-1 tvg-id="" tvg-name="Neo TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/Neo_TV_Florencio_Varela.png/revision/latest/scale-to-width-down/1000?cb=20250702200816" group-title="Argentina",Neo TV
-http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/712735.ts
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/712735.ts
 #EXTINF:-1 tvg-id="" tvg-name="NET TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/NETTV2018.png/revision/latest/scale-to-width-down/1000?cb=20210315130135&path-prefix=es" group-title="Argentina",NET TV
-http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/712736.ts
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/712736.ts
 #EXTINF:-1 tvg-id="" tvg-name="Paka Paka HD" tvg-logo="https://i.postimg.cc/WbHjtTzQ/Paka-Paka-2025.png" group-title="Argentina",Paka Paka HD
-http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/712737.ts
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/712737.ts
 #EXTINF:-1 tvg-id="" tvg-name="RTN Neuquén" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2025/03/Canal-RTN-Neuquen-en-VIVO-Online.png" group-title="Argentina",RTN Neuquén
-http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/712739.ts
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/712739.ts
 #EXTINF:-1 tvg-id="" tvg-name="Telemax" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/08%29Telemax_%282018%29.png/revision/latest?cb=20220113152551&path-prefix=es" group-title="Argentina",Telemax
-http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/712740.ts
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/712740.ts
 #EXTINF:-1 tvg-id="" tvg-name="Volver HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/Volver_2016.png/revision/latest?cb=20210525002558&path-prefix=es" group-title="Argentina",Volver HD
-http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/712741.ts
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/712741.ts
 #EXTINF:-1 tvg-id="" tvg-name="Deportv | AR FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/DeporTV_%282020%29.png/revision/latest/scale-to-width-down/1000?cb=20210101172130&path-prefix=es" group-title="Argentina",Deportv | AR FHD
-http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/712742.ts
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/712742.ts
 #EXTINF:-1 tvg-id="" tvg-name="ESPN FHD | AR" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/hdrkql1660762351.png" group-title="Argentina",ESPN FHD | AR
-http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/712743.ts
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/712743.ts
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 2  FHD | AR" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/wcualh1660760950.png" group-title="Argentina",ESPN 2  FHD | AR
-http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/712744.ts
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/712744.ts
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 3 HD| AR" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/wkdrnd1660760961.png" group-title="Argentina",ESPN 3 HD| AR
-http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/712745.ts
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/712745.ts
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 4 HD | AR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/ESPN_4.svg/revision/latest/scale-to-width-down/250?cb=20211120194330" group-title="Argentina",ESPN 4 HD | AR
-http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/712746.ts
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/712746.ts
 #EXTINF:-1 tvg-id="" tvg-name="ESPN Premium  | AR FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png" group-title="Argentina",ESPN Premium  | AR FHD
-http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/712747.ts
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/712747.ts
 #EXTINF:-1 tvg-id="" tvg-name="Fox Sports | AR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/Fox_Sports_Argentina_2023.svg/revision/latest/scale-to-width-down/200?cb=20230305142851&path-prefix=es" group-title="Argentina",Fox Sports | AR
-http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/712748.ts
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/712748.ts
 #EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2  | AR FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Logo_Fox_Sports_2_Argentina_2023.png" group-title="Argentina",Fox Sports 2  | AR FHD
-http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/712749.ts
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/712749.ts
 #EXTINF:-1 tvg-id="" tvg-name="Fox Sports 3  | AR FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a1/FOX_Sports_3_Argentina_%282023%29.png/revision/latest?cb=20230207140224&path-prefix=es" group-title="Argentina",Fox Sports 3  | AR FHD
-http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/712750.ts
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/712750.ts
 #EXTINF:-1 tvg-id="" tvg-name="Garage TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f2/Large.Logo_GarageTV2019.png.c7694a48fbe8a1685d4eee68cbafe44e.png/revision/latest?cb=20210525001901&path-prefix=es" group-title="Argentina",Garage TV
-http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/712751.ts
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/712751.ts
 #EXTINF:-1 tvg-id="" tvg-name="TNT Sports Premium" tvg-logo="https://foros.forounivers.com/uploads/monthly_2024_03/large.TNTSportsCL.png.16208cc25cd2cc1c1270c36c2f44986a.png" group-title="Argentina",TNT Sports Premium
-http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/712752.ts
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/712752.ts
 #EXTINF:-1 tvg-id="" tvg-name="TNT Sports Premium HD" tvg-logo="https://foros.forounivers.com/uploads/monthly_2024_03/large.TNTSportsCL.png.16208cc25cd2cc1c1270c36c2f44986a.png" group-title="Argentina",TNT Sports Premium HD
-http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/712753.ts
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/712753.ts
 #EXTINF:-1 tvg-id="" tvg-name="TyC Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/TyC_Sports.png/revision/latest?cb=20190620182054&path-prefix=es" group-title="Argentina",TyC Sports
-http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/712754.ts
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/712754.ts
 #EXTINF:-1 tvg-id="" tvg-name="TYC SPORTS HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/TyC_Sports.png/revision/latest?cb=20190620182054&path-prefix=es" group-title="Argentina",TYC SPORTS HD
-http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/712755.ts
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/712755.ts
 #EXTINF:-1 tvg-id="" tvg-name="DSPORTS 1 ARG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="Argentina",DSPORTS 1 ARG
-http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/712756.ts
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/712756.ts
 #EXTINF:-1 tvg-id="" tvg-name="DSPORTS 2 ARG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/DSports2.png" group-title="Argentina",DSPORTS 2 ARG
-http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/712757.ts
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/712757.ts
 #EXTINF:-1 tvg-id="" tvg-name="DSPORTS +1 AR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="Argentina",DSPORTS +1 AR
-http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/722195.ts
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/722195.ts
 #EXTINF:-1 tvg-id="" tvg-name="TELELIMA HD - Canal 12" tvg-logo="https://i.postimg.cc/sxbF0YQk/x1il-MGIJ-w-Qhq-RTL84Zcsrx-w-Jp-X0P7q78x-Xx-Eo5wgqw-MPeqe-Fs-V6a-S-zc9r-Tt-Q59E3s-EJx-HPw-s900-c-k-c.jpg" group-title="PERU",TELELIMA HD - Canal 12
-http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/722206.ts
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/722206.ts
 #EXTINF:-1 tvg-id="" tvg-name="TYC SPORTS INTERNACIONAL" tvg-logo="https://i.ibb.co/LS29sRf/tycsportinterna.png" group-title="Argentina",TYC SPORTS INTERNACIONAL
-http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/722820.ts
-COLOMBIA
-#EXTINF:-1 tvg-id="633dtv.co" tvg-name="Win Sports SD" tvg-logo="https://i.postimg.cc/GmDg8z4c/Dise-o-sin-t-tulo-2.png" group-title="COLOMBIA",Win Sports SD
-http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/13766.ts
-#EXTINF:-1 tvg-id="Win Sports.co" tvg-name="Win Sports HD" tvg-logo="https://i.postimg.cc/mgjJ63Lx/Dise-o-sin-t-tulo-2.png" group-title="COLOMBIA",Win Sports HD
-http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/13767.ts
-#EXTINF:-1 tvg-id="" tvg-name="Win Sports + SD" tvg-logo="https://i.postimg.cc/50ssdRRm/Dise-o-sin-t-tulo-5.png" group-title="COLOMBIA",Win Sports + SD
-http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/13768.ts
-#EXTINF:-1 tvg-id="Win Sports+.co" tvg-name="Win Sports + HD" tvg-logo="https://i.postimg.cc/50ssdRRm/Dise-o-sin-t-tulo-5.png" group-title="COLOMBIA",Win Sports + HD
-http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/13769.ts
-#EXTINF:-1 tvg-id="" tvg-name="Win Sports + HD" tvg-logo="https://i.postimg.cc/50ssdRRm/Dise-o-sin-t-tulo-5.png" group-title="COLOMBIA",Win Sports + HD
-http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/13770.ts
-#EXTINF:-1 tvg-id="" tvg-name="Win Sports + FHD" tvg-logo="https://i.postimg.cc/50ssdRRm/Dise-o-sin-t-tulo-5.png" group-title="COLOMBIA",Win Sports + FHD
-http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/13771.ts
-#EXTINF:-1 tvg-id="" tvg-name="Win Sports + HD" tvg-logo="https://i.postimg.cc/LXncPqFj/Dise-o-sin-t-tulo-5.png" group-title="COLOMBIA",Win Sports + HD
-http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/13772.ts
-#EXTINF:-1 tvg-id="" tvg-name="Canal 1 SD" tvg-logo="https://i.postimg.cc/dtKfsN3x/CANAL-1-CO-removebg-preview.png" group-title="COLOMBIA",Canal 1 SD
-http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/13773.ts
-#EXTINF:-1 tvg-id="" tvg-name="Canal 1 HD" tvg-logo="https://i.postimg.cc/dtKfsN3x/CANAL-1-CO-removebg-preview.png" group-title="COLOMBIA",Canal 1 HD
-http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/13774.ts
-#EXTINF:-1 tvg-id="Caracol.co" tvg-name="Caracol" tvg-logo="https://i.postimg.cc/g0nVL2S3/Dise-o-sin-t-tulo-7.png" group-title="COLOMBIA",Caracol
-http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/13775.ts
-#EXTINF:-1 tvg-id="Caracol.co" tvg-name="Caracol HD" tvg-logo="https://i.postimg.cc/tJnBqWQm/Dise-o-sin-t-tulo-7.png" group-title="COLOMBIA",Caracol HD
-http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/13776.ts
-#EXTINF:-1 tvg-id="Caracol.co" tvg-name="Caracol FHD" tvg-logo="https://i.postimg.cc/tJnBqWQm/Dise-o-sin-t-tulo-7.png" group-title="COLOMBIA",Caracol FHD
-http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/13777.ts
-#EXTINF:-1 tvg-id="" tvg-name="Caracol Internacional HD" tvg-logo="https://i.ibb.co/GPM1FwT/caracol-int.png" group-title="COLOMBIA",Caracol Internacional HD
-http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/13778.ts
-#EXTINF:-1 tvg-id="" tvg-name="Caracol Internacional FHD" tvg-logo="https://i.ibb.co/GPM1FwT/caracol-int.png" group-title="COLOMBIA",Caracol Internacional FHD
-http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/13779.ts
-#EXTINF:-1 tvg-id="RCN.co" tvg-name="RCN" tvg-logo="https://i.ibb.co/WpfqM6LT/Dise-o-sin-t-tulo-11-removebg-preview.png" group-title="COLOMBIA",RCN
-http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/13780.ts
-#EXTINF:-1 tvg-id="" tvg-name="RCN HD" tvg-logo="https://i.ibb.co/WpfqM6LT/Dise-o-sin-t-tulo-11-removebg-preview.png" group-title="COLOMBIA",RCN HD
-http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/13781.ts
-#EXTINF:-1 tvg-id="130dtv.co" tvg-name="RCN FHD" tvg-logo="https://i.postimg.cc/bNCvcnNj/Dise-o-sin-t-tulo-11-removebg-preview.png" group-title="COLOMBIA",RCN FHD
-http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/13782.ts
-#EXTINF:-1 tvg-id="" tvg-name="RCN Internacional" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/RCNNuestraTeleInternacional_2023.png/revision/latest?cb=20240424223607" group-title="COLOMBIA",RCN Internacional
-http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/13783.ts
-#EXTINF:-1 tvg-id="135dtv.co" tvg-name="RCN Nuestra Tele Int" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/RCNNuestraTeleInternacional_2023.png/revision/latest?cb=20240424223607" group-title="COLOMBIA",RCN Nuestra Tele Int
-http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/13784.ts
-#EXTINF:-1 tvg-id="" tvg-name="Cable Noticias HD" tvg-logo="https://i.postimg.cc/76HvZBKr/resize.png" group-title="COLOMBIA",Cable Noticias HD
-http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/13786.ts
-#EXTINF:-1 tvg-id="" tvg-name="El Trece" tvg-logo="https://i.postimg.cc/cC3cyWfs/TRECE.png" group-title="COLOMBIA",El Trece
-http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/13787.ts
-#EXTINF:-1 tvg-id="" tvg-name="NTN24" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple71/v4/0e/75/bf/0e75bf22-ac97-1460-f4f2-e2dd59b8612c/source/512x512bb.jpg" group-title="COLOMBIA",NTN24
-http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/13788.ts
-#EXTINF:-1 tvg-id="" tvg-name="RCN Novelas" tvg-logo="https://i.ibb.co/5gTJrS78/Canal-RCNNovelas2019-removebg-preview.png" group-title="COLOMBIA",RCN Novelas
-http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/13789.ts
-#EXTINF:-1 tvg-id="140dtv.co" tvg-name="Teleantioquia" tvg-logo="https://i.postimg.cc/cCFbC0rn/1000-2.png" group-title="COLOMBIA",Teleantioquia
-http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/13790.ts
-#EXTINF:-1 tvg-id="" tvg-name="CO | CARACOL HD2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/ba/CaracolHD22025.svg/revision/latest/scale-to-width-down/1000?cb=20250112231503&path-prefix=es" group-title="COLOMBIA",CO | CARACOL HD2
-http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/13791.ts
-#EXTINF:-1 tvg-id="" tvg-name="Canal Capital" tvg-logo="https://i.postimg.cc/KzSShGMh/latest-8.png" group-title="COLOMBIA",Canal Capital
-http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/13792.ts
-#EXTINF:-1 tvg-id="2M Maroc" tvg-name="City TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/Citytv2024posiblelogo.svg/revision/latest/scale-to-width-down/1000?cb=20240319231356&path-prefix=es" group-title="COLOMBIA",City TV
-http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/13793.ts
-#EXTINF:-1 tvg-id="" tvg-name="Canal TRO" tvg-logo="https://i.postimg.cc/SKwqQLH1/1000-1.png" group-title="COLOMBIA",Canal TRO
-http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/13794.ts
-#EXTINF:-1 tvg-id="" tvg-name="Señal Colombia" tvg-logo="https://i.postimg.cc/Wzd4YbLJ/latest-7.png" group-title="COLOMBIA",Señal Colombia
-http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/13795.ts
-#EXTINF:-1 tvg-id="Telecafé.co" tvg-name="Telecafe" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/Telecaf%C3%A9_2020.png/revision/latest/scale-to-width-down/1000?cb=20201219143033&path-prefix=es" group-title="COLOMBIA",Telecafe
-http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/13796.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telecaribe" tvg-logo="https://i.ibb.co/DPFpvgJN/Dise-o-sin-t-tulo-12-removebg-preview.png" group-title="COLOMBIA",Telecaribe
-http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/13797.ts
-#EXTINF:-1 tvg-id="TELEMEDELLIN.co" tvg-name="Telemedellin" tvg-logo="https://i.postimg.cc/MTr45zmb/1000.png" group-title="COLOMBIA",Telemedellin
-http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/13798.ts
-#EXTINF:-1 tvg-id="Telecafé.co" tvg-name="TeleCafe HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/Telecaf%C3%A9_2020.png/revision/latest/scale-to-width-down/1000?cb=20201219143033&path-prefix=es" group-title="COLOMBIA",TeleCafe HD
-http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/13800.ts
-#EXTINF:-1 tvg-id="142dtv.co" tvg-name="Telecaribe HD" tvg-logo="https://i.postimg.cc/rFz47MCF/Dise-o-sin-t-tulo-12-removebg-preview.png" group-title="COLOMBIA",Telecaribe HD
-http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/13801.ts
-#EXTINF:-1 tvg-id="141dtv.co" tvg-name="TelePacifico HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/45/Telepac%C3%ADfico2019.png/revision/latest/scale-to-width-down/1000?cb=20210213133514&path-prefix=es" group-title="COLOMBIA",TelePacifico HD
-http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/13802.ts
-#EXTINF:-1 tvg-id="" tvg-name="City TV HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/Citytv2024posiblelogo.svg/revision/latest/scale-to-width-down/1000?cb=20240319231356&path-prefix=es" group-title="COLOMBIA",City TV HD
-http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/13805.ts
-#EXTINF:-1 tvg-id="" tvg-name="RADIO VALLENATOS CLASICOS" tvg-logo="https://i.ibb.co/5F5Nxtm/vallenatos.png" group-title="COLOMBIA",RADIO VALLENATOS CLASICOS
-http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/40740.ts
-#EXTINF:-1 tvg-id="" tvg-name="CALI TV" tvg-logo="https://i.postimg.cc/fRMT9v2V/latest-9.png" group-title="COLOMBIA",CALI TV
-http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/117012.ts
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/722820.ts
+CINE PREMIUN
+#EXTINF:-1 tvg-id="AEANDHC" tvg-name="A&E OP1" tvg-logo="https://i.ibb.co/kKgT2Fy/A-E.png" group-title="✮CINE PREMIUM✮",A&E OP1
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/46085.ts
+#EXTINF:-1 tvg-id="AandE HD" tvg-name="A&E OP2 | AR" tvg-logo="https://i.ibb.co/kKgT2Fy/A-E.png" group-title="✮CINE PREMIUM✮",A&E OP2 | AR
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/46086.ts
+#EXTINF:-1 tvg-id="AandE.co" tvg-name="A&E OP3" tvg-logo="https://i.ibb.co/kKgT2Fy/A-E.png" group-title="✮CINE PREMIUM✮",A&E OP3
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/46087.ts
+#EXTINF:-1 tvg-id="AMCLatinAmerica.us" tvg-name="AMC | AR FHD" tvg-logo="https://i.ibb.co/3Fy00fn/amc.png" group-title="✮CINE PREMIUM✮",AMC | AR FHD
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/46089.ts
+#EXTINF:-1 tvg-id="AMCLatinAmerica.us" tvg-name="AMC HD (DTV)" tvg-logo="https://i.ibb.co/3Fy00fn/amc.png" group-title="✮CINE PREMIUM✮",AMC HD (DTV)
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/46090.ts
+#EXTINF:-1 tvg-id="AMCLatinAmerica.us" tvg-name="AMC HD MX (DTV)" tvg-logo="https://i.ibb.co/3Fy00fn/amc.png" group-title="✮CINE PREMIUM✮",AMC HD MX (DTV)
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/46092.ts
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN FHD" tvg-logo="https://i.ibb.co/Hxt8qXB/axn.png" group-title="✮CINE PREMIUM✮",AXN FHD
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/46093.ts
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN HD MX (DTV)" tvg-logo="https://i.ibb.co/Hxt8qXB/axn.png" group-title="✮CINE PREMIUM✮",AXN HD MX (DTV)
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/46094.ts
+#EXTINF:-1 tvg-id="AXNANHD" tvg-name="AXN HD (DTV)" tvg-logo="https://i.ibb.co/Hxt8qXB/axn.png" group-title="✮CINE PREMIUM✮",AXN HD (DTV)
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/46095.ts
+#EXTINF:-1 tvg-id="Atrescine.es" tvg-name="A3SERIES" tvg-logo="https://i.postimg.cc/g2bcCZnW/1024px-Atreseries-2020-logo-svg.png" group-title="✮CINE PREMIUM✮",A3SERIES
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/46097.ts
+#EXTINF:-1 tvg-id="" tvg-name="ATRESERIES HD (DTV)" tvg-logo="https://i.postimg.cc/g2bcCZnW/1024px-Atreseries-2020-logo-svg.png" group-title="✮CINE PREMIUM✮",ATRESERIES HD (DTV)
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/46098.ts
+#EXTINF:-1 tvg-id="Atreseries" tvg-name="ATRESERIES HD (P)" tvg-logo="https://i.ibb.co/qYs2x7w/Atreseries.png" group-title="✮CINE PREMIUM✮",ATRESERIES HD (P)
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/46100.ts
+#EXTINF:-1 tvg-id="AzCinema.mx" tvg-name="CINEMA HD" tvg-logo="https://i.ibb.co/L0KQK4J/ciensa.png" group-title="✮CINE PREMIUM✮",CINEMA HD
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/46101.ts
+#EXTINF:-1 tvg-id="AzCinema.mx" tvg-name="CINEMA" tvg-logo="https://i.ibb.co/L0KQK4J/ciensa.png" group-title="✮CINE PREMIUM✮",CINEMA
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/46102.ts
+#EXTINF:-1 tvg-id="CINE LATINO" tvg-name="CINE LATINO HD (DTV)" tvg-logo="https://i.ibb.co/GPFShhQ/Cine-Latino-logo-svg.png" group-title="✮CINE PREMIUM✮",CINE LATINO HD (DTV)
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/46103.ts
+#EXTINF:-1 tvg-id="CINE LATINO" tvg-name="CINE LATINO" tvg-logo="https://i.ibb.co/GPFShhQ/Cine-Latino-logo-svg.png" group-title="✮CINE PREMIUM✮",CINE LATINO
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/46104.ts
+#EXTINF:-1 tvg-id="CINE LATINO" tvg-name="CINE LATINO FHD" tvg-logo="https://i.ibb.co/GPFShhQ/Cine-Latino-logo-svg.png" group-title="✮CINE PREMIUM✮",CINE LATINO FHD
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/46106.ts
+#EXTINF:-1 tvg-id="CinecanalEast.us" tvg-name="CINECANAL ARG (DTV)" tvg-logo="https://i.ibb.co/7b8zcvc/cincemas.png" group-title="✮CINE PREMIUM✮",CINECANAL ARG (DTV)
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/46107.ts
+#EXTINF:-1 tvg-id="CINECANAL HD.co" tvg-name="CINECANAL | AR HD" tvg-logo="https://i.ibb.co/7b8zcvc/cincemas.png" group-title="✮CINE PREMIUM✮",CINECANAL | AR HD
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/46108.ts
+#EXTINF:-1 tvg-id="CINECANAL" tvg-name="CineCanal HD CH (DTV)" tvg-logo="https://i.ibb.co/7b8zcvc/cincemas.png" group-title="✮CINE PREMIUM✮",CineCanal HD CH (DTV)
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/46109.ts
+#EXTINF:-1 tvg-id="CINECANAL HD.co" tvg-name="CineCanal HD MX (DTV)" tvg-logo="https://i.ibb.co/7b8zcvc/cincemas.png" group-title="✮CINE PREMIUM✮",CineCanal HD MX (DTV)
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/46110.ts
+#EXTINF:-1 tvg-id="CINEMAX HD.co" tvg-name="CINEMAX OP1" tvg-logo="https://i.ibb.co/QjX0fqW/cienmax1.png" group-title="✮CINE PREMIUM✮",CINEMAX OP1
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/46111.ts
+#EXTINF:-1 tvg-id="Cinemax.ar" tvg-name="CINEMAX OP2" tvg-logo="https://i.ibb.co/zSbPFXZ/cienmax2.png" group-title="✮CINE PREMIUM✮",CINEMAX OP2
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/46112.ts
+#EXTINF:-1 tvg-id="Cinemax.co" tvg-name="CINEMAX OP3" tvg-logo="https://i.ibb.co/G3DXZ9d/cienmax3.png" group-title="✮CINE PREMIUM✮",CINEMAX OP3
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/46114.ts
+#EXTINF:-1 tvg-id="DEPELPL" tvg-name="DE PELICULA PLUS HD" tvg-logo="https://i.ibb.co/Zx31D3Y/de-pelioiasd.png" group-title="✮CINE PREMIUM✮",DE PELICULA PLUS HD
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/46118.ts
+#EXTINF:-1 tvg-id="DEPELPL" tvg-name="DE PELICULA PLUS" tvg-logo="https://i.ibb.co/Zx31D3Y/de-pelioiasd.png" group-title="✮CINE PREMIUM✮",DE PELICULA PLUS
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/46119.ts
+#EXTINF:-1 tvg-id="DE PELICULA" tvg-name="DE PELICULA HD" tvg-logo="https://seeklogo.com/images/D/de-pelicula-logo-F97A15125D-seeklogo.com.png" group-title="✮CINE PREMIUM✮",DE PELICULA HD
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/46120.ts
+#EXTINF:-1 tvg-id="DEPELC" tvg-name="DE PELICULA CLASICO" tvg-logo="https://i.ibb.co/RQnQqNg/depelicula.png" group-title="✮CINE PREMIUM✮",DE PELICULA CLASICO
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/46121.ts
+#EXTINF:-1 tvg-id="DHE.us" tvg-name="DHE FHD" tvg-logo="https://i.ibb.co/MBvTm7y/dhe.png" group-title="✮CINE PREMIUM✮",DHE FHD
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/46122.ts
+#EXTINF:-1 tvg-id="DHE.us" tvg-name="DHE" tvg-logo="https://i.ibb.co/m9TtGfd/dhe2.png" group-title="✮CINE PREMIUM✮",DHE
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/46123.ts
+#EXTINF:-1 tvg-id="DHE.us" tvg-name="DHE HD" tvg-logo="https://i.ibb.co/MBvTm7y/dhe.png" group-title="✮CINE PREMIUM✮",DHE HD
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/46124.ts
+#EXTINF:-1 tvg-id="EuropaEuropa.ar" tvg-name="EUROPA EUROPA" tvg-logo="https://i.ibb.co/SKbQ4mG/euroapa.png" group-title="✮CINE PREMIUM✮",EUROPA EUROPA
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/46125.ts
+#EXTINF:-1 tvg-id="EUROPA EUROPA.co" tvg-name="EUROPA EUROPA HD (DTV)" tvg-logo="https://i.ibb.co/Nt50S6w/europa-euor.png" group-title="✮CINE PREMIUM✮",EUROPA EUROPA HD (DTV)
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/46127.ts
+#EXTINF:-1 tvg-id="" tvg-name="FX HD (DTV)" tvg-logo="https://i.ibb.co/z2PqF2T/FX1.png" group-title="✮CINE PREMIUM✮",FX HD (DTV)
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/46130.ts
+#EXTINF:-1 tvg-id="FX HD.co" tvg-name="FX | AR HD" tvg-logo="https://i.ibb.co/hDvN9HZ/FX2.png" group-title="✮CINE PREMIUM✮",FX | AR HD
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/46132.ts
+#EXTINF:-1 tvg-id="FX" tvg-name="FX HD MX (DTV)" tvg-logo="https://i.ibb.co/grpxgB4/FX3.png" group-title="✮CINE PREMIUM✮",FX HD MX (DTV)
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/46133.ts
+#EXTINF:-1 tvg-id="GOLDEN HD.co" tvg-name="GOLDEN PLUS | AR" tvg-logo="https://i.ibb.co/wQBkWCT/GOLDENPLUS.png" group-title="✮CINE PREMIUM✮",GOLDEN PLUS | AR
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/46138.ts
+#EXTINF:-1 tvg-id="GOLDEN EDGE" tvg-name="GOLDEN EDGE | AR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/Goldenedge.jpg/revision/latest?cb=20120110075418" group-title="✮CINE PREMIUM✮",GOLDEN EDGE | AR
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/46139.ts
+#EXTINF:-1 tvg-id="GOLDEN PREMIER" tvg-name="GOLDEN PREMIER" tvg-logo="https://i.ibb.co/6b9LCMq/GOLDENPRIMNIERS.png" group-title="✮CINE PREMIUM✮",GOLDEN PREMIER
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/46140.ts
+#EXTINF:-1 tvg-id="GOLDEN PREMIER" tvg-name="GOLDEN PREMIER HD" tvg-logo="https://i.ibb.co/6b9LCMq/GOLDENPRIMNIERS.png" group-title="✮CINE PREMIUM✮",GOLDEN PREMIER HD
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/46141.ts
+#EXTINF:-1 tvg-id="GoldenPanregional.mx" tvg-name="GOLDEN | AR" tvg-logo="https://i.ibb.co/x8x7LYX/GILDEN.png" group-title="✮CINE PREMIUM✮",GOLDEN | AR
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/46142.ts
+#EXTINF:-1 tvg-id="GoldenPanregional.mx" tvg-name="GOLDEN HD" tvg-logo="https://i.ibb.co/x8x7LYX/GILDEN.png" group-title="✮CINE PREMIUM✮",GOLDEN HD
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/46143.ts
+#EXTINF:-1 tvg-id="HBO.ar" tvg-name="HBO HD" tvg-logo="https://i.ibb.co/58VvdgP/hbo1.png" group-title="✮CINE PREMIUM✮",HBO HD
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/46144.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="https://i.ibb.co/NSG7tNS/hbo3.png" group-title="✮CINE PREMIUM✮",HBO
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/46145.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO HD (DTV)" tvg-logo="https://i.ibb.co/Syv8Wd6/HBO.png" group-title="✮CINE PREMIUM✮",HBO HD (DTV)
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/46146.ts
+#EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO | MX" tvg-logo="https://i.ibb.co/3Y1tZwW/HBO33.png" group-title="✮CINE PREMIUM✮",HBO | MX
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/46147.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2 HD | MX" tvg-logo="https://i.ibb.co/K0x3Lm1/hbo22.png" group-title="✮CINE PREMIUM✮",HBO 2 HD | MX
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/46148.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2 HD (DTV)" tvg-logo="https://i.ibb.co/KV2tjc7/hbo2.png" group-title="✮CINE PREMIUM✮",HBO 2 HD (DTV)
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/46149.ts
+#EXTINF:-1 tvg-id="HBO2LatinAmerica.us" tvg-name="HBO 2 HD" tvg-logo="https://i.ibb.co/KV2tjc7/hbo2.png" group-title="✮CINE PREMIUM✮",HBO 2 HD
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/46150.ts
+#EXTINF:-1 tvg-id="HBO2LatinAmerica.us" tvg-name="HBO 2 HD" tvg-logo="https://i.ibb.co/K0x3Lm1/hbo22.png" group-title="✮CINE PREMIUM✮",HBO 2 HD
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/46151.ts
+#EXTINF:-1 tvg-id="HBOFamilyLatinAmerica.us" tvg-name="HBO FAMILY" tvg-logo="https://i.ibb.co/xLxZy4s/hbfa3.png" group-title="✮CINE PREMIUM✮",HBO FAMILY
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/46152.ts
+#EXTINF:-1 tvg-id="HBO Family.co" tvg-name="HBO FAMILY" tvg-logo="https://i.ibb.co/xLxZy4s/hbfa3.png" group-title="✮CINE PREMIUM✮",HBO FAMILY
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/46153.ts
+#EXTINF:-1 tvg-id="2M Maroc" tvg-name="HBO FAMILY HD (DTV)" tvg-logo="https://i.ibb.co/LRWCv9G/hbofam1.png" group-title="✮CINE PREMIUM✮",HBO FAMILY HD (DTV)
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/46154.ts
+#EXTINF:-1 tvg-id="526dtv.cl" tvg-name="HBO PLUS  HD (DTV)" tvg-logo="https://i.ibb.co/HVFhb7C/hbo-3.png" group-title="✮CINE PREMIUM✮",HBO PLUS  HD (DTV)
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/46156.ts
+#EXTINF:-1 tvg-id="HBO PLUS" tvg-name="HBO PLUS | MX" tvg-logo="https://i.ibb.co/WHn2z6Z/hbp-a1.png" group-title="✮CINE PREMIUM✮",HBO PLUS | MX
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/46157.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO PLUS HD (DTV)" tvg-logo="https://i.ibb.co/HVFhb7C/hbo-3.png" group-title="✮CINE PREMIUM✮",HBO PLUS HD (DTV)
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/46158.ts
+#EXTINF:-1 tvg-id="HBO PLUS" tvg-name="HBO PLUS HD" tvg-logo="https://i.ibb.co/WHn2z6Z/hbp-a1.png" group-title="✮CINE PREMIUM✮",HBO PLUS HD
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/46159.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE HD (DTV)" tvg-logo="https://i.ibb.co/BwRLTk1/hbosig1.png" group-title="✮CINE PREMIUM✮",HBO SIGNATURE HD (DTV)
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/46162.ts
+#EXTINF:-1 tvg-id="HBOSignatureLatinAmerica.us" tvg-name="HBO SIGNATURE HD" tvg-logo="https://i.ibb.co/BfvZWCJ/hb0sig3.png" group-title="✮CINE PREMIUM✮",HBO SIGNATURE HD
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/46163.ts
+#EXTINF:-1 tvg-id="MULTIPREMIER" tvg-name="MULTIPREMIER HD" tvg-logo="https://i.ibb.co/qWxHGjC/MULTIPRE2.png" group-title="✮CINE PREMIUM✮",MULTIPREMIER HD
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/46168.ts
+#EXTINF:-1 tvg-id="MULTIPREMIER" tvg-name="MULTIPREMIER" tvg-logo="https://i.ibb.co/R45HbrJ/MULPREM1.png" group-title="✮CINE PREMIUM✮",MULTIPREMIER
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/46169.ts
+#EXTINF:-1 tvg-id="Paramount Channel.co" tvg-name="PARAMOUNT CHANNEL FHD" tvg-logo="https://i.ibb.co/wr5LRY4/PARAMOUNT.png" group-title="✮CINE PREMIUM✮",PARAMOUNT CHANNEL FHD
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/46170.ts
+#EXTINF:-1 tvg-id="Paramount Channel" tvg-name="PARAMOUNT CHANNEL" tvg-logo="https://i.ibb.co/tDgxkRL/PARAMU2.png" group-title="✮CINE PREMIUM✮",PARAMOUNT CHANNEL
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/46171.ts
+#EXTINF:-1 tvg-id="1+1 Internacional" tvg-name="PARAMOUNT CHANNEL HD" tvg-logo="https://i.ibb.co/wr5LRY4/PARAMOUNT.png" group-title="✮CINE PREMIUM✮",PARAMOUNT CHANNEL HD
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/46172.ts
+#EXTINF:-1 tvg-id="SONY MOVIES" tvg-name="SONY MOVIES HD | AR" tvg-logo="https://i.ibb.co/rFMxhPH/SONY2.png" group-title="✮CINE PREMIUM✮",SONY MOVIES HD | AR
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/46175.ts
+#EXTINF:-1 tvg-id="SONYCH" tvg-name="SONY CHANNEL HD | AR" tvg-logo="https://i.ibb.co/M7nmfDY/SONY1.png" group-title="✮CINE PREMIUM✮",SONY CHANNEL HD | AR
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/46176.ts
+#EXTINF:-1 tvg-id="SONY HD" tvg-name="SONY CHANNEL | MX" tvg-logo="https://i.ibb.co/M7nmfDY/SONY1.png" group-title="✮CINE PREMIUM✮",SONY CHANNEL | MX
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/46177.ts
+#EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE HD | MX" tvg-logo="https://i.ibb.co/K0JqT9S/space2.png" group-title="✮CINE PREMIUM✮",SPACE HD | MX
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/46178.ts
+#EXTINF:-1 tvg-id="Space.co" tvg-name="Space ᴴᴰ | MX" tvg-logo="https://i.ibb.co/qjqScj2/space1.png" group-title="✮CINE PREMIUM✮",Space ᴴᴰ | MX
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/46179.ts
+#EXTINF:-1 tvg-id="SpacePanregional.us" tvg-name="Space FHD" tvg-logo="https://i.ibb.co/K0JqT9S/space2.png" group-title="✮CINE PREMIUM✮",Space FHD
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/46180.ts
+#EXTINF:-1 tvg-id="STAR CHANNEL HD.co" tvg-name="STAR CHANNEL HD (DTV)" tvg-logo="https://i.ibb.co/fSbvx7T/STAR22.png" group-title="✮CINE PREMIUM✮",STAR CHANNEL HD (DTV)
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/46186.ts
+#EXTINF:-1 tvg-id="" tvg-name="STAR CHANNEL HD | ARG" tvg-logo="https://i.ibb.co/vHVVM6K/STARCHA1.png" group-title="✮CINE PREMIUM✮",STAR CHANNEL HD | ARG
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/46188.ts
+#EXTINF:-1 tvg-id="" tvg-name="STAR CHANNEL HD MX (DTV)" tvg-logo="https://i.ibb.co/vHVVM6K/STARCHA1.png" group-title="✮CINE PREMIUM✮",STAR CHANNEL HD MX (DTV)
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/46189.ts
+#EXTINF:-1 tvg-id="StarClassics.us" tvg-name="STAR CHANNEL HD" tvg-logo="https://i.ibb.co/ZmBxYZz/STARCL.png" group-title="✮CINE PREMIUM✮",STAR CHANNEL HD
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/46195.ts
+#EXTINF:-1 tvg-id="Studio Universal.co" tvg-name="STUDIO UNIVERSAL HD | MX" tvg-logo="https://i.ibb.co/kmQCLLM/STUDI2.png" group-title="✮CINE PREMIUM✮",STUDIO UNIVERSAL HD | MX
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/46217.ts
+#EXTINF:-1 tvg-id="STUDIO UNIVERSAL" tvg-name="STUDIO UNIVERSAL HD | AR" tvg-logo="https://i.ibb.co/jL5S1mw/STUDIO.png" group-title="✮CINE PREMIUM✮",STUDIO UNIVERSAL HD | AR
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/46218.ts
+#EXTINF:-1 tvg-id="StudioUniversalSouth.us" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://i.ibb.co/jL5S1mw/STUDIO.png" group-title="✮CINE PREMIUM✮",STUDIO UNIVERSAL
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/46219.ts
+#EXTINF:-1 tvg-id="Studio Universal.co" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://i.ibb.co/4Nh3KcF/STUD1.png" group-title="✮CINE PREMIUM✮",STUDIO UNIVERSAL
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/46220.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA HD | AR" tvg-logo="https://seeklogo.com/images/U/usa-network-logo-9971D1071C-seeklogo.com.png" group-title="✮CINE PREMIUM✮",USA HD | AR
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/46222.ts
+#EXTINF:-1 tvg-id="SYFY" tvg-name="USA FHD" tvg-logo="https://seeklogo.com/images/U/usa-network-logo-9971D1071C-seeklogo.com.png" group-title="✮CINE PREMIUM✮",USA FHD
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/46223.ts
+#EXTINF:-1 tvg-id="USA Network HDTV (East)" tvg-name="USA" tvg-logo="https://seeklogo.com/images/U/usa-network-logo-9971D1071C-seeklogo.com.png" group-title="✮CINE PREMIUM✮",USA
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/46224.ts
+#EXTINF:-1 tvg-id="" tvg-name="TNT NOVELAS FHD | MX" tvg-logo="https://i.postimg.cc/43pfGW7C/Fo4or-BXs-AAs-JIL.png" group-title="✮CINE PREMIUM✮",TNT NOVELAS FHD | MX
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/46226.ts
+#EXTINF:-1 tvg-id="864mvstr.co" tvg-name="TNT NOVELAS HD (DTV)" tvg-logo="https://i.postimg.cc/43pfGW7C/Fo4or-BXs-AAs-JIL.png" group-title="✮CINE PREMIUM✮",TNT NOVELAS HD (DTV)
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/46227.ts
+#EXTINF:-1 tvg-id="TNT Novelas.co" tvg-name="TNT NOVELAS HD" tvg-logo="https://i.postimg.cc/43pfGW7C/Fo4or-BXs-AAs-JIL.png" group-title="✮CINE PREMIUM✮",TNT NOVELAS HD
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/46228.ts
+#EXTINF:-1 tvg-id="TCMSouth.us" tvg-name="TCM" tvg-logo="https://i.ibb.co/340KS9Y/tcm2.png" group-title="✮CINE PREMIUM✮",TCM
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/46230.ts
+#EXTINF:-1 tvg-id="TCMSouth.us" tvg-name="TCM HD" tvg-logo="https://i.ibb.co/myRdt2X/TCM.png" group-title="✮CINE PREMIUM✮",TCM HD
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/46231.ts
+#EXTINF:-1 tvg-id="TCMSouth.us" tvg-name="TCM FHD | MX" tvg-logo="https://i.ibb.co/340KS9Y/tcm2.png" group-title="✮CINE PREMIUM✮",TCM FHD | MX
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/46232.ts
+#EXTINF:-1 tvg-id="502dtv.co" tvg-name="TNT HD | AR" tvg-logo="https://i.ibb.co/DwLT1NH/TNT2.png" group-title="✮CINE PREMIUM✮",TNT HD | AR
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/46236.ts
+#EXTINF:-1 tvg-id="TNT HD.co" tvg-name="TNT FHD" tvg-logo="https://i.ibb.co/Fhsz28h/TNT1.png" group-title="✮CINE PREMIUM✮",TNT FHD
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/46237.ts
+#EXTINF:-1 tvg-id="TNTSouth.us" tvg-name="TNT FHD" tvg-logo="https://i.ibb.co/Fhsz28h/TNT1.png" group-title="✮CINE PREMIUM✮",TNT FHD
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/46238.ts
+#EXTINF:-1 tvg-id="TNTSouth.us" tvg-name="TNT HD" tvg-logo="https://i.ibb.co/DwLT1NH/TNT2.png" group-title="✮CINE PREMIUM✮",TNT HD
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/46239.ts
+#EXTINF:-1 tvg-id="" tvg-name="TNT SERIES HD (DTV)" tvg-logo="https://i.ibb.co/0q8QzgN/tntseries.png" group-title="✮CINE PREMIUM✮",TNT SERIES HD (DTV)
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/46240.ts
+#EXTINF:-1 tvg-id="TNT SERIES" tvg-name="TNT SERIES HD" tvg-logo="https://i.ibb.co/gzS5WjX/tntser2.png" group-title="✮CINE PREMIUM✮",TNT SERIES HD
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/46241.ts
+#EXTINF:-1 tvg-id="TNT Series.co" tvg-name="TNT SERIES" tvg-logo="https://i.ibb.co/0q8QzgN/tntseries.png" group-title="✮CINE PREMIUM✮",TNT SERIES
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/46242.ts
+#EXTINF:-1 tvg-id="TNTSeriesSouth.us" tvg-name="TNT SERIES HD | MX" tvg-logo="https://i.ibb.co/gzS5WjX/tntser2.png" group-title="✮CINE PREMIUM✮",TNT SERIES HD | MX
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/46243.ts
+#EXTINF:-1 tvg-id="UNIVERSAL CHANNEL" tvg-name="UNIVERSAL HD (DTV)" tvg-logo="https://i.ibb.co/4YqhnVc/universa2.png" group-title="✮CINE PREMIUM✮",UNIVERSAL HD (DTV)
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/46244.ts
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL  ᴴᴰ |MX" tvg-logo="https://i.ibb.co/Mpx2y51/UNIVERSAL1.png" group-title="✮CINE PREMIUM✮",UNIVERSAL  ᴴᴰ |MX
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/46245.ts
+#EXTINF:-1 tvg-id="UniversalTVSouth.us" tvg-name="UNIVERSAL HD | AR" tvg-logo="https://i.ibb.co/4YqhnVc/universa2.png" group-title="✮CINE PREMIUM✮",UNIVERSAL HD | AR
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/46246.ts
+#EXTINF:-1 tvg-id="Universal TV.co" tvg-name="UNIVERSAL HD" tvg-logo="https://i.ibb.co/Mpx2y51/UNIVERSAL1.png" group-title="✮CINE PREMIUM✮",UNIVERSAL HD
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/46247.ts
+#EXTINF:-1 tvg-id="" tvg-name="WARNER TV HD MX" tvg-logo="https://i.ibb.co/TRgfNRw/WARNERTV2.png" group-title="✮CINE PREMIUM✮",WARNER TV HD MX
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/46248.ts
+#EXTINF:-1 tvg-id="1206dtv.cl" tvg-name="WARNER TV HD AR (DTV)" tvg-logo="https://i.ibb.co/jHC94Xm/WARTNER3.png" group-title="✮CINE PREMIUM✮",WARNER TV HD AR (DTV)
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/46249.ts
+#EXTINF:-1 tvg-id="WARNER" tvg-name="WARNER HD | MX" tvg-logo="https://i.ibb.co/jHC94Xm/WARTNER3.png" group-title="✮CINE PREMIUM✮",WARNER HD | MX
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/46250.ts
+#EXTINF:-1 tvg-id="WARNER CHANNEL HD.co" tvg-name="WARNER FHD" tvg-logo="https://i.ibb.co/q5TYp7p/WARNER1.png" group-title="✮CINE PREMIUM✮",WARNER FHD
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/46251.ts
+#EXTINF:-1 tvg-id="UNIVERSAL REALITY" tvg-name="UNIVERSAL REALITY" tvg-logo="https://i.ibb.co/dcZ8bsY/UNIVESALREA.png" group-title="✮CINE PREMIUM✮",UNIVERSAL REALITY
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/90077.ts
+#EXTINF:-1 tvg-id="UNIVERSAL CINEMA" tvg-name="UNIVERSAL CINEMA" tvg-logo="https://i.ibb.co/NrFxsBV/UNIVERSALCIEN.png" group-title="✮CINE PREMIUM✮",UNIVERSAL CINEMA
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/90078.ts
+#EXTINF:-1 tvg-id="UNIVERSAL CRIME" tvg-name="UNIVERSAL CRIME |MX" tvg-logo="https://i.ibb.co/Rj4HpMq/UNIVESALCRIME.png" group-title="✮CINE PREMIUM✮",UNIVERSAL CRIME |MX
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/90079.ts
+#EXTINF:-1 tvg-id="UniversalComedy.ar" tvg-name="UNIVERSAL COMEDY HD | MX" tvg-logo="https://i.ibb.co/TBLRttd/UNIVESALCOMEDY.png" group-title="✮CINE PREMIUM✮",UNIVERSAL COMEDY HD | MX
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/90081.ts
+#EXTINF:-1 tvg-id="UNIVERSAL PREMIERE" tvg-name="UNIVERSAL PREMIERE HD" tvg-logo="https://i.ibb.co/NCKFnDN/UNIVERSALPRE.png" group-title="✮CINE PREMIUM✮",UNIVERSAL PREMIERE HD
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/90082.ts
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL PREMIERE HD | MX" tvg-logo="https://i.ibb.co/NCKFnDN/UNIVERSALPRE.png" group-title="✮CINE PREMIUM✮",UNIVERSAL PREMIERE HD | MX
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/90083.ts
+#EXTINF:-1 tvg-id="HBOPopLatinAmerica.us" tvg-name="HBO POP FHD" tvg-logo="https://i.ibb.co/vxK0tVp/hbopop3.png" group-title="✮CINE PREMIUM✮",HBO POP FHD
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/96201.ts
+#EXTINF:-1 tvg-id="541dtv.cl" tvg-name="HBO POP HD" tvg-logo="https://i.ibb.co/nmPF9J3/hbopop2.png" group-title="✮CINE PREMIUM✮",HBO POP HD
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/96202.ts
+#EXTINF:-1 tvg-id="HBOPopLatinAmerica.us" tvg-name="HBO POP" tvg-logo="https://i.ibb.co/tMJw0Cs/hbopop1.png" group-title="✮CINE PREMIUM✮",HBO POP
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/96203.ts
+#EXTINF:-1 tvg-id="HBOMundiLatinAmerica.us" tvg-name="HBO MUNDI FHD | MX" tvg-logo="https://i.ibb.co/GHngdzz/hbomun3.png" group-title="✮CINE PREMIUM✮",HBO MUNDI FHD | MX
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/96204.ts
+#EXTINF:-1 tvg-id="HBOMundiLatinAmerica.us" tvg-name="HBO MUNDI HD" tvg-logo="https://i.ibb.co/7Qr4FNj/hbomu1.png" group-title="✮CINE PREMIUM✮",HBO MUNDI HD
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/96205.ts
+#EXTINF:-1 tvg-id="HBOMundiLatinAmerica.us" tvg-name="HBO MUNDI" tvg-logo="https://i.ibb.co/rH1sYsg/hbomu2.png" group-title="✮CINE PREMIUM✮",HBO MUNDI
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/96206.ts
+#EXTINF:-1 tvg-id="HBOXtremeLatinAmerica.us" tvg-name="HBO XTREME HD" tvg-logo="https://i.ibb.co/bPRQG6P/hboext1.png" group-title="✮CINE PREMIUM✮",HBO XTREME HD
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/96207.ts
+#EXTINF:-1 tvg-id="HBOXtremeLatinAmerica.us" tvg-name="HBO XTREME" tvg-logo="https://i.ibb.co/CtGbJqx/hboextr3.png" group-title="✮CINE PREMIUM✮",HBO XTREME
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/96208.ts
+#EXTINF:-1 tvg-id="HBO XTREME.co" tvg-name="HBO XTREME HD | MX" tvg-logo="https://i.ibb.co/K7bvj7t/hboext2.png" group-title="✮CINE PREMIUM✮",HBO XTREME HD | MX
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/96209.ts
+#EXTINF:-1 tvg-id="MCINLA" tvg-name="Multicinema" tvg-logo="https://i.ibb.co/921VFpp/multicinema.png" group-title="✮CINE PREMIUM✮",Multicinema
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/140365.ts
+#EXTINF:-1 tvg-id="CINESTE" tvg-name="CINE ESTELAR" tvg-logo="https://i.ibb.co/gMMxZ5h/cineestelar.png" group-title="✮CINE PREMIUM✮",CINE ESTELAR
+http://alltvmx.com/live/walther_rod/Rodriguez2024W/148901.ts
+
