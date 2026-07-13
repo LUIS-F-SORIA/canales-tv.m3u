@@ -15,7 +15,7 @@ http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/749370.ts
 http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/749371.ts
 TV ARGENTINA
 #EXTINF:-1 tvg-id="" tvg-name="TELEFE" tvg-logo="https://i.postimg.cc/x8MSJbZX/330px-Telefe-(nuevo-logo).png" group-title="Argentina",TELEFE 1
-http://190.7.19.197:232/play/a059/index.m3u8
+http://somoseluno.blog:80/live/Bertha123/Bertha123/81285.ts
 #EXTINF:-1 tvg-id="" tvg-name="TELEFE" tvg-logo="https://i.postimg.cc/x8MSJbZX/330px-Telefe-(nuevo-logo).png" group-title="Argentina",TELEFE HD
 http://somoseluno.blog:80/live/Bertha123/Bertha123/50521.ts
 #EXTINF:-1 tvg-id="" tvg-name="TELEFE" tvg-logo="https://i.postimg.cc/x8MSJbZX/330px-Telefe-(nuevo-logo).png" group-title="Argentina",TELEFE OPC 2
@@ -259,6 +259,10 @@ http://190.7.19.197:232/play/a03m/index.m3u8
 http://190.7.19.197:232/play/a03o/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/s2PLGgcL/ESPS1.jpg" group-title="DEPORTES 2026 SUR",ESPN SUR AR 4
 http://190.7.19.197:232/play/a05t/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/901KwVvK/Win-Sports.jpg" group-title="DEPORTES 2026 SUR",WIN SPORT+ 4K
+http://somoseluno.blog:80/live/Bertha123/Bertha123/400194.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/901KwVvK/Win-Sports.jpg" group-title="DEPORTES 2026 SUR",WIN SPORT+ FHD
+http://somoseluno.blog:80/live/Bertha123/Bertha123/1383.ts
 DIERCTV SPORT
 #EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS AR" tvg-logo="https://i.ibb.co/RjFVFZW/wer324324324.png" group-title="DIRECTV SPORTS AR-CO-EC-PE-CH-UR-",DIRECTV SPORTS AR
 http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/69547.ts
