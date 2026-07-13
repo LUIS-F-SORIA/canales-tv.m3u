@@ -17,7 +17,7 @@ TV ARGENTINA
 #EXTINF:-1 tvg-id="" tvg-name="TELEFE" tvg-logo="https://i.postimg.cc/x8MSJbZX/330px-Telefe-(nuevo-logo).png" group-title="Argentina",TELEFE 1
 http://190.7.19.197:232/play/a059/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TELEFE" tvg-logo="https://i.postimg.cc/x8MSJbZX/330px-Telefe-(nuevo-logo).png" group-title="Argentina",TELEFE HD
-http://190.7.19.197:232/play/a059/index.m3u8
+http://somoseluno.blog:80/live/Bertha123/Bertha123/541534.ts
 #EXTINF:-1 tvg-id="" tvg-name="TELEFE" tvg-logo="https://i.postimg.cc/x8MSJbZX/330px-Telefe-(nuevo-logo).png" group-title="Argentina",TELEFE OPC 2
 http://205.235.6.29:8000/play/a0mh/index.m3u8?hls
 #EXTINF:-1 tvg-id="" tvg-name="5TV" tvg-logo="https://www.tvcinco.com/images/logo2.jpg" group-title="Argentina",5TV
@@ -191,13 +191,15 @@ http://alltvmx.com/live/walther_rod/Rodriguez2024W/328916.ts
 http://alltvmx.com/live/walther_rod/Rodriguez2024W/328915.ts
 DEPORTES SUR
 #EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://i.postimg.cc/J0Yv7Yqn/DS1.jpg" group-title="DEPORTES 2026 SUR",DIRECTV ONLINE
-http://190.61.41.181:8000/play/a0r5/index.m3u8
+http://somoseluno.blog:80/live/Bertha123/Bertha123/540041.ts
 #EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://i.postimg.cc/J0Yv7Yqn/DS1.jpg" group-title="DEPORTES 2026 SUR",DIRECTV SUR ARG
-http://smarterstv99.dyndns.tv:25461/live/Juan823/XrrdxQgVwb2E/125647.ts
+http://somoseluno.blog:80/live/Bertha123/Bertha123/540038.ts
 #EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://i.postimg.cc/J0Yv7Yqn/DS1.jpg" group-title="DEPORTES 2026 SUR",DIRECTV COLOMBIA
 http://181.119.93.83:8000/play/a184/index.m3u8
-#EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://i.postimg.cc/J0Yv7Yqn/DS1.jpg" group-title="DEPORTES 2026 SUR",DIRECTV URUGUAY
-http://190.7.19.197:232/play/a09i/index.m3u8
+#EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://i.postimg.cc/J0Yv7Yqn/DS1.jpg" group-title="DEPORTES 2026 SUR",DIRECTV ECUADOR
+http://somoseluno.blog:80/live/Bertha123/Bertha123/540035.ts
+#EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://i.postimg.cc/J0Yv7Yqn/DS1.jpg" group-title="DEPORTES 2026 SUR",DIRECTV PERU
+http://somoseluno.blog:80/live/Bertha123/Bertha123/540026.ts
 
 #EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://i.postimg.cc/3rcdqYtS/DIRECTV-PLUS.jpg" group-title="DEPORTES 2026 SUR",DSPORT+ 1
 http://190.108.83.69:8000/play/a05w/index.m3u8
@@ -611,7 +613,7 @@ http://jumangis.cloud:2082/c3Y4YmdUSTdZSStSSjVrVnUyalIvS3NUZVJtMEdnK3BvK0kxb1Ire
 http://jumangis.cloud:2082/c3Y4YmdUSTdZSStSSjVrVnUyalIvSzhBS09icnhXQXQ2Nmc1Qy9haFhLWT0
 PELICULAS 2026
 #EXTINF:6329,Moana 2026 HDTS Latino.mkv tvg-logo="https://i.postimg.cc/fWtYQ3Vt/moana.jpg" group-title="⭐PELICULAS ESTRENOS 2026⭐",MOANA (2026)
-MN6LA/Moana%202026%20HDTS%20Latino.mkv
+http://somoseluno.blog:80/movie/Bertha123/Bertha123/558929.mp4
 #EXTINF:-1 tvg-name="Vidas entrelazadas (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ivXtlBv1UhZhAdIj2OouEAOuGf1.jpg" group-title="⭐PELICULAS ESTRENOS 2026⭐",Vidas entrelazadas (2026)
 http://alltvmx.com:80/movie/ElmerVillalobos06/c1a718bf6e76ace6/782949.mkv
 #EXTINF:-1 tvg-name="Viejos Bandidos (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eYZUzJMumKoUPX5Q40xBsgFs6dY.jpg" group-title="⭐PELICULAS ESTRENOS 2026⭐",Viejos Bandidos (2026)
