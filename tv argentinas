@@ -1,239 +1,365 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="GRAN HERMANO 24/7" tvg-logo="https://i.ibb.co/Zp1bgjb5/ARG3.jpg" group-title="⏩ Gran Hermano Argentina ⏪",GRAN HERMANO 24/7
-http://somoseluno.blog:80/live/Bertha123/Bertha123/454926.ts
-#EXTINF:-1 tvg-id="" tvg-name="GRAN HERMANO CAM 1" tvg-logo="https://i.ibb.co/Zp1bgjb5/ARG3.jpg" group-title="⏩ Gran Hermano Argentina ⏪",GRAN HERMANO CAM 1
-http://somoseluno.blog:80/live/Bertha123/Bertha123/454927.ts
-#EXTINF:-1 tvg-id="" tvg-name="GRAN HERMANO CAM 2 [0ndeman]" tvg-logo="https://i.ibb.co/Zp1bgjb5/ARG3.jpg" group-title="⏩ Gran Hermano Argentina ⏪",GRAN HERMANO CAM 2 [0ndeman]
-http://somoseluno.blog:80/live/Bertha123/Bertha123/454928.ts
-#EXTINF:-1 tvg-id="" tvg-name="GRAN HERMANO CAM 3 [0ndemand]" tvg-logo="https://i.ibb.co/Zp1bgjb5/ARG3.jpg" group-title="⏩ Gran Hermano Argentina ⏪",GRAN HERMANO CAM 3 [0ndemand]
-http://somoseluno.blog:80/live/Bertha123/Bertha123/454929.ts
-#EXTINF:-1 tvg-id="" tvg-name="GRAN HERMANO MULTICAMARA 0ndemand" tvg-logo="https://i.ibb.co/Zp1bgjb5/ARG3.jpg" group-title="⏩ Gran Hermano Argentina ⏪",GRAN HERMANO MULTICAMARA 0ndemand
-http://somoseluno.blog:80/live/Bertha123/Bertha123/454930.ts
-#EXTINF:-1 tvg-id="" tvg-name="✓⚡*GR∆N HE®M∆N0 ∆RGĘNTlN∆ ☀️⭐" tvg-logo="https://i.ibb.co/Zp1bgjb5/ARG3.jpg" group-title="⏩ Gran Hermano Argentina ⏪",✓⚡*GR∆N HE®M∆N0 ∆RGĘNTlN∆ ☀️⭐
-http://somoseluno.blog:80/live/Bertha123/Bertha123/453157.ts
+#EXTINF:-1 tvg-id="" tvg-name="GRAN HERMANO 24/7" tvg-logo="https://media.a24.com/p/bd593ee64bc53c172578822aa7ecc39b/adjuntos/296/imagenes/009/671/0009671653/1200x675/smart/gran-hermano-generacion-dorada.jpg" group-title="GRAN HERMANO ARGENTINA",GRAN HERMANO 24/7
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/749367.ts
+#EXTINF:-1 tvg-id="" tvg-name="GRAN HERMANO CAM 1" tvg-logo="https://media.a24.com/p/bd593ee64bc53c172578822aa7ecc39b/adjuntos/296/imagenes/009/671/0009671653/1200x675/smart/gran-hermano-generacion-dorada.jpg" group-title="GRAN HERMANO ARGENTINA",GRAN HERMANO CAM 1
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/749368.ts
+#EXTINF:-1 tvg-id="" tvg-name="GRAN HERMANO CAM 2" tvg-logo="https://media.a24.com/p/bd593ee64bc53c172578822aa7ecc39b/adjuntos/296/imagenes/009/671/0009671653/1200x675/smart/gran-hermano-generacion-dorada.jpg" group-title="GRAN HERMANO ARGENTINA",GRAN HERMANO CAM 2
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/749369.ts
+#EXTINF:-1 tvg-id="" tvg-name="GRAN HERMANO CAM 3" tvg-logo="https://media.a24.com/p/bd593ee64bc53c172578822aa7ecc39b/adjuntos/296/imagenes/009/671/0009671653/1200x675/smart/gran-hermano-generacion-dorada.jpg" group-title="GRAN HERMANO ARGENTINA",GRAN HERMANO CAM 3
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/749370.ts
+#EXTINF:-1 tvg-id="" tvg-name="GRAN HERMANO MULTICAMARA" tvg-logo="https://media.a24.com/p/bd593ee64bc53c172578822aa7ecc39b/adjuntos/296/imagenes/009/671/0009671653/1200x675/smart/gran-hermano-generacion-dorada.jpg" group-title="GRAN HERMANO ARGENTINA",GRAN HERMANO MULTICAMARA
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/749371.ts
 TV ARGENTINA
-#EXTINF:-1 tvg-id="" tvg-name="AR | AMERIC∆  ꜱᴅ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0fgLDmFN8t0LWvb7rkI6ZCCiRJWEQheswpg&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR | AMERIC∆  ꜱᴅ
-http://somoseluno.blog:80/live/Bertha123/Bertha123/81275.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR | AMERICA TV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0fgLDmFN8t0LWvb7rkI6ZCCiRJWEQheswpg&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR | AMERICA TV HD
-http://somoseluno.blog:80/live/Bertha123/Bertha123/81276.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR | AMERICA FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0fgLDmFN8t0LWvb7rkI6ZCCiRJWEQheswpg&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR | AMERICA FHD
-http://somoseluno.blog:80/live/Bertha123/Bertha123/81283.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR | EL NUEVE SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmX8tjoTHylcaDD3_48yzo6Nzx50MjRojLPA&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR | EL NUEVE SD
-http://somoseluno.blog:80/live/Bertha123/Bertha123/81272.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR | EL NUEVE HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmX8tjoTHylcaDD3_48yzo6Nzx50MjRojLPA&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR | EL NUEVE HD
-http://somoseluno.blog:80/live/Bertha123/Bertha123/81271.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR | EL NUEVE FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmX8tjoTHylcaDD3_48yzo6Nzx50MjRojLPA&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR | EL NUEVE FHD
-http://somoseluno.blog:80/live/Bertha123/Bertha123/81270.ts
-#EXTINF:-1 tvg-id="123dtv.ar" tvg-name="AR | TELEFE HD ¹" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlUMa6b30HJG6XO79tuoAQ959n0gEh6oSg-A&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR | TELEFE HD ¹
-http://somoseluno.blog:80/live/Bertha123/Bertha123/81285.ts
-#EXTINF:-1 tvg-id="123dtv.ar" tvg-name="AR | TELEFE HD ²" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlUMa6b30HJG6XO79tuoAQ959n0gEh6oSg-A&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR | TELEFE HD ²
-http://somoseluno.blog:80/live/Bertha123/Bertha123/50510.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR | TELEFE FHD " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlUMa6b30HJG6XO79tuoAQ959n0gEh6oSg-A&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR | TELEFE FHD 
-http://somoseluno.blog:80/live/Bertha123/Bertha123/50521.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR | CRONICA HD ¹" tvg-logo="https://ratingpolitica.com/wp-content/uploads/2021/05/image0-1-9.jpeg" group-title="❎ ARGENTlNA ❎",AR | CRONICA HD ¹
-http://somoseluno.blog:80/live/Bertha123/Bertha123/81268.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR-| ARGENTINISIMA HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSme3KO2n4jP4MV4eW2pFgxXKCr4wirNrpQg&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR-| ARGENTINISIMA HD
-http://somoseluno.blog:80/live/Bertha123/Bertha123/81318.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR-| ARGENTINISIMA SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSme3KO2n4jP4MV4eW2pFgxXKCr4wirNrpQg&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR-| ARGENTINISIMA SD
-http://somoseluno.blog:80/live/Bertha123/Bertha123/81319.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR | C5N FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhvEHUTKugnqQz7G_9UHyVDuyf_wGYWdQblw&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR | C5N FHD
-http://somoseluno.blog:80/live/Bertha123/Bertha123/81273.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR | Telemax sd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpm9gebQm0ncjH8Oe9S3sX69ShIc7W4Ky7cA&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR | Telemax sd
-http://somoseluno.blog:80/live/Bertha123/Bertha123/81288.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR-| EL GARAGE TV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRL_0iZ7hJH2d4qbdZ73r_qkKqe8ws4rNkLg&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR-| EL GARAGE TV HD
-http://somoseluno.blog:80/live/Bertha123/Bertha123/81322.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR | NOTICIAS TN SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkeFcQtno1fsHYYXHfJDWiBL1fOKmYBjMPVw&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR | NOTICIAS TN SD
-http://somoseluno.blog:80/live/Bertha123/Bertha123/81325.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR | C∆N∆L 13 HD ¹" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEUxd6vjCPiTZWnhGdbdAMoqNTZGbzvCHO1A&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR | C∆N∆L 13 HD ¹
-http://somoseluno.blog:80/live/Bertha123/Bertha123/81300.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR | CANAL 13 FHD* " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEUxd6vjCPiTZWnhGdbdAMoqNTZGbzvCHO1A&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR | CANAL 13 FHD* 
-http://somoseluno.blog:80/live/Bertha123/Bertha123/81266.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR | CANAL 13 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEUxd6vjCPiTZWnhGdbdAMoqNTZGbzvCHO1A&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR | CANAL 13 HD
-http://somoseluno.blog:80/live/Bertha123/Bertha123/81269.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR | TV PUBLICA HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6qM7GfDTvfBO-q63HLUW-QsbNWXiZEwqhkw&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR | TV PUBLICA HD
-http://somoseluno.blog:80/live/Bertha123/Bertha123/81265.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR l VOLVER HD " tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_ky2Var5cUn9XL8XMG36xGv7TgIlunPgl01BD66X7H--M8=s900-c-k-c0x00ffffff-no-rj" group-title="❎ ARGENTlNA ❎",AR l VOLVER HD 
-http://somoseluno.blog:80/live/Bertha123/Bertha123/140128.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR l VOLVER HD opc  ²" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_ky2Var5cUn9XL8XMG36xGv7TgIlunPgl01BD66X7H--M8=s900-c-k-c0x00ffffff-no-rj" group-title="❎ ARGENTlNA ❎",AR l VOLVER HD opc  ²
-http://somoseluno.blog:80/live/Bertha123/Bertha123/421649.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR-| LN+" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH8f5raMcEwss9lSlka2g6ppZPj2EnFlJwIw&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR-| LN+
-http://somoseluno.blog:80/live/Bertha123/Bertha123/81323.ts
-#EXTINF:-1 tvg-id="" tvg-name="ARG: Canal lNFANTIL " tvg-logo="https://i.ytimg.com/vi/_5lIJyObc0w/maxresdefault.jpg?" group-title="❎ ARGENTlNA ❎",ARG: Canal lNFANTIL 
-http://somoseluno.blog:80/live/Bertha123/Bertha123/144337.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR | Telemax HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpm9gebQm0ncjH8Oe9S3sX69ShIc7W4Ky7cA&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR | Telemax HD
-http://somoseluno.blog:80/live/Bertha123/Bertha123/81287.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR | NOTICIAS TN HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkeFcQtno1fsHYYXHfJDWiBL1fOKmYBjMPVw&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR | NOTICIAS TN HD
-http://somoseluno.blog:80/live/Bertha123/Bertha123/81324.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR I| PAKAPAKA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Pakapaka_logotipo_%282010-2016%29.png" group-title="❎ ARGENTlNA ❎",AR I| PAKAPAKA HD
-http://somoseluno.blog:80/live/Bertha123/Bertha123/352333.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR | TV PUBLICA FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6qM7GfDTvfBO-q63HLUW-QsbNWXiZEwqhkw&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR | TV PUBLICA FHD
-http://somoseluno.blog:80/live/Bertha123/Bertha123/81264.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR | A24  ꜱᴅ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_T246MMRs8f0eT4jtwWWOlXUOuUNIGPYT5AJEzprrvA&s=10" group-title="❎ ARGENTlNA ❎",AR | A24  ꜱᴅ
-http://somoseluno.blog:80/live/Bertha123/Bertha123/81290.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR | A24  ʜᴅ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_T246MMRs8f0eT4jtwWWOlXUOuUNIGPYT5AJEzprrvA&s=10" group-title="❎ ARGENTlNA ❎",AR | A24  ʜᴅ
-http://somoseluno.blog:80/live/Bertha123/Bertha123/81289.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR | C5N HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhvEHUTKugnqQz7G_9UHyVDuyf_wGYWdQblw&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR | C5N HD
-http://somoseluno.blog:80/live/Bertha123/Bertha123/81274.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR-| CINE AR SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPXa_7GTAh9OpM1yylM2IdMsQOh3jeJ8e0XA&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR-| CINE AR SD
-http://somoseluno.blog:80/live/Bertha123/Bertha123/81321.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR-| CINE AR HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPXa_7GTAh9OpM1yylM2IdMsQOh3jeJ8e0XA&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR-| CINE AR HD
-http://somoseluno.blog:80/live/Bertha123/Bertha123/81320.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR-| CANAL 26 NOTICIAS SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShxTPhW_bp7ia83Wwb8ZtN0sE-dqon-Uuj6w&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR-| CANAL 26 NOTICIAS SD
-http://somoseluno.blog:80/live/Bertha123/Bertha123/81317.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR | CANAL 26 NOTICIAS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShxTPhW_bp7ia83Wwb8ZtN0sE-dqon-Uuj6w&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR | CANAL 26 NOTICIAS HD
-http://somoseluno.blog:80/live/Bertha123/Bertha123/81310.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR | CIUDAD MAGAZINE HD " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0-o6s4OgcMxwPQtbZu9jpnF4uG99P11vehg&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR | CIUDAD MAGAZINE HD 
-http://somoseluno.blog:80/live/Bertha123/Bertha123/86689.ts
-#EXTINF:-1 tvg-id="" tvg-name="ARG: TV Universidad Nacional de La Plata" tvg-logo="https://i.ytimg.com/vi/WmNX1kaRyHk/hqdefault.jpg" group-title="❎ ARGENTlNA ❎",ARG: TV Universidad Nacional de La Plata
-http://somoseluno.blog:80/live/Bertha123/Bertha123/144336.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR |*F∆SHl0N TV " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Logotipo_FDF.jpg/250px-Logotipo_FDF.jpg" group-title="❎ ARGENTlNA ❎",AR |*F∆SHl0N TV 
-http://somoseluno.blog:80/live/Bertha123/Bertha123/305969.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR | NET TV HD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Net_TV_logo.png/1200px-Net_TV_logo.png" group-title="❎ ARGENTlNA ❎",AR | NET TV HD 
-http://somoseluno.blog:80/live/Bertha123/Bertha123/305968.ts
-LATINOS
-#EXTINF:-1 tvg-id="" tvg-name="SP: ARG: ESPN 1 FHD" tvg-logo="http://icon.guard447.cyou/logos/LAT_mexico/espn.png" group-title="Latinos",SP: ARG: ESPN 1 FHD
-https://max.donvpnapk.bid:443/live/1f276640db761fd7/c6229aae137d9907/196968.ts
-#EXTINF:-1 tvg-id="" tvg-name="SP: ARG: ESPN 1 HD" tvg-logo="http://icon.guard447.cyou/logos/LAT_mexico/espn.png" group-title="Latinos",SP: ARG: ESPN 1 HD
-https://max.donvpnapk.bid:443/live/1f276640db761fd7/c6229aae137d9907/196969.ts
-#EXTINF:-1 tvg-id="" tvg-name="SP: ARG: ESPN 1 SD" tvg-logo="http://icon.guard447.cyou/logos/LAT_mexico/espn.png" group-title="Latinos",SP: ARG: ESPN 1 SD
-https://max.donvpnapk.bid:443/live/1f276640db761fd7/c6229aae137d9907/196970.ts
-#EXTINF:-1 tvg-id="" tvg-name="SP: ARG: ESPN 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/330px-ESPN2_logo.svg.png" group-title="Latinos",SP: ARG: ESPN 2 FHD
-https://max.donvpnapk.bid:443/live/1f276640db761fd7/c6229aae137d9907/196971.ts
-#EXTINF:-1 tvg-id="" tvg-name="SP: ARG: ESPN 2 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/330px-ESPN2_logo.svg.png" group-title="Latinos",SP: ARG: ESPN 2 SD
-https://max.donvpnapk.bid:443/live/1f276640db761fd7/c6229aae137d9907/196972.ts
-#EXTINF:-1 tvg-id="" tvg-name="SP: ARG: ESPN 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="Latinos",SP: ARG: ESPN 3 HD
-https://max.donvpnapk.bid:443/live/1f276640db761fd7/c6229aae137d9907/196973.ts
-#EXTINF:-1 tvg-id="" tvg-name="SP: ARG: ESPN 3 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="Latinos",SP: ARG: ESPN 3 SD
-https://max.donvpnapk.bid:443/live/1f276640db761fd7/c6229aae137d9907/196974.ts
-#EXTINF:-1 tvg-id="" tvg-name="SP: ARG: ESPN 4 HD" tvg-logo="https://i.ibb.co/f2p5yHT/ESPN4.png" group-title="Latinos",SP: ARG: ESPN 4 HD
-https://max.donvpnapk.bid:443/live/1f276640db761fd7/c6229aae137d9907/196975.ts
-#EXTINF:-1 tvg-id="" tvg-name="SP: ARG: ESPN Premium FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png" group-title="Latinos",SP: ARG: ESPN Premium FHD
-https://max.donvpnapk.bid:443/live/1f276640db761fd7/c6229aae137d9907/196976.ts
-#EXTINF:-1 tvg-id="" tvg-name="SP: ARG: ESPN Premium HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png" group-title="Latinos",SP: ARG: ESPN Premium HD
-https://max.donvpnapk.bid:443/live/1f276640db761fd7/c6229aae137d9907/196977.ts
-#EXTINF:-1 tvg-id="" tvg-name="SP: ARG: ESPN Premium SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png" group-title="Latinos",SP: ARG: ESPN Premium SD
-https://max.donvpnapk.bid:443/live/1f276640db761fd7/c6229aae137d9907/196978.ts
-#EXTINF:-1 tvg-id="" tvg-name="SP: ARG: DEPORTV" tvg-logo="https://i.im.ge/2023/06/14/iiP0rS.Sin-titulo.png" group-title="Latinos",SP: ARG: DEPORTV
-https://max.donvpnapk.bid:443/live/1f276640db761fd7/c6229aae137d9907/196979.ts
-#EXTINF:-1 tvg-id="" tvg-name="SP: ARG: Directv Sports + HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png/1200px-DirecTV_Sports%2B_Latin_America_%282018%29.png" group-title="Latinos",SP: ARG: Directv Sports + HD
-https://max.donvpnapk.bid:443/live/1f276640db761fd7/c6229aae137d9907/196980.ts
-#EXTINF:-1 tvg-id="" tvg-name="SP: ARG: Directv Sports 1 HD" tvg-logo="http://icon.guard447.cyou/logos/ligas_deportivas/DirecTV_Sports.png" group-title="Latinos",SP: ARG: Directv Sports 1 HD
-https://max.donvpnapk.bid:443/live/1f276640db761fd7/c6229aae137d9907/196981.ts
-#EXTINF:-1 tvg-id="" tvg-name="SP: ARG: Directv Sports 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png/1200px-DirecTV_Sports_2_Latin_America_%282018%29.png" group-title="Latinos",SP: ARG: Directv Sports 2 HD
-https://max.donvpnapk.bid:443/live/1f276640db761fd7/c6229aae137d9907/196982.ts
-#EXTINF:-1 tvg-id="" tvg-name="SP: ARG: TyC Sports HD (Fibra)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/2560px-TyC_Sports_logo.svg.png" group-title="Latinos",SP: ARG: TyC Sports HD (Fibra)
-https://max.donvpnapk.bid:443/live/1f276640db761fd7/c6229aae137d9907/196983.ts
-#EXTINF:-1 tvg-id="" tvg-name="SP: ARG: TyC Sports SD (Fibra)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/2560px-TyC_Sports_logo.svg.png" group-title="Latinos",SP: ARG: TyC Sports SD (Fibra)
-https://max.donvpnapk.bid:443/live/1f276640db761fd7/c6229aae137d9907/196984.ts
-#EXTINF:-1 tvg-id="" tvg-name="SP: ARG: TyC Sports Internacional HD" tvg-logo="http://icon.guard447.cyou/logos/Argentina_deportes/tyc_sports%20internacional.png" group-title="Latinos",SP: ARG: TyC Sports Internacional HD
-https://max.donvpnapk.bid:443/live/1f276640db761fd7/c6229aae137d9907/196985.ts
-#EXTINF:-1 tvg-id="" tvg-name="SP: ARG: TyC Sports Internacional SD" tvg-logo="http://icon.guard447.cyou/logos/Argentina_deportes/tyc_sports%20internacional.png" group-title="Latinos",SP: ARG: TyC Sports Internacional SD
-https://max.donvpnapk.bid:443/live/1f276640db761fd7/c6229aae137d9907/196986.ts
-#EXTINF:-1 tvg-id="" tvg-name="SP: ARG: TyC Sports Local FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/2560px-TyC_Sports_logo.svg.png" group-title="Latinos",SP: ARG: TyC Sports Local FHD
-https://max.donvpnapk.bid:443/live/1f276640db761fd7/c6229aae137d9907/196987.ts
-#EXTINF:-1 tvg-id="" tvg-name="SP: ARG: TyC Sports Local SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/2560px-TyC_Sports_logo.svg.png" group-title="Latinos",SP: ARG: TyC Sports Local SD
-https://max.donvpnapk.bid:443/live/1f276640db761fd7/c6229aae137d9907/196988.ts
-#EXTINF:-1 tvg-id="" tvg-name="SP: ARG: Fox Sports 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Logo_Fox_Sports_Argentina_2023.png" group-title="Latinos",SP: ARG: Fox Sports 1 HD
-https://max.donvpnapk.bid:443/live/1f276640db761fd7/c6229aae137d9907/196989.ts
-#EXTINF:-1 tvg-id="" tvg-name="SP: ARG: Fox Sports 1 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Logo_Fox_Sports_Argentina_2023.png" group-title="Latinos",SP: ARG: Fox Sports 1 SD
-https://max.donvpnapk.bid:443/live/1f276640db761fd7/c6229aae137d9907/196990.ts
-#EXTINF:-1 tvg-id="" tvg-name="SP: ARG: Fox Sports 2 (Fibra)" tvg-logo="" group-title="Latinos",SP: ARG: Fox Sports 2 (Fibra)
-https://max.donvpnapk.bid:443/live/1f276640db761fd7/c6229aae137d9907/196991.ts
-#EXTINF:-1 tvg-id="" tvg-name="SP: ARG: Fox Sports 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="Latinos",SP: ARG: Fox Sports 2 HD
-https://max.donvpnapk.bid:443/live/1f276640db761fd7/c6229aae137d9907/196992.ts
-#EXTINF:-1 tvg-id="" tvg-name="SP: ARG: Fox Sports 2 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="Latinos",SP: ARG: Fox Sports 2 SD
-https://max.donvpnapk.bid:443/live/1f276640db761fd7/c6229aae137d9907/196993.ts
-#EXTINF:-1 tvg-id="" tvg-name="SP: ARG: Fox Sports 3 HD" tvg-logo="http://icon.guard447.cyou/logos/Argentina_deportes/Fox_sports_3.png" group-title="Latinos",SP: ARG: Fox Sports 3 HD
-https://max.donvpnapk.bid:443/live/1f276640db761fd7/c6229aae137d9907/196994.ts
-#EXTINF:-1 tvg-id="" tvg-name="SP: ARG: Fox Sports 3 HD" tvg-logo="" group-title="Latinos",SP: ARG: Fox Sports 3 HD
-https://max.donvpnapk.bid:443/live/1f276640db761fd7/c6229aae137d9907/196995.ts
-#EXTINF:-1 tvg-id="" tvg-name="SP: ARG: Fox Sports 3 SD" tvg-logo="" group-title="Latinos",SP: ARG: Fox Sports 3 SD
-https://max.donvpnapk.bid:443/live/1f276640db761fd7/c6229aae137d9907/196996.ts
-#EXTINF:-1 tvg-id="" tvg-name="SP: ARG: TNT Sports FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1200px-TNT_Sports_2021_logo.svg.png" group-title="Latinos",SP: ARG: TNT Sports FHD
-https://max.donvpnapk.bid:443/live/1f276640db761fd7/c6229aae137d9907/196997.ts
-#EXTINF:-1 tvg-id="" tvg-name="SP: ARG: TNT Sports HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1200px-TNT_Sports_2021_logo.svg.png" group-title="Latinos",SP: ARG: TNT Sports HD
-https://max.donvpnapk.bid:443/live/1f276640db761fd7/c6229aae137d9907/196998.ts
-DIRECTV
-#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS AR" tvg-logo="https://i.ibb.co/RjFVFZW/wer324324324.png" group-title="DIRECTV SPORTS AR-CO-EC-PE-CH-UR-",DIRECTV SPORTS AR
-http://alltvmx.com/live/ElmerVillalobos06/c1a718bf6e76ace6/69547.ts
-#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS 2 AR" tvg-logo="https://i.ibb.co/fXC6w96/ds2.png" group-title="DIRECTV SPORTS AR-CO-EC-PE-CH-UR-",DIRECTV SPORTS 2 AR
-http://alltvmx.com/live/ElmerVillalobos06/c1a718bf6e76ace6/69549.ts
-#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS CH" tvg-logo="https://i.ibb.co/RjFVFZW/wer324324324.png" group-title="DIRECTV SPORTS AR-CO-EC-PE-CH-UR-",DIRECTV SPORTS CH
-http://alltvmx.com/live/ElmerVillalobos06/c1a718bf6e76ace6/69552.ts
-#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS EC" tvg-logo="https://i.ibb.co/RjFVFZW/wer324324324.png" group-title="DIRECTV SPORTS AR-CO-EC-PE-CH-UR-",DIRECTV SPORTS EC
-http://alltvmx.com/live/ElmerVillalobos06/c1a718bf6e76ace6/69557.ts
-#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS PLUS EC" tvg-logo="https://i.ibb.co/QDKfDMG/ds.png" group-title="DIRECTV SPORTS AR-CO-EC-PE-CH-UR-",DIRECTV SPORTS PLUS EC
-http://alltvmx.com/live/ElmerVillalobos06/c1a718bf6e76ace6/69559.ts
-#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS CO" tvg-logo="https://i.ibb.co/RjFVFZW/wer324324324.png" group-title="DIRECTV SPORTS AR-CO-EC-PE-CH-UR-",DIRECTV SPORTS CO
-http://alltvmx.com/live/ElmerVillalobos06/c1a718bf6e76ace6/69567.ts
-#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS 2 CO" tvg-logo="https://i.ibb.co/fXC6w96/ds2.png" group-title="DIRECTV SPORTS AR-CO-EC-PE-CH-UR-",DIRECTV SPORTS 2 CO
-http://alltvmx.com/live/ElmerVillalobos06/c1a718bf6e76ace6/69568.ts
-#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS URU" tvg-logo="https://i.ibb.co/RjFVFZW/wer324324324.png" group-title="DIRECTV SPORTS AR-CO-EC-PE-CH-UR-",DIRECTV SPORTS URU
-http://alltvmx.com/live/ElmerVillalobos06/c1a718bf6e76ace6/69570.ts
-#EXTINF:-1 tvg-id="" tvg-name="DIRECTV Sports Per" tvg-logo="https://i.ibb.co/RjFVFZW/wer324324324.png" group-title="DIRECTV SPORTS AR-CO-EC-PE-CH-UR-",DIRECTV Sports Per
-http://alltvmx.com/live/ElmerVillalobos06/c1a718bf6e76ace6/151274.ts
-DEPORTES ARG
-#EXTINF:-1 tvg-id="" tvg-name="ARG I T&C SPORTS  HD" tvg-logo="http://flx.lat:8080/images/9ea3d3078da5eeb5b596ce02439dd2af.jpg" group-title="▶️ DEPORTES ARGENTINA ",ARG I T&C SPORTS  HD
-http://flexlive.lat:8080/live/SoldiamarMatamoros1024/e4ExXBdcnJ67/120635.ts
-#EXTINF:-1 tvg-id="" tvg-name="ARG | FOX SPORTS 1 HD" tvg-logo="http://flx.lat:8080/images/e5308aa8bb92574804b3eff696c27caa.png" group-title="▶️ DEPORTES ARGENTINA ",ARG | FOX SPORTS 1 HD
-http://flexlive.lat:8080/live/SoldiamarMatamoros1024/e4ExXBdcnJ67/120634.ts
-#EXTINF:-1 tvg-id="" tvg-name="ARG | FOX SPORTS 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Fox_Sports_2_Logo_2022.png" group-title="▶️ DEPORTES ARGENTINA ",ARG | FOX SPORTS 2 HD
-http://flexlive.lat:8080/live/SoldiamarMatamoros1024/e4ExXBdcnJ67/120633.ts
-#EXTINF:-1 tvg-id="" tvg-name="ARG | FOX SPORTS 3 HD" tvg-logo="http://flx.lat:8080/images/d05ecbde8f2de308085f6693df1f6a79.png" group-title="▶️ DEPORTES ARGENTINA ",ARG | FOX SPORTS 3 HD
-http://flexlive.lat:8080/live/SoldiamarMatamoros1024/e4ExXBdcnJ67/120632.ts
-#EXTINF:-1 tvg-id="" tvg-name="ARG | TyC Sports HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdSI5R05ajZXvxYFbLs6fZwIJXNp5BkTwm2A&s" group-title="▶️ DEPORTES ARGENTINA ",ARG | TyC Sports HD
-http://flexlive.lat:8080/live/SoldiamarMatamoros1024/e4ExXBdcnJ67/106104.ts
-#EXTINF:-1 tvg-id="" tvg-name="ARG | TYC Sports OPC 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdSI5R05ajZXvxYFbLs6fZwIJXNp5BkTwm2A&s" group-title="▶️ DEPORTES ARGENTINA ",ARG | TYC Sports OPC 2
-http://flexlive.lat:8080/live/SoldiamarMatamoros1024/e4ExXBdcnJ67/140434.ts
-#EXTINF:-1 tvg-id="" tvg-name="ARG | TYC Sports SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdSI5R05ajZXvxYFbLs6fZwIJXNp5BkTwm2A&s" group-title="▶️ DEPORTES ARGENTINA ",ARG | TYC Sports SD
-http://flexlive.lat:8080/live/SoldiamarMatamoros1024/e4ExXBdcnJ67/129438.ts
-#EXTINF:-1 tvg-id="" tvg-name="ARG | TNT SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYXSDwn6wCLfVXPwXevWpRm4aYgYBHlz-WlQ&s" group-title="▶️ DEPORTES ARGENTINA ",ARG | TNT SPORTS
-http://flexlive.lat:8080/live/SoldiamarMatamoros1024/e4ExXBdcnJ67/120641.ts
-#EXTINF:-1 tvg-id="" tvg-name="ARG | TNT SPORTS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYXSDwn6wCLfVXPwXevWpRm4aYgYBHlz-WlQ&s" group-title="▶️ DEPORTES ARGENTINA ",ARG | TNT SPORTS HD
-http://flexlive.lat:8080/live/SoldiamarMatamoros1024/e4ExXBdcnJ67/120637.ts
-#EXTINF:-1 tvg-id="" tvg-name=" ARG | ESPN HD" tvg-logo="http://flx.lat:8080/images/4b91b95e2dde6009b81b5066503793b3.png" group-title="▶️ DEPORTES ARGENTINA ", ARG | ESPN HD
-http://flexlive.lat:8080/live/SoldiamarMatamoros1024/e4ExXBdcnJ67/120640.ts
-#EXTINF:-1 tvg-id="" tvg-name="ARG | ESPN PREMIUM" tvg-logo="http://flx.lat:8080/images/4b91b95e2dde6009b81b5066503793b3.png" group-title="▶️ DEPORTES ARGENTINA ",ARG | ESPN PREMIUM
-http://flexlive.lat:8080/live/SoldiamarMatamoros1024/e4ExXBdcnJ67/120639.ts
-#EXTINF:-1 tvg-id="" tvg-name="ARG | ESPN PREMIUM" tvg-logo="http://flx.lat:8080/images/4b91b95e2dde6009b81b5066503793b3.png" group-title="▶️ DEPORTES ARGENTINA ",ARG | ESPN PREMIUM
-http://flexlive.lat:8080/live/SoldiamarMatamoros1024/e4ExXBdcnJ67/120638.ts
-
+#EXTINF:-1 tvg-id="" tvg-name="5TV" tvg-logo="https://www.tvcinco.com/images/logo2.jpg" group-title="Argentina",5TV
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/712700.ts
+#EXTINF:-1 tvg-id="" tvg-name="A24 | AR" tvg-logo="https://i.postimg.cc/VL2YNmHh/images-q-tbn-ANd9Gc-T8yf-XBu-Qmon9WVy3ETX9fuq0w4U8Hvq391YA-s.png" group-title="Argentina",A24 | AR
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/712701.ts
+#EXTINF:-1 tvg-id="" tvg-name="A24 FHD" tvg-logo="https://i.postimg.cc/VL2YNmHh/images-q-tbn-ANd9Gc-T8yf-XBu-Qmon9WVy3ETX9fuq0w4U8Hvq391YA-s.png" group-title="Argentina",A24 FHD
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/712702.ts
+#EXTINF:-1 tvg-id="" tvg-name="America TV | AR" tvg-logo="https://i.postimg.cc/k4MCH4Dh/America-TV-(Nuevo-logo-Junio-2020).png" group-title="Argentina",America TV | AR
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/712703.ts
+#EXTINF:-1 tvg-id="" tvg-name="America TV FHD" tvg-logo="https://i.postimg.cc/k4MCH4Dh/America-TV-(Nuevo-logo-Junio-2020).png" group-title="Argentina",America TV FHD
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/712704.ts
+#EXTINF:-1 tvg-id="" tvg-name="C5N FHD| AR" tvg-logo="https://i.postimg.cc/gjQPrH4v/C5N-Logo-2015.png" group-title="Argentina",C5N FHD| AR
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/712705.ts
+#EXTINF:-1 tvg-id="" tvg-name="CRONICA" tvg-logo="https://i.postimg.cc/cJ0GKH76/Cronica-TV-logotipo-(2016).png" group-title="Argentina",CRONICA
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/712706.ts
+#EXTINF:-1 tvg-id="" tvg-name="Crónica TV  HD| AR" tvg-logo="https://i.postimg.cc/cJ0GKH76/Cronica-TV-logotipo-(2016).png" group-title="Argentina",Crónica TV  HD| AR
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/712707.ts
+#EXTINF:-1 tvg-id="" tvg-name="El Nueve" tvg-logo="https://i.postimg.cc/MT3CrmCs/Canal-9-ba-logo.png" group-title="Argentina",El Nueve
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/712708.ts
+#EXTINF:-1 tvg-id="" tvg-name="El Nueve HD" tvg-logo="https://i.postimg.cc/MT3CrmCs/Canal-9-ba-logo.png" group-title="Argentina",El Nueve HD
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/712709.ts
+#EXTINF:-1 tvg-id="" tvg-name="El Trece" tvg-logo="https://i.postimg.cc/HWRGw34L/Logo-Canal-13-200-8.png" group-title="Argentina",El Trece
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/712710.ts
+#EXTINF:-1 tvg-id="" tvg-name="El Trece FHD" tvg-logo="https://i.postimg.cc/HWRGw34L/Logo-Canal-13-200-8.png" group-title="Argentina",El Trece FHD
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/712711.ts
+#EXTINF:-1 tvg-id="" tvg-name="La Nación + | AR" tvg-logo="https://i.postimg.cc/mZvLLTn0/f500x333-807353-831156-5050.jpg" group-title="Argentina",La Nación + | AR
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/712712.ts
+#EXTINF:-1 tvg-id="" tvg-name="La Nación + HD" tvg-logo="https://i.postimg.cc/mZvLLTn0/f500x333-807353-831156-5050.jpg" group-title="Argentina",La Nación + HD
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/712713.ts
+#EXTINF:-1 tvg-id="" tvg-name="TELEFE" tvg-logo="https://i.postimg.cc/x8MSJbZX/330px-Telefe-(nuevo-logo).png" group-title="Argentina",TELEFE
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/712714.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telefe FHD" tvg-logo="https://i.postimg.cc/x8MSJbZX/330px-Telefe-(nuevo-logo).png" group-title="Argentina",Telefe FHD
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/712715.ts
+#EXTINF:-1 tvg-id="" tvg-name="TN Noticias" tvg-logo="https://i.postimg.cc/tTnKwx9g/250px-TN-todo-noticias-logo-svg.png" group-title="Argentina",TN Noticias
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/712717.ts
+#EXTINF:-1 tvg-id="" tvg-name="TN NOTICIAS" tvg-logo="https://i.postimg.cc/tTnKwx9g/250px-TN-todo-noticias-logo-svg.png" group-title="Argentina",TN NOTICIAS
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/712718.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Publica" tvg-logo="https://i.postimg.cc/hPBkZvwY/1280px-TVP-Television-Publica-(2021)-svg.png" group-title="Argentina",TV Publica
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/712719.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Publica FHD" tvg-logo="https://i.postimg.cc/hPBkZvwY/1280px-TVP-Television-Publica-(2021)-svg.png" group-title="Argentina",TV Publica FHD
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/712720.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARGENTINISIMA" tvg-logo="https://i.postimg.cc/fbnqyrs4/latest-(20).png" group-title="Argentina",ARGENTINISIMA
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/712721.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal 13 La Rioja" tvg-logo="https://i.postimg.cc/WbxXYHh4/latest-(21).png" group-title="Argentina",Canal 13 La Rioja
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/712723.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal 26 | AR" tvg-logo="https://i.postimg.cc/3Rbg4kG3/images-q-tbn-ANd9Gc-Se0i-OYk-MVUv8b-RSmev324PVm-Iah3Lbnmk-a-A-s.png" group-title="Argentina",Canal 26 | AR
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/712724.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal 26 FHD" tvg-logo="https://i.postimg.cc/3Rbg4kG3/images-q-tbn-ANd9Gc-Se0i-OYk-MVUv8b-RSmev324PVm-Iah3Lbnmk-a-A-s.png" group-title="Argentina",Canal 26 FHD
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/712725.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal 4 Posadas" tvg-logo="https://canalcuatroposadas.com.ar/wp-content/uploads/2024/02/logo-web.png" group-title="Argentina",Canal 4 Posadas
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/712726.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal 7 Jujuy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmQa0k2OE_G_hWAH7Nx7qORMLV0S2YGQ7p85jrDfC7nNGUJ50INomppJw&s=10" group-title="Argentina",Canal 7 Jujuy
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/712727.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal 9 Litoral" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/Canal_9_Litoral_(Logo_2021).png/revision/latest?cb=20220305163041" group-title="Argentina",Canal 9 Litoral
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/712728.ts
+#EXTINF:-1 tvg-id="" tvg-name="13 Max HD" tvg-logo="https://i.ibb.co/sbHJbrC/13maxhd.png" group-title="Argentina",13 Max HD
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/712730.ts
+#EXTINF:-1 tvg-id="" tvg-name="CIUDAD MAGAZINE HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5-0odv_2wgxZHAqMfic5Q9Qh9eKutgZ3F0A&s" group-title="Argentina",CIUDAD MAGAZINE HD
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/712732.ts
+#EXTINF:-1 tvg-id="" tvg-name="5RTV Santa Fe" tvg-logo="https://i.ibb.co/W6xkB9w/santafe.png" group-title="Argentina",5RTV Santa Fe
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/712733.ts
+#EXTINF:-1 tvg-id="" tvg-name="Multivision HD" tvg-logo="https://play-lh.googleusercontent.com/4KefEkBSbET6Imw1iLMrMd70mG4LP_5b6faSohDm6eKUipnx_ApRrQXAPMaLguA0eoI" group-title="Argentina",Multivision HD
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/712734.ts
+#EXTINF:-1 tvg-id="" tvg-name="Neo TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/Neo_TV_Florencio_Varela.png/revision/latest/scale-to-width-down/1000?cb=20250702200816" group-title="Argentina",Neo TV
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/712735.ts
+#EXTINF:-1 tvg-id="" tvg-name="NET TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/NETTV2018.png/revision/latest/scale-to-width-down/1000?cb=20210315130135&path-prefix=es" group-title="Argentina",NET TV
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/712736.ts
+#EXTINF:-1 tvg-id="" tvg-name="Paka Paka HD" tvg-logo="https://i.postimg.cc/WbHjtTzQ/Paka-Paka-2025.png" group-title="Argentina",Paka Paka HD
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/712737.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTN Neuquén" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2025/03/Canal-RTN-Neuquen-en-VIVO-Online.png" group-title="Argentina",RTN Neuquén
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/712739.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telemax" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/08%29Telemax_%282018%29.png/revision/latest?cb=20220113152551&path-prefix=es" group-title="Argentina",Telemax
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/712740.ts
+#EXTINF:-1 tvg-id="" tvg-name="Volver HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/Volver_2016.png/revision/latest?cb=20210525002558&path-prefix=es" group-title="Argentina",Volver HD
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/712741.ts
+#EXTINF:-1 tvg-id="" tvg-name="Deportv | AR FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/DeporTV_%282020%29.png/revision/latest/scale-to-width-down/1000?cb=20210101172130&path-prefix=es" group-title="Argentina",Deportv | AR FHD
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/712742.ts
 #EXTINF:-1 tvg-id="" tvg-name="ESPN FHD | AR" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/hdrkql1660762351.png" group-title="Argentina",ESPN FHD | AR
-http://virgencitachatuti.com/live/johanrivera1/edZzz3acfW/712743.ts
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/712743.ts
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 2  FHD | AR" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/wcualh1660760950.png" group-title="Argentina",ESPN 2  FHD | AR
-http://virgencitachatuti.com/live/johanrivera1/edZzz3acfW/712744.ts
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/712744.ts
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 3 HD| AR" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/wkdrnd1660760961.png" group-title="Argentina",ESPN 3 HD| AR
-http://virgencitachatuti.com/live/johanrivera1/edZzz3acfW/712745.ts
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/712745.ts
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 4 HD | AR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/ESPN_4.svg/revision/latest/scale-to-width-down/250?cb=20211120194330" group-title="Argentina",ESPN 4 HD | AR
-http://virgencitachatuti.com/live/johanrivera1/edZzz3acfW/712746.ts
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/712746.ts
 #EXTINF:-1 tvg-id="" tvg-name="ESPN Premium  | AR FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png" group-title="Argentina",ESPN Premium  | AR FHD
-http://virgencitachatuti.com/live/johanrivera1/edZzz3acfW/712747.ts
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/712747.ts
 #EXTINF:-1 tvg-id="" tvg-name="Fox Sports | AR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/Fox_Sports_Argentina_2023.svg/revision/latest/scale-to-width-down/200?cb=20230305142851&path-prefix=es" group-title="Argentina",Fox Sports | AR
-http://virgencitachatuti.com/live/johanrivera1/edZzz3acfW/712748.ts
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/712748.ts
 #EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2  | AR FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Logo_Fox_Sports_2_Argentina_2023.png" group-title="Argentina",Fox Sports 2  | AR FHD
-http://virgencitachatuti.com/live/johanrivera1/edZzz3acfW/712749.ts
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/712749.ts
 #EXTINF:-1 tvg-id="" tvg-name="Fox Sports 3  | AR FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a1/FOX_Sports_3_Argentina_%282023%29.png/revision/latest?cb=20230207140224&path-prefix=es" group-title="Argentina",Fox Sports 3  | AR FHD
-http://virgencitachatuti.com/live/johanrivera1/edZzz3acfW/712750.ts
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/712750.ts
 #EXTINF:-1 tvg-id="" tvg-name="Garage TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f2/Large.Logo_GarageTV2019.png.c7694a48fbe8a1685d4eee68cbafe44e.png/revision/latest?cb=20210525001901&path-prefix=es" group-title="Argentina",Garage TV
-http://virgencitachatuti.com/live/johanrivera1/edZzz3acfW/712751.ts
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/712751.ts
 #EXTINF:-1 tvg-id="" tvg-name="TNT Sports Premium" tvg-logo="https://foros.forounivers.com/uploads/monthly_2024_03/large.TNTSportsCL.png.16208cc25cd2cc1c1270c36c2f44986a.png" group-title="Argentina",TNT Sports Premium
-http://virgencitachatuti.com/live/johanrivera1/edZzz3acfW/712752.ts
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/712752.ts
 #EXTINF:-1 tvg-id="" tvg-name="TNT Sports Premium HD" tvg-logo="https://foros.forounivers.com/uploads/monthly_2024_03/large.TNTSportsCL.png.16208cc25cd2cc1c1270c36c2f44986a.png" group-title="Argentina",TNT Sports Premium HD
-http://virgencitachatuti.com/live/johanrivera1/edZzz3acfW/712753.ts
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/712753.ts
 #EXTINF:-1 tvg-id="" tvg-name="TyC Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/TyC_Sports.png/revision/latest?cb=20190620182054&path-prefix=es" group-title="Argentina",TyC Sports
-http://virgencitachatuti.com/live/johanrivera1/edZzz3acfW/712754.ts
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/712754.ts
 #EXTINF:-1 tvg-id="" tvg-name="TYC SPORTS HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/TyC_Sports.png/revision/latest?cb=20190620182054&path-prefix=es" group-title="Argentina",TYC SPORTS HD
-http://virgencitachatuti.com/live/johanrivera1/edZzz3acfW/712755.ts
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/712755.ts
 #EXTINF:-1 tvg-id="" tvg-name="DSPORTS 1 ARG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="Argentina",DSPORTS 1 ARG
-http://virgencitachatuti.com/live/johanrivera1/edZzz3acfW/712756.ts
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/712756.ts
 #EXTINF:-1 tvg-id="" tvg-name="DSPORTS 2 ARG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/DSports2.png" group-title="Argentina",DSPORTS 2 ARG
-http://virgencitachatuti.com/live/johanrivera1/edZzz3acfW/712757.ts
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/712757.ts
 #EXTINF:-1 tvg-id="" tvg-name="DSPORTS +1 AR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="Argentina",DSPORTS +1 AR
-http://virgencitachatuti.com/live/johanrivera1/edZzz3acfW/722195.ts
-#EXTINF:-1 tvg-id="" tvg-name="TELELIMA HD - Canal 12" tvg-logo="https://i.postimg.cc/sxbF0YQk/x1il-MGIJ-w-Qhq-RTL84Zcsrx-w-Jp-X0P7q78x-Xx-Eo5wgqw-MPeqe-Fs-V6a-S-zc9r-Tt-Q59E3s-EJx-HPw-s900-c-k-c.jpg" group-title="PERU",TELELIMA HD - Canal 12
-http://virgencitachatuti.com/live/johanrivera1/edZzz3acfW/722206.ts
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/722195.ts
 #EXTINF:-1 tvg-id="" tvg-name="TYC SPORTS INTERNACIONAL" tvg-logo="https://i.ibb.co/LS29sRf/tycsportinterna.png" group-title="Argentina",TYC SPORTS INTERNACIONAL
-http://virgencitachatuti.com/live/johanrivera1/edZzz3acfW/722820.ts
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/722820.ts
+COLOMBIA TV
+#EXTINF:-1 tvg-id="633dtv.co" tvg-name="Win Sports SD" tvg-logo="https://i.postimg.cc/GmDg8z4c/Dise-o-sin-t-tulo-2.png" group-title="COLOMBIA",Win Sports SD
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/13766.ts
+#EXTINF:-1 tvg-id="Win Sports.co" tvg-name="Win Sports HD" tvg-logo="https://i.postimg.cc/mgjJ63Lx/Dise-o-sin-t-tulo-2.png" group-title="COLOMBIA",Win Sports HD
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/13767.ts
+#EXTINF:-1 tvg-id="" tvg-name="Win Sports + SD" tvg-logo="https://i.postimg.cc/50ssdRRm/Dise-o-sin-t-tulo-5.png" group-title="COLOMBIA",Win Sports + SD
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/13768.ts
+#EXTINF:-1 tvg-id="Win Sports+.co" tvg-name="Win Sports + HD" tvg-logo="https://i.postimg.cc/50ssdRRm/Dise-o-sin-t-tulo-5.png" group-title="COLOMBIA",Win Sports + HD
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/13769.ts
+#EXTINF:-1 tvg-id="" tvg-name="Win Sports + HD" tvg-logo="https://i.postimg.cc/50ssdRRm/Dise-o-sin-t-tulo-5.png" group-title="COLOMBIA",Win Sports + HD
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/13770.ts
+#EXTINF:-1 tvg-id="" tvg-name="Win Sports + FHD" tvg-logo="https://i.postimg.cc/50ssdRRm/Dise-o-sin-t-tulo-5.png" group-title="COLOMBIA",Win Sports + FHD
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/13771.ts
+#EXTINF:-1 tvg-id="" tvg-name="Win Sports + HD" tvg-logo="https://i.postimg.cc/LXncPqFj/Dise-o-sin-t-tulo-5.png" group-title="COLOMBIA",Win Sports + HD
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/13772.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal 1 SD" tvg-logo="https://i.postimg.cc/dtKfsN3x/CANAL-1-CO-removebg-preview.png" group-title="COLOMBIA",Canal 1 SD
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/13773.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal 1 HD" tvg-logo="https://i.postimg.cc/dtKfsN3x/CANAL-1-CO-removebg-preview.png" group-title="COLOMBIA",Canal 1 HD
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/13774.ts
+#EXTINF:-1 tvg-id="Caracol.co" tvg-name="Caracol" tvg-logo="https://i.postimg.cc/g0nVL2S3/Dise-o-sin-t-tulo-7.png" group-title="COLOMBIA",Caracol
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/13775.ts
+#EXTINF:-1 tvg-id="Caracol.co" tvg-name="Caracol HD" tvg-logo="https://i.postimg.cc/tJnBqWQm/Dise-o-sin-t-tulo-7.png" group-title="COLOMBIA",Caracol HD
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/13776.ts
+#EXTINF:-1 tvg-id="Caracol.co" tvg-name="Caracol FHD" tvg-logo="https://i.postimg.cc/tJnBqWQm/Dise-o-sin-t-tulo-7.png" group-title="COLOMBIA",Caracol FHD
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/13777.ts
+#EXTINF:-1 tvg-id="" tvg-name="Caracol Internacional HD" tvg-logo="https://i.ibb.co/GPM1FwT/caracol-int.png" group-title="COLOMBIA",Caracol Internacional HD
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/13778.ts
+#EXTINF:-1 tvg-id="" tvg-name="Caracol Internacional FHD" tvg-logo="https://i.ibb.co/GPM1FwT/caracol-int.png" group-title="COLOMBIA",Caracol Internacional FHD
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/13779.ts
+#EXTINF:-1 tvg-id="RCN.co" tvg-name="RCN" tvg-logo="https://i.ibb.co/WpfqM6LT/Dise-o-sin-t-tulo-11-removebg-preview.png" group-title="COLOMBIA",RCN
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/13780.ts
+#EXTINF:-1 tvg-id="" tvg-name="RCN HD" tvg-logo="https://i.ibb.co/WpfqM6LT/Dise-o-sin-t-tulo-11-removebg-preview.png" group-title="COLOMBIA",RCN HD
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/13781.ts
+#EXTINF:-1 tvg-id="130dtv.co" tvg-name="RCN FHD" tvg-logo="https://i.postimg.cc/bNCvcnNj/Dise-o-sin-t-tulo-11-removebg-preview.png" group-title="COLOMBIA",RCN FHD
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/13782.ts
+#EXTINF:-1 tvg-id="" tvg-name="RCN Internacional" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/RCNNuestraTeleInternacional_2023.png/revision/latest?cb=20240424223607" group-title="COLOMBIA",RCN Internacional
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/13783.ts
+#EXTINF:-1 tvg-id="135dtv.co" tvg-name="RCN Nuestra Tele Int" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/RCNNuestraTeleInternacional_2023.png/revision/latest?cb=20240424223607" group-title="COLOMBIA",RCN Nuestra Tele Int
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/13784.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cable Noticias HD" tvg-logo="https://i.postimg.cc/76HvZBKr/resize.png" group-title="COLOMBIA",Cable Noticias HD
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/13786.ts
+#EXTINF:-1 tvg-id="" tvg-name="El Trece" tvg-logo="https://i.postimg.cc/cC3cyWfs/TRECE.png" group-title="COLOMBIA",El Trece
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/13787.ts
+#EXTINF:-1 tvg-id="" tvg-name="NTN24" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple71/v4/0e/75/bf/0e75bf22-ac97-1460-f4f2-e2dd59b8612c/source/512x512bb.jpg" group-title="COLOMBIA",NTN24
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/13788.ts
+#EXTINF:-1 tvg-id="" tvg-name="RCN Novelas" tvg-logo="https://i.ibb.co/5gTJrS78/Canal-RCNNovelas2019-removebg-preview.png" group-title="COLOMBIA",RCN Novelas
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/13789.ts
+#EXTINF:-1 tvg-id="140dtv.co" tvg-name="Teleantioquia" tvg-logo="https://i.postimg.cc/cCFbC0rn/1000-2.png" group-title="COLOMBIA",Teleantioquia
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/13790.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO | CARACOL HD2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/ba/CaracolHD22025.svg/revision/latest/scale-to-width-down/1000?cb=20250112231503&path-prefix=es" group-title="COLOMBIA",CO | CARACOL HD2
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/13791.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal Capital" tvg-logo="https://i.postimg.cc/KzSShGMh/latest-8.png" group-title="COLOMBIA",Canal Capital
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/13792.ts
+#EXTINF:-1 tvg-id="2M Maroc" tvg-name="City TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/Citytv2024posiblelogo.svg/revision/latest/scale-to-width-down/1000?cb=20240319231356&path-prefix=es" group-title="COLOMBIA",City TV
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/13793.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal TRO" tvg-logo="https://i.postimg.cc/SKwqQLH1/1000-1.png" group-title="COLOMBIA",Canal TRO
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/13794.ts
+#EXTINF:-1 tvg-id="" tvg-name="Señal Colombia" tvg-logo="https://i.postimg.cc/Wzd4YbLJ/latest-7.png" group-title="COLOMBIA",Señal Colombia
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/13795.ts
+#EXTINF:-1 tvg-id="Telecafé.co" tvg-name="Telecafe" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/Telecaf%C3%A9_2020.png/revision/latest/scale-to-width-down/1000?cb=20201219143033&path-prefix=es" group-title="COLOMBIA",Telecafe
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/13796.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telecaribe" tvg-logo="https://i.ibb.co/DPFpvgJN/Dise-o-sin-t-tulo-12-removebg-preview.png" group-title="COLOMBIA",Telecaribe
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/13797.ts
+#EXTINF:-1 tvg-id="TELEMEDELLIN.co" tvg-name="Telemedellin" tvg-logo="https://i.postimg.cc/MTr45zmb/1000.png" group-title="COLOMBIA",Telemedellin
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/13798.ts
+#EXTINF:-1 tvg-id="Telecafé.co" tvg-name="TeleCafe HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/Telecaf%C3%A9_2020.png/revision/latest/scale-to-width-down/1000?cb=20201219143033&path-prefix=es" group-title="COLOMBIA",TeleCafe HD
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/13800.ts
+#EXTINF:-1 tvg-id="142dtv.co" tvg-name="Telecaribe HD" tvg-logo="https://i.postimg.cc/rFz47MCF/Dise-o-sin-t-tulo-12-removebg-preview.png" group-title="COLOMBIA",Telecaribe HD
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/13801.ts
+#EXTINF:-1 tvg-id="141dtv.co" tvg-name="TelePacifico HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/45/Telepac%C3%ADfico2019.png/revision/latest/scale-to-width-down/1000?cb=20210213133514&path-prefix=es" group-title="COLOMBIA",TelePacifico HD
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/13802.ts
+#EXTINF:-1 tvg-id="" tvg-name="City TV HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/Citytv2024posiblelogo.svg/revision/latest/scale-to-width-down/1000?cb=20240319231356&path-prefix=es" group-title="COLOMBIA",City TV HD
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/13805.ts
+#EXTINF:-1 tvg-id="" tvg-name="RADIO VALLENATOS CLASICOS" tvg-logo="https://i.ibb.co/5F5Nxtm/vallenatos.png" group-title="COLOMBIA",RADIO VALLENATOS CLASICOS
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/40740.ts
+#EXTINF:-1 tvg-id="" tvg-name="CALI TV" tvg-logo="https://i.postimg.cc/fRMT9v2V/latest-9.png" group-title="COLOMBIA",CALI TV
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/117012.ts
+URUGUAY
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV URUGUAY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/The_DirecTV_logo.png" group-title="URUGUAY",DIRECTV URUGUAY HD
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/33483.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV URUGUAY 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Logo_VTV_nuevo.png/1200px-Logo_VTV_nuevo.png" group-title="URUGUAY",PPV URUGUAY 1 HD
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/33485.ts
+#EXTINF:-1 tvg-id="" tvg-name="VTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/Logo_VTV_nuevo.png" group-title="URUGUAY",VTV HD
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/33491.ts
+#EXTINF:-1 tvg-id="" tvg-name="VTV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/Logo_VTV_nuevo.png" group-title="URUGUAY",VTV FHD
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/33492.ts
+#EXTINF:-1 tvg-id="" tvg-name="VTV PLUS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_VTV_Plus_nuevo.png" group-title="URUGUAY",VTV PLUS SD
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/33493.ts
+#EXTINF:-1 tvg-id="" tvg-name="VTV PLUS HD (E)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_VTV_Plus_nuevo.png" group-title="URUGUAY",VTV PLUS HD (E)
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/33494.ts
+#EXTINF:-1 tvg-id="" tvg-name="VTV PLUS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_VTV_Plus_nuevo.png" group-title="URUGUAY",VTV PLUS FHD
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/33495.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV CIUDAD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/TVCiudad_logo_2020.png" group-title="URUGUAY",TV CIUDAD HD
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/33497.ts
+#EXTINF:-1 tvg-id="" tvg-name="LA RED HD" tvg-logo="https://i.imgur.com/CGbKsm8.png" group-title="URUGUAY",LA RED HD
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/33500.ts
+DEPORTES PREMIUN
+#EXTINF:-1 tvg-id="ESPN Deportes" tvg-name="ESPN DEPORTES" tvg-logo="https://i.postimg.cc/tRNbSKHV/Dise-o-sin-t-tulo-9.png" group-title="DEPORTES PREMIUM",ESPN DEPORTES
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/591971.ts
+#EXTINF:-1 tvg-id="ESPN2.ar" tvg-name="ESPN 1 HD | AR" tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1708122217.jpg" group-title="DEPORTES PREMIUM",ESPN 1 HD | AR
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/591974.ts
+#EXTINF:-1 tvg-id="ESPN2.ar" tvg-name="ESPN 1 FHD | ARG" tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1708122217.jpg" group-title="DEPORTES PREMIUM",ESPN 1 FHD | ARG
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/591975.ts
+#EXTINF:-1 tvg-id="ESPN.co" tvg-name="ESPN 1 CO FHD" tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1708122217.jpg" group-title="DEPORTES PREMIUM",ESPN 1 CO FHD
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/591976.ts
+#EXTINF:-1 tvg-id="ESPN4.cl" tvg-name="ESPN 1 CH HD" tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1708122217.jpg" group-title="DEPORTES PREMIUM",ESPN 1 CH HD
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/591977.ts
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN 1 MEX HD" tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1708122217.jpg" group-title="DEPORTES PREMIUM",ESPN 1 MEX HD
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/591978.ts
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN 1 MEX FHD" tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1708122217.jpg" group-title="DEPORTES PREMIUM",ESPN 1 MEX FHD
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/591979.ts
+#EXTINF:-1 tvg-id="ESPN.ar" tvg-name="ESPN 2 HD | ARG" tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1708122242.jpg" group-title="DEPORTES PREMIUM",ESPN 2 HD | ARG
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/591980.ts
+#EXTINF:-1 tvg-id="ESPN.ar" tvg-name="ESPN 2 ARG | FHD" tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1708122242.jpg" group-title="DEPORTES PREMIUM",ESPN 2 ARG | FHD
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/591981.ts
+#EXTINF:-1 tvg-id="ESPN 2 HD.co" tvg-name="ESPN 2 CO" tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1708122242.jpg" group-title="DEPORTES PREMIUM",ESPN 2 CO
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/591982.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 | CH" tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1708122242.jpg" group-title="DEPORTES PREMIUM",ESPN 2 | CH
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/591983.ts
+#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2 HD | MX" tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1708122242.jpg" group-title="DEPORTES PREMIUM",ESPN 2 HD | MX
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/591984.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 FHD | MX" tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1708122242.jpg" group-title="DEPORTES PREMIUM",ESPN 2 FHD | MX
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/591985.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 HD | AR" tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1708122257.jpg" group-title="DEPORTES PREMIUM",ESPN 3 HD | AR
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/591986.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 FHD | ARG" tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1708122257.jpg" group-title="DEPORTES PREMIUM",ESPN 3 FHD | ARG
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/591987.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 HD | MEX" tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1708122257.jpg" group-title="DEPORTES PREMIUM",ESPN 3 HD | MEX
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/591988.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 FHD | MX" tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1708122257.jpg" group-title="DEPORTES PREMIUM",ESPN 3 FHD | MX
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/591989.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 4 | SUR" tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1708122275.jpg" group-title="DEPORTES PREMIUM",ESPN 4 | SUR
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/591990.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 4 MX" tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1708122275.jpg" group-title="DEPORTES PREMIUM",ESPN 4 MX
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/591991.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 5" tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1708122309.jpg" group-title="DEPORTES PREMIUM",ESPN 5
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/591992.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 5 SUR" tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1708122309.jpg" group-title="DEPORTES PREMIUM",ESPN 5 SUR
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/591993.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 5" tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1708122309.jpg" group-title="DEPORTES PREMIUM",ESPN 5
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/591994.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 6" tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1708122324.jpg" group-title="DEPORTES PREMIUM",ESPN 6
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/591995.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 7 HD" tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1708122338.jpg" group-title="DEPORTES PREMIUM",ESPN 7 HD
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/591996.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PREMIUM | AR" tvg-logo="https://cdn.storage.foromedios.com/monthly_2022_05/large_es.png.aa439426a82c10606ef062d67bd99b89.png" group-title="DEPORTES PREMIUM",ESPN PREMIUM | AR
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/591997.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PREMIUM | CH" tvg-logo="https://i.postimg.cc/RFfwQLzc/ESP-NPREM.png" group-title="DEPORTES PREMIUM",ESPN PREMIUM | CH
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/591998.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX DEPORTES" tvg-logo="https://i.postimg.cc/YqVqMKFM/FOX-Deportes-logo.png" group-title="DEPORTES PREMIUM",FOX DEPORTES
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/591999.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORT | AR" tvg-logo="https://i.postimg.cc/Qdt5n33x/FO-X.png" group-title="DEPORTES PREMIUM",FOX SPORT | AR
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/592000.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORT FHD | AR" tvg-logo="https://cdn.storage.foromedios.com/monthly_2023_02/large.1336428652_FOXSportsARG(2023-).png.6d03e77ebf8b83b3d2abfe501322ccb2.png" group-title="DEPORTES PREMIUM",FOX SPORT FHD | AR
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/592001.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORT 1 | MX" tvg-logo="https://i.postimg.cc/PqbtWCRv/Fox-SP.png" group-title="DEPORTES PREMIUM",FOX SPORT 1 | MX
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/592002.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORT 1 MX  FHD" tvg-logo="https://i.postimg.cc/PqbtWCRv/Fox-SP.png" group-title="DEPORTES PREMIUM",FOX SPORT 1 MX  FHD
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/592003.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2 | AR" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/0d1w4a1746093306.png" group-title="DEPORTES PREMIUM",FOX SPORTS 2 | AR
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/592004.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORT 2 FHD | ARG" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/0d1w4a1746093306.png" group-title="DEPORTES PREMIUM",FOX SPORT 2 FHD | ARG
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/592005.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2 | MX" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/0d1w4a1746093306.png" group-title="DEPORTES PREMIUM",FOX SPORTS 2 | MX
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/592006.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2 FHD | MX" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/0d1w4a1746093306.png" group-title="DEPORTES PREMIUM",FOX SPORTS 2 FHD | MX
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/592007.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 3 HD | ARG" tvg-logo="https://i.pinimg.com/564x/cf/19/88/cf1988d1f848ee79db3057daa167747c.jpg" group-title="DEPORTES PREMIUM",FOX SPORTS 3 HD | ARG
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/592008.ts
+#EXTINF:-1 tvg-id="FOXSports3.ar" tvg-name="FOX SPORTS 3 FHD | ARG" tvg-logo="https://i.pinimg.com/564x/cf/19/88/cf1988d1f848ee79db3057daa167747c.jpg" group-title="DEPORTES PREMIUM",FOX SPORTS 3 FHD | ARG
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/592009.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORT 3 HD | MX" tvg-logo="https://i.pinimg.com/564x/cf/19/88/cf1988d1f848ee79db3057daa167747c.jpg" group-title="DEPORTES PREMIUM",FOX SPORT 3 HD | MX
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/592010.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 3 FHD | MX" tvg-logo="https://i.pinimg.com/564x/cf/19/88/cf1988d1f848ee79db3057daa167747c.jpg" group-title="DEPORTES PREMIUM",FOX SPORTS 3 FHD | MX
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/592011.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS PREMIUM | MX" tvg-logo="https://i.blogs.es/f8e3f2/foxpre/450_1000.jpg" group-title="DEPORTES PREMIUM",FOX SPORTS PREMIUM | MX
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/592012.ts
+#EXTINF:-1 tvg-id="beIN Sports HDTV (Spanish)" tvg-name="BEIN SPORTS Ñ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK4pFnR3ci-Fk__j5FjvG0Aq6R9LJBnzYRpyDAFqdWtQ&s=10" group-title="DEPORTES PREMIUM",BEIN SPORTS Ñ
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/592013.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS XTRA Ñ" tvg-logo="https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png" group-title="DEPORTES PREMIUM",BEIN SPORTS XTRA Ñ
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/592014.ts
+#EXTINF:-1 tvg-id="" tvg-name="TUDN HD | MX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:DcJHrrHSgvFpsYxqb6g97uaQTd2kE31rPUeDZTeDsjVq&s" group-title="DEPORTES PREMIUM",TUDN HD | MX
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/592016.ts
+#EXTINF:-1 tvg-id="" tvg-name="TUDN MX FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:DcJHrrHSgvFpsYxqb6g97uaQTd2kE31rPUeDZTeDsjVq&s" group-title="DEPORTES PREMIUM",TUDN MX FHD
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/592017.ts
+#EXTINF:-1 tvg-id="" tvg-name="TUDN HD | USA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:DcJHrrHSgvFpsYxqb6g97uaQTd2kE31rPUeDZTeDsjVq&s" group-title="DEPORTES PREMIUM",TUDN HD | USA
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/592018.ts
+#EXTINF:-1 tvg-id="" tvg-name="TUDN HD | USA |" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:DcJHrrHSgvFpsYxqb6g97uaQTd2kE31rPUeDZTeDsjVq&s" group-title="DEPORTES PREMIUM",TUDN HD | USA |
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/592019.ts
+#EXTINF:-1 tvg-id="" tvg-name="TUDNXTRA 1" tvg-logo="https://pbs.twimg.com/profile_images/1163864477856620544/a4jUeZxm_400x400.jpg" group-title="DEPORTES PREMIUM",TUDNXTRA 1
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/592020.ts
+#EXTINF:-1 tvg-id="" tvg-name="TUDNXTRA 2" tvg-logo="https://i.ibb.co/LYvBRgZ/tudnxtr.png" group-title="DEPORTES PREMIUM",TUDNXTRA 2
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/592021.ts
+#EXTINF:-1 tvg-id="" tvg-name="TUDNXTRA 3" tvg-logo="https://i.ibb.co/LYvBRgZ/tudnxtr.png" group-title="DEPORTES PREMIUM",TUDNXTRA 3
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/592022.ts
+#EXTINF:-1 tvg-id="" tvg-name="TUDNXTRA 4" tvg-logo="https://i.ibb.co/LYvBRgZ/tudnxtr.png" group-title="DEPORTES PREMIUM",TUDNXTRA 4
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/592023.ts
+#EXTINF:-1 tvg-id="" tvg-name="TUDNXTRA 5" tvg-logo="https://i.ibb.co/LYvBRgZ/tudnxtr.png" group-title="DEPORTES PREMIUM",TUDNXTRA 5
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/592024.ts
+#EXTINF:-1 tvg-id="" tvg-name="TUDNXTRA 6" tvg-logo="https://i.imgur.com/d5ieH3U.jpg" group-title="DEPORTES PREMIUM",TUDNXTRA 6
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/592025.ts
+#EXTINF:-1 tvg-id="" tvg-name="TUDNXTRA 7" tvg-logo="https://i.imgur.com/d5ieH3U.jpg" group-title="DEPORTES PREMIUM",TUDNXTRA 7
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/592026.ts
+#EXTINF:-1 tvg-id="" tvg-name="TUDNXTRA 8" tvg-logo="https://i.ibb.co/LYvBRgZ/tudnxtr.png" group-title="DEPORTES PREMIUM",TUDNXTRA 8
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/592027.ts
+#EXTINF:-1 tvg-id="" tvg-name="TUDNXTRA 9" tvg-logo="https://i.ibb.co/LYvBRgZ/tudnxtr.png" group-title="DEPORTES PREMIUM",TUDNXTRA 9
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/592028.ts
+#EXTINF:-1 tvg-id="" tvg-name="TUDNXTRA 10" tvg-logo="https://i.ibb.co/LYvBRgZ/tudnxtr.png" group-title="DEPORTES PREMIUM",TUDNXTRA 10
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/592029.ts
+#EXTINF:-1 tvg-id="" tvg-name="TUDNXTRA 11" tvg-logo="https://i.imgur.com/d5ieH3U.jpg" group-title="DEPORTES PREMIUM",TUDNXTRA 11
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/592030.ts
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORT AR" tvg-logo="https://i.postimg.cc/tJ02zqWP/descarga-(16).png" group-title="DEPORTES PREMIUM",TNT SPORT AR
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/592031.ts
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORT | CH" tvg-logo="https://1000logos.net/wp-content/uploads/2025/08/TNT-Sports-Logo.jpg" group-title="DEPORTES PREMIUM",TNT SPORT | CH
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/592032.ts
+#EXTINF:-1 tvg-id="" tvg-name="TNT PREMIUM | CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCZKL2Hi_74uu9hgOVO5p4WvTqt1FSH2x2NxJOwYyPRaQSlPALKx2Mgmmp&s=10" group-title="DEPORTES PREMIUM",TNT PREMIUM | CH
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/592033.ts
+#EXTINF:-1 tvg-id="" tvg-name="CLARO SPORT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu7t2JcQN0ChaH4iY9eAcsV9MpcZIi8NysBQ&s" group-title="DEPORTES PREMIUM",CLARO SPORT
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/592034.ts
+#EXTINF:-1 tvg-id="" tvg-name="CLARO SPORTS 2" tvg-logo="https://i.postimg.cc/Y0HQbqq7/Claro-Sports-logo-svg.png" group-title="DEPORTES PREMIUM",CLARO SPORTS 2
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/592035.ts
+#EXTINF:-1 tvg-id="" tvg-name="DSPORTS | AR" tvg-logo="https://ipuntotv.com/IMAGES/Dsports-logo.jpg" group-title="DEPORTES PREMIUM",DSPORTS | AR
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/592036.ts
+#EXTINF:-1 tvg-id="" tvg-name="DSPORTS  | CO" tvg-logo="https://ipuntotv.com/IMAGES/Dsports-logo.jpg" group-title="DEPORTES PREMIUM",DSPORTS  | CO
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/592037.ts
+#EXTINF:-1 tvg-id="" tvg-name="DSPORTS 2" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTI4X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1718310567007" group-title="DEPORTES PREMIUM",DSPORTS 2
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/592038.ts
+#EXTINF:-1 tvg-id="" tvg-name="DSPORTS+" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTM5X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1785741343782" group-title="DEPORTES PREMIUM",DSPORTS+
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/592039.ts
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS | BUNDESLIGA" tvg-logo="https://i.postimg.cc/pXBxg3ks/3840px-Sky-Sport-Logo-2026-svg.png" group-title="DEPORTES PREMIUM",SKY SPORTS | BUNDESLIGA
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/592040.ts
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS | LA LIGA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKBCa6SydXxbOh3qbRLTAWW6FOnRo5nXa9kw&s" group-title="DEPORTES PREMIUM",SKY SPORTS | LA LIGA
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/592041.ts
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT | PREMIER LEAGUE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYABthI6mNEBc0bLSK5k1fldp-eXtMKKXGhw&s" group-title="DEPORTES PREMIUM",SKY SPORT | PREMIER LEAGUE
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/592042.ts
+#EXTINF:-1 tvg-id="" tvg-name="AYM SPORTS" tvg-logo="https://aymsports.net/wp-content/themes/aym-sports/assets/images/logo_alter.png" group-title="DEPORTES PREMIUM",AYM SPORTS
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/592044.ts
+#EXTINF:-1 tvg-id="" tvg-name="UFC Network USA" tvg-logo="https://i.postimg.cc/FHdNqDkv/uf.png" group-title="DEPORTES PREMIUM",UFC Network USA
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/592045.ts
+
 
 
 
