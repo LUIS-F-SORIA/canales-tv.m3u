@@ -3,27 +3,16 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/globetvapp/epg/main/Colombia/colombia1.xml
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml
 
-#EXTINF:-1 tvg-id="" tvg-name="GRAN HERMANO 24/7" tvg-logo="https://media.a24.com/p/bd593ee64bc53c172578822aa7ecc39b/adjuntos/296/imagenes/009/671/0009671653/1200x675/smart/gran-hermano-generacion-dorada.jpg" group-title="GRAN HERMANO ARGENTINA",GRAN HERMANO 24/7
-https://alltvmx.com/live/walther_rod/Rodriguez2024W/749367.ts
-#EXTINF:-1 tvg-id="" tvg-name="GRAN HERMANO CAM 1" tvg-logo="https://media.a24.com/p/bd593ee64bc53c172578822aa7ecc39b/adjuntos/296/imagenes/009/671/0009671653/1200x675/smart/gran-hermano-generacion-dorada.jpg" group-title="GRAN HERMANO ARGENTINA",GRAN HERMANO CAM 1
-https://alltvmx.com/live/walther_rod/Rodriguez2024W/749368.ts
-#EXTINF:-1 tvg-id="" tvg-name="GRAN HERMANO CAM 2" tvg-logo="https://media.a24.com/p/bd593ee64bc53c172578822aa7ecc39b/adjuntos/296/imagenes/009/671/0009671653/1200x675/smart/gran-hermano-generacion-dorada.jpg" group-title="GRAN HERMANO ARGENTINA",GRAN HERMANO CAM 2
-https://alltvmx.com/live/walther_rod/Rodriguez2024W/749369.ts
-#EXTINF:-1 tvg-id="" tvg-name="GRAN HERMANO CAM 3" tvg-logo="https://media.a24.com/p/bd593ee64bc53c172578822aa7ecc39b/adjuntos/296/imagenes/009/671/0009671653/1200x675/smart/gran-hermano-generacion-dorada.jpg" group-title="GRAN HERMANO ARGENTINA",GRAN HERMANO CAM 3
-https://alltvmx.com/live/walther_rod/Rodriguez2024W/749370.ts
-#EXTINF:-1 tvg-id="" tvg-name="GRAN HERMANO MULTICAMARA" tvg-logo="https://media.a24.com/p/bd593ee64bc53c172578822aa7ecc39b/adjuntos/296/imagenes/009/671/0009671653/1200x675/smart/gran-hermano-generacion-dorada.jpg" group-title="GRAN HERMANO ARGENTINA",GRAN HERMANO MULTICAMARA
-https://alltvmx.com/live/walther_rod/Rodriguez2024W/749371.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="GRAN HERMANO MULTICAMARA" tvg-logo="http://novatv.us:80/images/d8o5TFicSxfWZgbfJh6qA8x88hdQtEoa8xT_2xfTVoKkSSE7cUmgEuJTR_OtReS8-t8iyRlmPAzw7NXepNYwI2bQ56BQfXOZG8Iw19pdFmVYzkq_jCrkDktmqsgbfTb4lTOoZaf1yj33PakmWkrdTg.jpg" group-title="GRAN HERMANO ARGENTINA",GRAN HERMANO MULTICAMARA
-http://jumangis.cloud:2082/c3Y4YmdUSTdZSStSSjVrVnUyalIvRjZaNjYwM2tFejFGQlRNK2FOU09Bbz0
-#EXTINF:-1 tvg-id="" tvg-name="GRAN HERMANO || CAM 1" tvg-logo="http://novatv.us:80/images/d8o5TFicSxfWZgbfJh6qA8x88hdQtEoa8xT_2xfTVoKkSSE7cUmgEuJTR_OtReS8-t8iyRlmPAzw7NXepNYwI2bQ56BQfXOZG8Iw19pdFmVYzkq_jCrkDktmqsgbfTb4lTOoZaf1yj33PakmWkrdTg.jpg" group-title="GRAN HERMANO ARGENTINA",GRAN HERMANO || CAM 1
-http://jumangis.cloud:2082/c3Y4YmdUSTdZSStSSjVrVnUyalIvUGJ6c3piZ1p2UmFUdEZvYUhLc0RxRT0
-#EXTINF:-1 tvg-id="" tvg-name="GRAN HERMANO || CAM 2" tvg-logo="http://novatv.us:80/images/d8o5TFicSxfWZgbfJh6qA8x88hdQtEoa8xT_2xfTVoKkSSE7cUmgEuJTR_OtReS8-t8iyRlmPAzw7NXepNYwI2bQ56BQfXOZG8Iw19pdFmVYzkq_jCrkDktmqsgbfTb4lTOoZaf1yj33PakmWkrdTg.jpg" group-title="GRAN HERMANO ARGENTINA",GRAN HERMANO || CAM 2
-http://jumangis.cloud:2082/c3Y4YmdUSTdZSStSSjVrVnUyalIvTkEwRmJsSktZZ1hZMExJNGR1NlJhQT0
-#EXTINF:-1 tvg-id="" tvg-name="GRAN HERMANO || CAM 3" tvg-logo="http://novatv.us:80/images/d8o5TFicSxfWZgbfJh6qA8x88hdQtEoa8xT_2xfTVoKkSSE7cUmgEuJTR_OtReS8-t8iyRlmPAzw7NXepNYwI2bQ56BQfXOZG8Iw19pdFmVYzkq_jCrkDktmqsgbfTb4lTOoZaf1yj33PakmWkrdTg.jpg" group-title="GRAN HERMANO ARGENTINA",GRAN HERMANO || CAM 3
-http://jumangis.cloud:2082/c3Y4YmdUSTdZSStSSjVrVnUyalIvRmRvT3hHOUVEQnM2TUhJYy9lWEpZdz0
-#EXTINF:-1 tvg-id="" tvg-name="GRAN HERMANO || CAM 4" tvg-logo="http://novatv.us:80/images/d8o5TFicSxfWZgbfJh6qA8x88hdQtEoa8xT_2xfTVoKkSSE7cUmgEuJTR_OtReS8-t8iyRlmPAzw7NXepNYwI2bQ56BQfXOZG8Iw19pdFmVYzkq_jCrkDktmqsgbfTb4lTOoZaf1yj33PakmWkrdTg.jpg" group-title="GRAN HERMANO ARGENTINA",GRAN HERMANO || CAM 4
-http://jumangis.cloud:2082/c3Y4YmdUSTdZSStSSjVrVnUyalIvRXJHMGhENFFSL0ZRbU9DSEJNWnRrTT0
+#EXTINF:-1 tvg-id="" tvg-name="TV Realitys-GRAN HERMANO 24/H" tvg-logo="http://cvr.iks.cc/cvr/stream/reality/gharg26.png" group-title="GRAN HERMANO ARGENTINA",TV Realitys-GRAN HERMANO 24/H
+http://flexlive.lat:8080/live/SoldiamarMatamoros1024/e4ExXBdcnJ67/443643.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Realitys-CAMARA 1" tvg-logo="http://cvr.iks.cc/cvr/stream/reality/gharg26.png" group-title="GRAN HERMANO ARGENTINA",TV Realitys-CAMARA 1
+http://flexlive.lat:8080/live/SoldiamarMatamoros1024/e4ExXBdcnJ67/443644.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Realitys-CAMARA 2" tvg-logo="http://cvr.iks.cc/cvr/stream/reality/gharg26.png" group-title="GRAN HERMANO ARGENTINA",TV Realitys-CAMARA 2
+http://flexlive.lat:8080/live/SoldiamarMatamoros1024/e4ExXBdcnJ67/443645.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Realitys-CAMARA 3" tvg-logo="http://cvr.iks.cc/cvr/stream/reality/gharg26.png" group-title="GRAN HERMANO ARGENTINA",TV Realitys-CAMARA 3
+http://flexlive.lat:8080/live/SoldiamarMatamoros1024/e4ExXBdcnJ67/443646.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Realitys-CAMARA 1" tvg-logo="http://cvr.iks.cc/cvr/stream/reality/lcdlfusls26.png" group-title="GRAN HERMANO ARGENTINA",TV Realitys-CAMARA 1
+http://flexlive.lat:8080/live/SoldiamarMatamoros1024/e4ExXBdcnJ67/443648.ts
 TV ARGENTINA
 #EXTINF:-1 tvg-id="" tvg-name="TELEFE" tvg-logo="https://i.postimg.cc/x8MSJbZX/330px-Telefe-(nuevo-logo).png" group-title="Argentina",TELEFE HD OPC 1
 http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
@@ -183,12 +172,10 @@ https://alltvmx.com/live/Victoria89/Victoria89/487226.ts
 DEPORTES SUR
 #EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://i.postimg.cc/J0Yv7Yqn/DS1.jpg" group-title="DEPORTES 2026 SUR",DIRECTV HD OPC 1
 http://38.187.7.252:8000/play/a03d/index.m3u8
-#EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://i.postimg.cc/J0Yv7Yqn/DS1.jpg" group-title="DEPORTES 2026 SUR",DIRECTV HD OPC 2
-http://190.117.20.37:8000/play/a08d/index.m3u
 #EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://i.postimg.cc/J0Yv7Yqn/DS1.jpg" group-title="DEPORTES 2026 SUR",DIRECTV HD
-http://138.121.113.175:8000/play/a0cj/index.m3u8
+http://181.78.82.130:8000/play/a0r5/index.m3u8
 #EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://i.postimg.cc/J0Yv7Yqn/DS1.jpg" group-title="DEPORTES 2026 SUR",DIRECTV HD 2
-http://138.121.113.175:8000/play/a0ca/index.m3u8
+http://181.78.82.130:8000/play/a0r4/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Directv Sports Perú" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple115/v4/4e/22/03/4e22035c-a29b-4f4e-9382-1f68860ec97e/source/512x512bb.jpg" group-title="DEPORTES 2026 SUR",Directv Sports Perú
 https://alltvmx.com/live/walther_rod/Rodriguez2024W/9462.ts
