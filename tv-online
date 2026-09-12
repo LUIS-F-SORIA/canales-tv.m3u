@@ -3,16 +3,16 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/globetvapp/epg/main/Colombia/colombia1.xml
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml
 
-#EXTINF:-1 tvg-id="" tvg-name="TV Realitys-GRAN HERMANO 24/H" tvg-logo="http://cvr.iks.cc/cvr/stream/reality/gharg26.png" group-title="GRAN HERMANO ARGENTINA",TV Realitys-GRAN HERMANO 24/H
-http://flexlive.lat:8080/live/SoldiamarMatamoros1024/e4ExXBdcnJ67/443643.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Realitys-CAMARA 1" tvg-logo="http://cvr.iks.cc/cvr/stream/reality/gharg26.png" group-title="GRAN HERMANO ARGENTINA",TV Realitys-CAMARA 1
-http://flexlive.lat:8080/live/SoldiamarMatamoros1024/e4ExXBdcnJ67/443644.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Realitys-CAMARA 2" tvg-logo="http://cvr.iks.cc/cvr/stream/reality/gharg26.png" group-title="GRAN HERMANO ARGENTINA",TV Realitys-CAMARA 2
-http://flexlive.lat:8080/live/SoldiamarMatamoros1024/e4ExXBdcnJ67/443645.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Realitys-CAMARA 3" tvg-logo="http://cvr.iks.cc/cvr/stream/reality/gharg26.png" group-title="GRAN HERMANO ARGENTINA",TV Realitys-CAMARA 3
-http://flexlive.lat:8080/live/SoldiamarMatamoros1024/e4ExXBdcnJ67/443646.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Realitys-CAMARA 1" tvg-logo="http://cvr.iks.cc/cvr/stream/reality/lcdlfusls26.png" group-title="GRAN HERMANO ARGENTINA",TV Realitys-CAMARA 1
-http://flexlive.lat:8080/live/SoldiamarMatamoros1024/e4ExXBdcnJ67/443648.ts
+#EXTINF:-1 tvg-id="" tvg-name="GRAN HERMANO 24/7" tvg-logo="https://media.a24.com/p/bd593ee64bc53c172578822aa7ecc39b/adjuntos/296/imagenes/009/671/0009671653/1200x675/smart/gran-hermano-generacion-dorada.jpg" group-title="GRAN HERMANO ARGENTINA",GRAN HERMANO 24/7
+https://alltvmx.com/live/walther_rod/Rodriguez2024W/749367.ts
+#EXTINF:-1 tvg-id="" tvg-name="GRAN HERMANO CAM 1" tvg-logo="https://media.a24.com/p/bd593ee64bc53c172578822aa7ecc39b/adjuntos/296/imagenes/009/671/0009671653/1200x675/smart/gran-hermano-generacion-dorada.jpg" group-title="GRAN HERMANO ARGENTINA",GRAN HERMANO CAM 1
+https://alltvmx.com/live/walther_rod/Rodriguez2024W/749368.ts
+#EXTINF:-1 tvg-id="" tvg-name="GRAN HERMANO CAM 2" tvg-logo="https://media.a24.com/p/bd593ee64bc53c172578822aa7ecc39b/adjuntos/296/imagenes/009/671/0009671653/1200x675/smart/gran-hermano-generacion-dorada.jpg" group-title="GRAN HERMANO ARGENTINA",GRAN HERMANO CAM 2
+https://alltvmx.com/live/walther_rod/Rodriguez2024W/749369.ts
+#EXTINF:-1 tvg-id="" tvg-name="GRAN HERMANO CAM 3" tvg-logo="https://media.a24.com/p/bd593ee64bc53c172578822aa7ecc39b/adjuntos/296/imagenes/009/671/0009671653/1200x675/smart/gran-hermano-generacion-dorada.jpg" group-title="GRAN HERMANO ARGENTINA",GRAN HERMANO CAM 3
+https://alltvmx.com/live/walther_rod/Rodriguez2024W/749370.ts
+#EXTINF:-1 tvg-id="" tvg-name="GRAN HERMANO MULTICAMARA" tvg-logo="https://media.a24.com/p/bd593ee64bc53c172578822aa7ecc39b/adjuntos/296/imagenes/009/671/0009671653/1200x675/smart/gran-hermano-generacion-dorada.jpg" group-title="GRAN HERMANO ARGENTINA",GRAN HERMANO MULTICAMARA
+https://alltvmx.com/live/walther_rod/Rodriguez2024W/749371.ts
 TV ARGENTINA
 #EXTINF:-1 tvg-id="" tvg-name="TELEFE" tvg-logo="https://i.postimg.cc/x8MSJbZX/330px-Telefe-(nuevo-logo).png" group-title="Argentina",TELEFE HD OPC 1
 http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
